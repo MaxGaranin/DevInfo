@@ -7,6 +7,9 @@ http://www.ben-morris.com/why-the-generic-repository-is-just-a-lazy-anti-pattern
 
 CQRS
 ----
+Command and Query Responsibility Segregation (CQRS) на практике
+http://blog.byndyu.ru/2014/07/command-and-query-responsibility.html
+
 –еализаци€ CQRS в .NET. „асть 1 Ц шаблоны CQS и CQRS
 http://andrey.moveax.ru/post/patterns-cqrs-part1-introducing.aspx
 

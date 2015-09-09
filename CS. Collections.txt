@@ -14,8 +14,23 @@ LINQ
 http://ferrum-box.blogspot.ru/2013/09/linq.html
 
 
+IQueryable
+----------
+Принципы работы IQueryable и LINQ-провайдеров данных
+http://habrahabr.ru/post/256821/
+
+IEnumerable<T> и IQueryable<T>, в чем разница? (отличные комментарии)
+http://habrahabr.ru/post/108407/
+
+Expressions в C# — impress yourself!
+http://habrahabr.ru/post/83169/
+
+
 Read-only Collections
 ---------------------
+C#: коллекции только для чтения и LSP
+http://habrahabr.ru/post/256605/
+
 Улучшаем LINQ для работы с IReadOnly-коллекциями
 http://habrahabr.ru/post/237389/
 

@@ -1,4 +1,11 @@
 
+Общее
+-----
+Интересные заметки по C# и CLR
+http://habrahabr.ru/post/256819/
+http://habrahabr.ru/post/260047/
+
+
 Что нового
 ----------
 Введение в .NET Core
@@ -53,10 +60,10 @@ http://habrahabr.ru/post/210108/
 http://aakinshin.blogspot.ru/2013/09/dotnet-benchmark-ferrum-box-linq.html
 
 
-Оптимизация
------------
-Field vs Property. Optimisation of performance
-http://stackoverflow.com/questions/9842917/field-vs-property-optimisation-of-performance
+Сериализация
+------------
+Надлежащая оценка производительности для диагностирования и устранения проблем, возникающих при .Net-сериализации
+http://habrahabr.ru/post/258577/
 
 
 Enum

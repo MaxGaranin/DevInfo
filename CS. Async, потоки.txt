@@ -40,6 +40,9 @@ http://www.enterra.ru/blog/parallel-programming-in-net-framework-4-0/
 
 UI (WPF, WinForms)
 ------------------
+Reporting Progress from Tasks
+http://blog.stephencleary.com/2010/06/reporting-progress-from-tasks.html
+
 Create MVVM Background Tasks with Progress Reporting
 http://www.codeproject.com/Articles/252392/Create-MVVM-Background-Tasks-with-Progress-Reporti
 

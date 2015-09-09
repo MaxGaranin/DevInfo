@@ -1,6 +1,18 @@
 
 Dapper
 ------
+! Очень важная статья. Там же есть пример приложения ASP.NET MVC. Вообще надо взять сайт на заметку.
+ORMs: Don't Reinvent the Wheel
+http://www.contentedcoder.com/2013/05/orms-don-reinvent-wheel.html
+Весь цикл статей и учебный проект
+http://www.contentedcoder.com/2012/11/aspnet-10-years-on-my-journey.html
+
+Data access layer with Dapper as wrapper IDbConnection (проект)
+https://github.com/Pencroff/Dapper-DAL
+
+DapperContext (проект)
+http://wcabus.github.io/DapperContext/
+
 That annoying INSERT problem, getting data into the DB
 http://samsaffron.com/archive/2012/01/16/that-annoying-insert-problem-getting-data-into-the-db-using-dapper
 

@@ -8,3 +8,10 @@ http://habrahabr.ru/post/149872/
 
 Фреймворки JavaScript. Как изучить их по-быстрому
 http://habrahabr.ru/company/piter/blog/257923/
+
+
+Knockout
+--------
+http://learn.knockoutjs.com/#/?tutorial=intro
+http://ruseller.com/lessons.php?rub=32&id=1691
+

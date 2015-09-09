@@ -8,9 +8,8 @@ http://habrahabr.ru/post/264907/
 
 Cache
 -----
-NHibernate and Caching - Part - 1
+NHibernate and Caching
 http://www.gitshah.com/2012/02/nhibernate-and-caching-part-1.html
-NHibernate and Caching - Part - 2
 http://www.gitshah.com/2012/03/nhibernate-and-caching-part-2.html
 
 NHibernate Second Level Caching Implementation

@@ -1,6 +1,9 @@
 
 Окна
 ----
+WPF: Нестандартное окно
+http://habrahabr.ru/post/158561/
+
 Save and Restore WPF Window Size, Position, and/or State
 http://www.codeproject.com/Articles/50761/Save-and-Restore-WPF-Window-Size-Position-and-or-S
 
@@ -45,6 +48,11 @@ http://msdn.microsoft.com/ru-ru/magazine/gg983481.aspx
 
 Create Custom DateTimePicker Column
 http://www.telerik.com/help/wpf/gridview-how-to-create-date-time-picker-column.html
+
+-- Customization
+--
+WPF DataGrid Custommization using Style and Template
+http://www.codeproject.com/Articles/586132/WPF-DataGrid-Custommization-using-Style-and-Templa
 
 -- Валидация
 --

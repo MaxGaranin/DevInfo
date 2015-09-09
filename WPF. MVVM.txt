@@ -74,6 +74,10 @@ http://www.codeproject.com/Articles/36745/Showing-Dialogs-When-Using-the-MVVM-Pa
 Open a new Window in MVVM (в ответе неплохой пример передачи фабрики во ViewModel для открытия View)
 http://stackoverflow.com/questions/16652501/open-a-new-window-in-mvvm
 
+Achieving MVVM purity using an Inversion of Control (IoC) container
+http://www.developerhandbook.com/desktop-developer/achieving-mvvm-purity-using-an-inversion-of-control-ioc-container-part-1-of-2/
+http://www.developerhandbook.com/desktop-developer/achieving-mvvm-purity-using-an-inversion-of-control-ioc-container-part-2-of-2/
+
 MVVM and DialogResult with no code-behind
 http://blog.excastle.com/2010/07/25/mvvm-and-dialogresult-with-no-code-behind/
 
@@ -90,8 +94,8 @@ http://stackoverflow.com/questions/1098023/how-have-you-successfully-implemented
 
 Закрытие окна
 -------------
-How to close a View from a ViewModel ?
-http://www.japf.fr/2009/09/how-to-close-a-view-from-a-viewmodel/
+WPF - Attached behaviors (Closing View from ViewModel)
+http://www.shujaat.net/2010/08/attached-behaviors.html
 
 
 MVVM Instantiations
