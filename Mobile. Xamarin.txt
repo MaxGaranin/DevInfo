@@ -1,0 +1,3 @@
+
+Пишем Android-игру на Xamarin+MonoGame (C#)
+http://habrahabr.ru/post/229951/

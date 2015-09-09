@@ -1,0 +1,21 @@
+
+Ускоряем разработку с помощью ReSharper
+http://sonyks2007.blogspot.ru/2014/02/resharper.html
+
+Работаем с кнопкой Control в Visual Studio + Resharper
+http://habrahabr.ru/post/245095/
+
+Save or Save To in ReSharper Options
+http://blog.jetbrains.com/dotnet/2012/09/21/save-or-save-to-in-resharper-options/
+
+Есть ли жизнь без Resharper-а?
+http://habrahabr.ru/post/189024/
+
+Есть ли жизнь без Resharper-а — 2?
+http://habrahabr.ru/post/189200/
+
+14 возможностей ReSharper по навигации и редактированию
+http://habrahabr.ru/post/139997/
+
+ReSharper 8
+http://habrahabr.ru/company/JetBrains/blog/186966/

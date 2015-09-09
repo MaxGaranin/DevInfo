@@ -1,0 +1,241 @@
+
+Окна
+----
+Save and Restore WPF Window Size, Position, and/or State
+http://www.codeproject.com/Articles/50761/Save-and-Restore-WPF-Window-Size-Position-and-or-S
+
+Find out Size (and position) of the taskbar
+http://winsharp93.wordpress.com/2009/06/29/find-out-size-and-position-of-the-taskbar/
+
+
+DataGrid
+---------
+-- Общее
+--
+~ Styling Microsoft’s WPF datagrid (Jaime Rodriguez) - отличный общий обзор настройки грида
+http://blogs.msdn.com/b/jaimer/archive/2009/01/20/styling-microsoft-s-wpf-datagrid.aspx
+
+WPF DATAGRID - DETECTING THE COLUMN, CELL AND ROW THAT HAS BEEN CLICKED
+http://www.scottlogic.com/blog/2008/12/02/wpf-datagrid-detecting-clicked-cell-and-row.html
+
+Button Command not binding to ViewModel in DatGrid
+http://stackoverflow.com/questions/6384821/button-command-not-binding-to-viewmodel-in-datgrid
+
+WPF DataGrid Practical Examples
+http://www.codeproject.com/Articles/30905/WPF-DataGrid-Practical-Examples
+
+WPF Dynamically Generated DataGrid (Динамическое создание столбцов таблицы)
+http://paulstovell.com/blog/dynamic-datagrid
+
+-- Столбцы с комбобоксами
+--
+Using combo boxes with the WPF DataGrid
+http://joemorrison.org/blog/2009/02/17/excedrin-headache-35401281-using-combo-boxes-with-the-wpf-datagrid/
+
+Binding ItemsSource of a ComboBoxColumn in WPF DataGrid
+http://stackoverflow.com/questions/5409259/binding-itemssource-of-a-comboboxcolumn-in-wpf-datagrid
+
+MultiColumn ComboBox in WPF DataGrid
+http://gauravsofts.blogspot.ru/2013/05/multicolumn-combobox-in-wpf-datagrid.html
+
+-- Столбцы с датой
+--
+Повышение удобства использования WPF-элемента DataGrid с помощью шаблонов столбцов (Джулия Лерман)
+http://msdn.microsoft.com/ru-ru/magazine/gg983481.aspx
+
+Create Custom DateTimePicker Column
+http://www.telerik.com/help/wpf/gridview-how-to-create-date-time-picker-column.html
+
+-- Валидация
+--
+Validation in a WPF DataGrid
+http://blogs.u2u.be/diederik/post/2009/09/30/Validation-in-a-WPF-DataGrid.aspx
+
+Validation in WPF Toolkit’s DataGrid
+http://www.codeproject.com/Articles/272667/Validation-in-WPF-Toolkit-s-DataGrid
+
+WPF Datagrid Cell with Validation Error Style
+http://stackoverflow.com/questions/2439827/wpf-datagrid-cell-with-validation-error-style
+
+-- Производительность
+--
+WPF DataGrid rendering is very slow
+http://www.thebestcsharpprogrammerintheworld.com/blogs/wpf-datagrid-rendering-is-very-slow.aspx
+
+WPF DataGrid Navigation Paging Up Down Sideways is slow virtualization
+http://www.thebestcsharpprogrammerintheworld.com/blogs/WPF-DataGrid-Navigation-Paging-Up-Down-Sideways-is-slow-virtuaization.aspx
+
+-- Вставка из буфера обмена
+--
+WPF datagrid pasting
+http://stackoverflow.com/questions/4118617/wpf-datagrid-pasting
+
+An alternate implementation to Paste data into the WPF DataGrid
+http://www.codeproject.com/Tips/246855/An-alternate-implementation-to-Paste-data-into-the
+
+WPF DataGrid - Clipboard Paste Sample
+http://blogs.msdn.com/b/vinsibal/archive/2008/09/19/wpf-datagrid-clipboard-paste-sample.aspx
+
+-- Экспорт
+--
+Экспорт в Excel из Silverlight/WPF DataGrid
+http://outcoldman.com/ru/archive/2010/04/20/%D1%8D%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82-%D0%B2-excel-%D0%B8%D0%B7-silverlight-wpf-datagrid/
+
+-- Различные настройки отображения
+--
+DataGrid row content vertical alignment
+http://stackoverflow.com/questions/3981250/datagrid-row-content-vertical-alignment/3995839#3995839
+
+-- CollectionViewSource
+--
+Working with CollectionView in WPF(Filter,Sort, Group, Navigate)
+http://www.abhisheksur.com/2010/08/woring-with-icollectionviewsource-in.html
+
+WPF’s CollectionViewSource
+http://www.zagstudio.com/blog/387#.Ui_s6JLJTCa
+
+Re-sort WPF DataGrid after bounded Data has changed
+http://stackoverflow.com/questions/11505283/re-sort-wpf-datagrid-after-bounded-data-has-changed
+
+
+Telerik RadGridView
+-------------------
+How To Boost RadGridView Performance for WPF and Silverlight Using Lightweight templates
+http://www.telerik.com/blogs/how-to-boost-radgridview-performance-for-wpf-and-silverlight-using-lightweight-templates
+
+
+Виртуализация
+-------------
+Виртуализация данных в WPF
+http://habrahabr.ru/post/208792/
+
+Data virtualization
+http://www.zagstudio.com/blog/498#.UtS7i5LJTh5
+
+WPF: Using a VirtualizingStackPanel to Improve ComboBox Performance
+http://vbcity.com/blogs/xtab/archive/2009/12/15/wpf-using-a-virtualizingstackpanel-to-improve-combobox-performance.aspx
+
+Оптимизация производительности: элементы управления
+http://msdn.microsoft.com/ru-ru/library/cc716879(v=vs.110).aspx
+
+
+Layout
+------
+wpf gridlines - changing style
+http://stackoverflow.com/questions/3789256/wpf-gridlines-changing-style
+
+Common Mistakes in Layout
+http://stackoverflow.com/questions/3216020/how-to-use-dockstyle-fill-for-standard-controls-in-wpf
+
+
+ContentControl
+--------------
+WPF MVVM Why use ContentControl + DataTemplate Views rather than straight XAML Window Views?
+http://stackoverflow.com/questions/19864891/wpf-mvvm-why-use-contentcontrol-datatemplate-views-rather-than-straight-xaml-w
+
+
+ItemsControl
+------------
+A simple ItemsControl example
+http://www.wpf-tutorial.com/list-controls/itemscontrol/
+
+WPF ItemsControl Example
+http://rachel53461.wordpress.com/2011/09/17/wpf-itemscontrol-example/
+
+ItemsControl: A to Z (серия статей от Dr.WPF)
+http://drwpf.com/blog/itemscontrol-a-to-z/
+
+
+TextBlock, Label
+----------------
+Differences between Label and TextBlock
+http://joshsmithonwpf.wordpress.com/2007/07/04/differences-between-label-and-textblock/
+
+
+ComboBox
+--------
+How to bind an enum to a combobox control in WPF? (ValueDescription Container)
+http://stackoverflow.com/questions/6145888/how-to-bind-an-enum-to-a-combobox-control-in-wpf
+Databinding an enum property to a ComboBox in WPF (Markup Extension)
+http://stackoverflow.com/questions/58743/databinding-an-enum-property-to-a-combobox-in-wpf
+
+! WPF - Editable ComboBox with DataTemplate
+http://www.shujaat.net/2010/08/wpf-editable-combobox-with-datatemplate.html
+
+
+RadioButton
+-----------
+How to bind RadioButtons to an enum?
+http://stackoverflow.com/questions/397556/how-to-bind-radiobuttons-to-an-enum
+
+
+Button
+--------
+Link button in wpf
+http://stackoverflow.com/questions/780426/link-button-in-wpf
+
+
+TabControl
+----------
+Load UserControl in TabItem
+http://stackoverflow.com/questions/9796174/load-usercontrol-in-tabitem
+
+
+TreeView
+--------
+TreeView and HierarchicalDataTemplate, Step-by-Step
+http://blogs.msdn.com/b/mikehillberg/archive/2009/10/30/treeview-and-hierarchicaldatatemplate-step-by-step.aspx
+
+Basic Understanding of Tree View in WPF
+http://www.codeproject.com/Articles/124644/Basic-Understanding-of-Tree-View-in-WPF
+
+How to: Make a Hierarchical treeview binding in WPF
+http://blog.clauskonrad.net/2011/04/how-to-make-hierarchical-treeview.html
+
+
+ReadOnly контейнеры
+-------------------
+How to set IsReadOnly / IsEnabled on entire container like Panel or GroupBox using XAML?
+http://stackoverflow.com/questions/10051226/how-to-set-isreadonly-isenabled-on-entire-container-like-panel-or-groupbox-usi
+
+ReadOnly WPF conrainers
+http://dkowalski.com/blog/archive/2010/02/04/readonly-wpf-containers.aspx
+
+
+Стилизованный MessageBox
+------------------------
+RadMessageBox
+http://www.telerik.com/community/code-library/wpf/general/radmessagebox.aspx
+
+WPF MessageBox - Custom control
+http://blogsprajeesh.blogspot.ru/2009/12/wpf-messagebox-custom-control.html
+
+Extended WPF Toolkit™ Community Edition. MessageBox
+http://wpftoolkit.codeplex.com/wikipage?title=MessageBox&referringTitle=Home
+
+Окно сообщений об ошибке (послать разработчику)
+http://habrahabr.ru/post/222163/
+
+
+Графика
+---------
+Проигрывание GIF-ок в WPF приложении
+http://losev-al.blogspot.ru/2013/02/gif-wpf.html
+
+
+Focus
+-----
+Set focus on textbox in WPF
+http://stackoverflow.com/questions/1345391/set-focus-on-textbox-in-wpf
+
+Set focus on textbox in WPF from view model (C#) & wPF
+http://stackoverflow.com/questions/1356045/set-focus-on-textbox-in-wpf-from-view-model-c-wpf
+
+
+Separator
+--------
+How can I add a line as a visual separator to the content control like grid
+http://social.msdn.microsoft.com/Forums/vstudio/en-US/12ead5d4-1d57-4dbb-ba81-bc13084ba370/how-can-i-add-a-line-as-a-visual-separator-to-the-content-control-like-grid
+
+How To Create a Vertical Separator with WPF
+http://spoiledtechie.com/post/2012/01/04/How-To-Create-a-Vertical-Separator-with-WPF.aspx

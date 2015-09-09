@@ -1,0 +1,16 @@
+
+Data acquisition, часть 1
+https://nesteruk.wordpress.com/2010/05/20/data-acquisition-part-1/
+
+Интерактивная карта торгового центра на HTML5 canvas
+http://habrahabr.ru/company/arcadia/blog/251335/
+
+Исходники типового проекта Саши Бындю
+
+Исходники Dapper
+
+Какой язык программирования изучить в целях саморазвития?
+http://toster.ru/q/110431
+
+Различные бесплатные курсы с заданиями (есть JavaScript)
+https://hexlet.org/course/javascript/

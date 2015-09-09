@@ -1,0 +1,15 @@
+
+Цикл статей Брента Эдвардса, есть тестовый проект Charmed
+https://github.com/brentedwards/Charmed
+Использование средств Windows 8 с помощью MVVM
+http://msdn.microsoft.com/ru-ru/magazine/dn296512.aspx
+Написание кросс-платформенного презентационного уровня с применением MVVM
+http://msdn.microsoft.com/ru-ru/magazine/dn385706.aspx
+Написание тестируемого презентационного уровня с помощью MVVM
+http://msdn.microsoft.com/ru-ru/magazine/dn463790.aspx
+
+WinPhone: пути к совершенству
+http://habrahabr.ru/post/210778/
+
+Как мы приложение с Silverlight на Windows 8 портировали
+http://habrahabr.ru/post/165285/

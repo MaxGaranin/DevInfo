@@ -1,0 +1,11 @@
+
+Интересная серия связанных статей
+Как два программиста хлеб пекли
+http://habrahabr.ru/post/153225/
+Выпечка хлеба на C# и такие вредные паттерны
+http://stdray.livejournal.com/74041.html
+Хлеб Маркуса и YAGNI
+http://habrahabr.ru/post/153845/
+Темное программирование
+http://habrahabr.ru/post/192320/
+

@@ -1,0 +1,15 @@
+
+Новое в Java 8
+http://habrahabr.ru/post/216431/
+
+Лямбда-выражения в Java 8 — Простые примеры того, как они могут облегчить вашу жизнь
+http://habrahabr.ru/post/213805/
+
+Любовь и ненависть к Java 8
+http://habrahabr.ru/post/188850/
+
+Плохая Java или как не надо делать
+http://habrahabr.ru/post/132465/
+
+Использование generic wildcards для повышения удобства Java API
+http://habrahabr.ru/post/207360/

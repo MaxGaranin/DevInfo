@@ -1,0 +1,19 @@
+
+Примеры проектов
+----------------
+Пример написание игры Color Lines
+http://www.imaladec.com/story/primer_napisanie_igri_color_lines
+
+Хочешь быть iOS разработчиком? Будь им!
+http://habrahabr.ru/post/149090/
+
+Разное
+------
+Objective-C
+http://ru.wikipedia.org/wiki/Objective-C
+
+IPhone development. С чего начать?
+http://itdumka.com.ua/index.php?cmd=shownode&node=34
+
+iOS разработчик: Обзор книг для новичка
+http://habrahabr.ru/post/166213/

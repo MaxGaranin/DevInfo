@@ -1,0 +1,25 @@
+
+Туториалы
+---------
+Классные видеоуроки
+https://www.youtube.com/user/kudvenkat
+
+Действительно прозрачное использование WCF
+http://habrahabr.ru/post/246961/
+
+Простой пример использования WCF в Visual Studio 2010
+http://habrahabr.ru/post/116764/
+http://habrahabr.ru/post/116872/
+
+WCF tutorial
+http://bloggingabout.net/blogs/dennis/archive/2006/10/18/WCF-Part-0-_3A00_-Introduction.aspx
+
+
+RESTful
+-------
+How to create a RESTful web service using WCF (Part 1 of 3)
+http://www.developerhandbook.com/web-developer/how-to-create-a-restful-web-service-using-wcf-part-1-of-3/
+
+Начинаем делать RESTful web-сервисы на WCF и Nelibur
+http://habrahabr.ru/post/225117/
+

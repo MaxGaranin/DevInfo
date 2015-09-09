@@ -1,0 +1,53 @@
+
+Интересно
+---------
+Недопонимание про async/await и многопоточность в C#
+http://habrahabr.ru/post/261649/
+
+! Основы многопоточности в .NET Framework (хорошая статья)
+http://habrahabr.ru/company/nixsolutions/blog/260745/
+
+
+Надо почитать
+-------------
+Асинхронное программирование: Влияние async и await на производительность (Стефен Тауб)
+http://msdn.microsoft.com/ru-ru/magazine/hh456402.aspx
+
+
+Async, await
+------------
+Under the hood: async/await
+http://sonyks2007.blogspot.ru/2014/07/under-hood-asyncawait.html
+
+Replace BackgroundWorker into Task
+http://sonyks2007.blogspot.ru/2014/07/replace-backgroundworker-into-task.html
+
+C# 5 — об async/await с начала
+http://habrahabr.ru/post/139734/
+
+Использование async и await в C# — лучшие практики
+http://habrahabr.ru/post/162353/
+
+
+Tasks
+-----
+Как работает Thread Pool?
+http://www.regfordev.com/2010/12/thread-pool.html#.Uz4yQZLJSrD
+
+Параллельное программирование в .NET Framework 4.0
+http://www.enterra.ru/blog/parallel-programming-in-net-framework-4-0/
+
+
+UI (WPF, WinForms)
+------------------
+Create MVVM Background Tasks with Progress Reporting
+http://www.codeproject.com/Articles/252392/Create-MVVM-Background-Tasks-with-Progress-Reporti
+
+
+Разное
+------
+UDP и C# async/await
+http://habrahabr.ru/post/238377/
+
+Пишем свой синхронный/асинхронный клиент-сервер
+http://habrahabr.ru/post/190548/

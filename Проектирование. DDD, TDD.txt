@@ -1,0 +1,59 @@
+
+Последнее
+---------
+Рентабельный код 2: крадущийся DDD, затаившийся CQRS
+http://habrahabr.ru/post/259829/
+
+Несколько слов в защиту шаблона "Анемичная модель предметной области" (Anemic Domain Model)
+http://samolisov.blogspot.ru/2012/10/anemic-domain-model.html
+
+
+DDD
+---
+DDD. Layers, Persistence Ignorance. Что куда
+http://toster.ru/q/40039
+
+Серия Strengthening your domain от Jimmy Bogard
+http://lostechies.com/jimmybogard/2010/03/10/strengthening-your-domain-encapsulated-collections/
+http://lostechies.com/jimmybogard/2010/04/08/strengthening-your-domain-domain-events/
+http://lostechies.com/jimmybogard/2010/02/04/strengthening-your-domain-a-primer/
+http://lostechies.com/jimmybogard/2010/02/24/strengthening-your-domain-aggregate-construction/
+
+Введение в проблемно-ориентированное проектирование (Дэвид Лэриби)
+http://msdn.microsoft.com/ru-ru/magazine/dd419654.aspx
+
+Проектируем по DDD. Часть 1: Domain & Application (тестовый проект Chrony)
+http://habrahabr.ru/post/173893/
+
+Парадигмы программирования. Data Driven vs Domain Driven 
+Обратить внимание на комментарии.
+http://habrahabr.ru/post/158277/
+
+Good Domain Driven Design samples (есть несколько ссылок)
+http://stackoverflow.com/questions/540130/good-domain-driven-design-samples
+
+Учимся проектировать на основе предметной области (DDD: Domain Driven Design). 
+Много ссылок
+http://habrahabr.ru/post/61524/
+
+Tim McCarthy's sample C# app for his book, .NET Domain-Driven Design with C# (тестовый проект)
+http://dddpds.codeplex.com/
+
+
+TDD
+---
+Test-Driven Development — телега или лошадь?
+http://habrahabr.ru/post/206828/
+
+
+CQRS
+----
+Command and Query Responsibility Segregation (CQRS) на практике (Саша Бындю)
+http://blog.byndyu.ru/2014/07/command-and-query-responsibility.html
+
+Введение в CQRS + Event Sourcing: Часть 1. Основы (есть тестовый проект)
+http://habrahabr.ru/post/146429/
+Введение в CQRS + Event Sourcing: Часть 2
+http://habrahabr.ru/post/149464/
+CQRS-Event-Sourcing-Sample--ASP.NET-MVC
+https://github.com/AlexShkor/CQRS-Event-Sourcing-Sample--ASP.NET-MVC-/tree/master/CqrsSample

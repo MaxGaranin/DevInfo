@@ -1,0 +1,1993 @@
+<!DOCTYPE html>
+<!-- saved from url=(0102)http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings -->
+<html class="ua-win-chrome"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>TSFM2 :: Develop Master &gt; Settings — TeamCity</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    
+<link rel="Shortcut Icon" href="http://as21470.samnipineft.ru:8010/favicon.ico?v8" type="image/x-icon">
+
+<meta name="format-detection" content="telephone=no">
+
+<meta name="application-name" content="TeamCity (TSFM2 :: Develop Master &amp;gt; Settings &amp;mdash; TeamCity)">
+<meta name="description" content="Powerful Continuous Integration and Build Server">
+<meta name="viewport" content="width=1000">
+<link rel="icon" href="http://as21470.samnipineft.ru:8010/img/icons/TeamCity512.png?v8" sizes="512x512">
+<link rel="icon" href="http://as21470.samnipineft.ru:8010/img/icons/TeamCity128.png?v8" sizes="128x128">
+<link rel="icon" href="http://as21470.samnipineft.ru:8010/img/icons/TeamCity48.png?v8" sizes="48x48">
+<link rel="icon" href="http://as21470.samnipineft.ru:8010/img/icons/TeamCity32.png?v8" sizes="32x32">
+
+<link rel="icon" href="http://as21470.samnipineft.ru:8010/img/icons/TeamCity16.png?v8" sizes="16x16">
+
+    <!-- :linkCSS --><style type="text/css">
+  @import "/res/-3655196970862155181.css?v=1437869042777";
+</style>
+
+
+    <!--[if IE 7]>
+    <style type="text/css">
+      @import /css/ie7.css;
+      @import /css/FontAwesome/css/font-awesome-ie7.min.css;
+    </style>
+<![endif]-->
+
+
+    <script type="text/javascript">
+  (function() {
+    var classNames = [];
+
+    /*@cc_on
+      classNames.push('ua-ie');
+      @if (@_jscript_version < 9) classNames.push('ua-ie8-below') @end
+    @*/
+
+    var ua = window.navigator.userAgent.toLowerCase();
+
+    if (ua.indexOf('mac') > -1) {
+      classNames.push('ua-mac');
+    } else if (ua.indexOf('windows') !== -1 && ua.indexOf('chrome') !== -1) {
+      classNames.push('ua-win-chrome');
+    }
+
+    document.documentElement.className = classNames.join(' ');
+  })();
+</script>
+    <script type="text/javascript">
+  var base_uri=window.location.protocol+"//"+window.location.host+"";
+</script>
+
+    
+
+    
+<!-- :linkCSS --><style type="text/css">
+  @import "/res/2319721761153202242.css?v=1437869042777";
+</style>
+
+
+<!-- :linkScript --><script type="text/javascript" src="./TSFM2 __ Develop Master _ Settings — TeamCity_files/1318600100494713046.js"></script>
+
+
+<script type="text/javascript">
+  window.$j = jQuery.noConflict();
+</script>
+
+<!-- :linkScript --><script type="text/javascript" src="./TSFM2 __ Develop Master _ Settings — TeamCity_files/1856078406784521260.js"></script>
+
+
+    
+<!-- :linkScript --><script type="text/javascript" src="./TSFM2 __ Develop Master _ Settings — TeamCity_files/-4735258447288317237.js"></script>
+
+    
+<!-- :linkScript --><script type="text/javascript" src="./TSFM2 __ Develop Master _ Settings — TeamCity_files/-3474088181884451238.js"></script>
+
+
+    
+<script type="text/javascript">
+  var internalProps = [];
+
+  internalProps['teamcity.ui.pollInterval'] = 6;
+  internalProps['teamcity.ui.serverAvailability.pollInterval'] = 3;
+
+  internalProps['teamcity.ui.events.pollInterval'] = 6;
+  internalProps['teamcity.ui.systemProblems.pollInterval'] = 20;
+  internalProps['teamcity.ui.problemsSummary.pollInterval'] = 8;
+  internalProps['teamcity.ui.buildQueueEstimates.pollInterval'] = 10;
+
+  // Doesn't use BS.SubscriptionManager and standard subscription mechanism
+  internalProps['teamcity.ui.cleanupNotificatorProgress.pollInterval'] = 6;
+</script>
+
+
+    <!-- :linkScript --><script type="text/javascript" src="./TSFM2 __ Develop Master _ Settings — TeamCity_files/-4270096801746814907.js"></script>
+
+
+    
+<!-- :linkScript --><script type="text/javascript" src="./TSFM2 __ Develop Master _ Settings — TeamCity_files/2083999511917917652.js"></script>
+
+
+    
+
+<!-- :linkCSS --><style type="text/css">
+  @import "/res/7284922245609817807.css?v=1437869042777";
+</style>
+
+<!-- :linkScript --><script type="text/javascript" src="./TSFM2 __ Develop Master _ Settings — TeamCity_files/-3288442913299261328.js"></script>
+
+
+    <script type="text/javascript">
+      BS.Socket.init(true);
+      BS.ServerLink.init('32334');
+
+      
+      BS.topNavPane = new TabbedPane('top');
+
+      BS.topNavPane.addTab("overview", {
+        caption: "Projects",
+        url: "/overview.html"
+      });
+
+      BS.topNavPane.addTab("changes", {
+        caption: "Changes",
+        url: "/changes.html"
+      });
+
+      BS.topNavPane.addTab("agents", {
+        caption: "Agents (2)",
+        url: "/agents.html"
+      });
+
+      
+      BS.topNavPane.addTab("queue", {
+        caption: "Build Queue (0)",
+        url: "/queue.html"
+      });
+      
+
+      (function() {
+        function initPage() {
+        
+          if (document.location.href.indexOf('#') == -1) {
+            restoreScrolling();
+          }
+        
+
+          if (typeof BS == "undefined") return;
+          BS.initReloadBlocker();
+        }
+
+        $j(document).ready(initPage);
+      })();
+
+      $j(document).ready(function() {
+        if (typeof BS == "undefined") return;
+        BS.StatisticsMonitor.start();
+        BS.InvestigationsCounterMonitor.start(1);
+        BS.EventTracker.startTracking("/eventTracker.html");
+        BS.SubscriptionManager.checkNow();
+      });
+
+      Event.observe(window, "unload", function() {
+        rememberScrolling();
+        if (typeof BS == "undefined") return;
+        BS.blockRefreshPermanently();
+        BS.SubscriptionManager.dispose();
+      });
+    </script>
+  <!-- :linkCSS --><style type="text/css">
+  @import "/res/-1853059006627851234.css?v=1437869042777";
+</style>
+
+    <!-- :linkScript --><script type="text/javascript" src="./TSFM2 __ Develop Master _ Settings — TeamCity_files/-6653513952042393464.js"></script>
+
+    
+
+    <script type="text/javascript">
+      BS.Navigation.items = [];
+BS.Navigation.items.push({
+title: "TSFM2",
+url: "project.html?projectId=Tsfm2",
+selected: false,
+itemClass: "project",
+projectId: "Tsfm2",
+siblingsTree: {
+parentId: "_Root",
+buildTypeUrlFormat: BS.Navigation.fromUrl("Tsfm2_DevelopMaster", "{id}")
+}
+});
+BS.Navigation.items.push({
+title: "Develop Master <small></small>",
+url: "viewType.html?buildTypeId=Tsfm2_DevelopMaster",
+selected: true,
+itemClass: "buildType ",
+buildTypeId: "Tsfm2_DevelopMaster",
+siblingsTree: {
+parentId: "Tsfm2",
+buildTypeUrlFormat: BS.Navigation.fromUrl("Tsfm2_DevelopMaster", "{id}")
+}
+});
+    </script>
+
+  
+  <!-- START EXTENSION CSS jetbrains.buildServer.serverSide.search.SearchController$1 name:searchBuildByNumber -->
+  <!-- :linkCSS --><style type="text/css">
+  @import "/res/-3944113586479971926.css?v=1437869042777";
+</style>
+
+  <!-- END EXTENSION CSS jetbrains.buildServer.serverSide.search.SearchController$1 -->
+  <!-- START EXTENSION CONTENT jetbrains.buildServer.serverSide.search.SearchController$1: name:searchBuildByNumber: /plugins/searchBuildByNumber/empty.jsp -->
+    
+  <!-- END EXTENSION CONTENT jetbrains.buildServer.serverSide.search.SearchController$1 -->
+  
+  </head>
+
+  <body class="pageBG gt800 gt1000 gt1200">
+
+  <div id="bodyWrapper">
+    <div class="ring-header"></div> <!-- Ring placeholder, do not remove -->
+    
+      <div id="loadingWarning" style="display: none;">
+        LOADING...
+      </div>
+
+      <script type="text/javascript">
+        (function() {
+          function getLoadingDiv() {
+            return document.getElementById('loadingWarning');
+          }
+          var loadingTimeout = setTimeout(function(){
+            var div = getLoadingDiv();
+            if (div != null) {
+              div.style.display = 'block';
+            }
+          }, 500);
+
+          $j(document).ready(function() {
+            if (loadingTimeout) clearTimeout(loadingTimeout);
+            var div = getLoadingDiv();
+            if (div != null) {
+              BS.Util.hide(div);
+            }
+          });
+        })();
+      </script>
+    
+
+    <div id="topWrapper">
+      <div class="headBG clearfix">
+        <div class="fixedWidth">
+
+          
+          <a href="http://as21470.samnipineft.ru:8010/" class="headerLogo"><i class="headerLogoImg"></i></a>
+
+          <div id="tabsContainer" style="display: block;"><ul class="tabs"><li id="overview_Tab" class="first selected"><p><a class="tabs" showdiscardchangesmessage="false" href="http://as21470.samnipineft.ru:8010/overview.html">Projects</a></p><div id="allPopupImg" title="View all projects">&nbsp;</div><p></p></li><li id="changes_Tab" class="leftBorder"><p><a class="tabs" showdiscardchangesmessage="false" href="http://as21470.samnipineft.ru:8010/changes.html">Changes</a></p></li><li id="agents_Tab" class="leftBorder"><p><a class="tabs" showdiscardchangesmessage="false" href="http://as21470.samnipineft.ru:8010/agents.html">Agents</a><span class="tabCounter">2</span></p><div class="mug" onmouseover="BS.Tooltip.showMessage(this, {shift:{x:10,y:20}}, &#39;All agents are idle&#39;)" onmouseout="BS.Tooltip.hidePopup()"></div><p></p></li><li id="queue_Tab" class="last leftBorder"><p><a class="tabs" showdiscardchangesmessage="false" href="http://as21470.samnipineft.ru:8010/queue.html">Build Queue</a><span class="tabCounter">0</span></p></li></ul></div>
+          <div id="userPanel"><div class="info"><p><span class="investigationsTicker"></span>
+              
+              <span class="pc " id="sp_span_usernamePopup"><span class="pc__label"><a href="http://as21470.samnipineft.ru:8010/profile.html?init=1">admin</a></span><span class="pc__toggle-wrapper">&nbsp;<span id="usernamePopup" class="toggle"></span></span>
+</span>
+</p><div id="sp_span_usernamePopupContent" class="popupDiv "><ul class="menuList">
+<li>
+<a href="http://as21470.samnipineft.ru:8010/favoriteBuilds.html" showdiscardchangesmessage="false">My Favorite Builds</a>
+</li>
+<li>
+<a href="http://as21470.samnipineft.ru:8010/investigations.html?init=1" showdiscardchangesmessage="false">My Investigations</a>
+</li>
+<li>
+<a href="http://as21470.samnipineft.ru:8010/profile.html?init=1" showdiscardchangesmessage="false">My Settings &amp; Tools</a>
+</li>
+<li>
+<a class="logout" href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings#" onclick="BS.Logout(&#39;/ajax.html?logout=1&#39;); return false" showdiscardchangesmessage="false">Log out</a>
+</li>
+</ul></div>
+<script>
+BS.install_simple_popup('sp_span_usernamePopup', {shift: {x: -120, y: 15}, className: 'quickLinksMenuPopup'});
+</script>
+</div><div class="info admin"><p><a href="http://as21470.samnipineft.ru:8010/admin/admin.html">Administration</a></p></div><span class="search"><input class="quickSearchQuery" id="headerSearchField" value="" type="text" autocomplete="off"><a href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings#" onclick="BS.Search.go(false);" class="quickSearchButton" title="Search"><i class="icon-search"></i></a></span></div>
+        </div>
+        <div id="header-ready"></div>
+      </div>
+      <script type="text/javascript">
+        if (BS.topNavPane) {
+          BS.topNavPane.showIn('tabsContainer');
+          jQuery("#tabsContainer li").each(function() {
+            var self = jQuery(this);
+            if (!self.hasClass("first")) {
+              self.addClass("leftBorder")
+            }
+          });
+          BS.AllProjectsPopup.install();
+        }
+      </script>
+
+      <div class="fixedWidth clearfix">
+        <div class="quickLinks">
+          <div class="toolbarItem">
+      <div class="healthItemIndicatorContainer">
+        
+        
+        
+
+
+
+
+
+<span id="container_hi_Tsfm2_DevelopMaster">
+
+
+
+
+
+<span id="container_hi_Tsfm2_DevelopMaster">
+  
+</span>
+
+</span>
+
+  <script type="text/javascript">
+    window.setTimeout(function() {
+      BS.ajaxUpdater($('container_hi_Tsfm2_DevelopMaster'), window['base_uri'] + '/buildTypeHealthStatusItems.html?buildTypeId=Tsfm2_DevelopMaster&excludeCategoryId=suggestion&compute=true', {evalScripts: true});
+    }, 300);
+  </script>
+
+
+      </div>
+    </div>
+
+    
+      <div class="toolbarItem">
+        
+<span class="btn-group">
+  <button class="btn btn_mini " onclick="Event.stop(event); BS.RunBuild.runOnAgent(this, &#39;Tsfm2_DevelopMaster&#39;, { redirectTo: &#39;&#39;, redirectToQueuedBuild: false });" title="">Run</button><button class="btn btn_mini btn_append " onclick="Event.stop(event); BS.RunBuild.runCustomBuild(&#39;Tsfm2_DevelopMaster&#39;, { redirectTo: &#39;&#39;, redirectToQueuedBuild: false });" title="Run custom build">...</button>
+</span>
+      </div>
+    
+    
+      <div class="toolbarItem">
+        <span class="btn-group" id="sp_span_bcActions"><button class="btn btn_mini popupLink" type="button">Actions <i class="icon-caret-down" id="bcActions"></i></button></span>
+<div id="sp_span_bcActionsContent" class="popupDiv"><div id="btDetails">
+<ul class="menuList">
+<li class="menuItem" title="">
+<a href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings#" onclick="BS.PauseBuildTypeDialog.showPauseBuildTypeDialog(&#39;bt3&#39;, true)
+; return false">
+Pause triggers in this configuration...
+</a>
+</li>
+<li class="menuItem" title="">
+<form class="pauseResume" action="http://as21470.samnipineft.ru:8010/action.html" method="post" id="checkForChangesBuildTypeForm">
+<input type="hidden" name="checkForChangesBuildType" value="bt3">
+</form>
+<a href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings#" onclick="$(&#39;checkForChangesBuildTypeForm&#39;).submit(); return false;">Check for pending changes</a>
+</li>
+<li class="menuItem" title="">
+<a href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings#" onclick="BS.BuildTypeResetSources.showResetSourcesDialog(); return false">Enforce clean checkout...</a>
+</li>
+<li class="menuItem" title="">
+<a href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings#" onclick="return BS.ResponsibilityDialog.showDialog(&#39;Tsfm2_DevelopMaster&#39;, &#39;Develop Master&#39;)">Investigate...</a>
+</li>
+</ul>
+</div></div>
+<script>
+BS.install_simple_popup('sp_span_bcActions', {shift: {x: -150, y: 20}, className: 'quickLinksMenuPopup'});
+</script>
+      </div>
+    
+    
+      
+<script type="text/javascript">
+  
+  BS['_EditSettingsbt3']  = new BS.Popup('editBuildConfigurationSettingsPopup', {
+    url: window['base_uri'] + '/showJsp.html?jspPath=' + encodeURIComponent("/editBuildTypePopup.jsp?buildTypeId=Tsfm2_DevelopMaster&cameFromUrl=%2FviewType.html%3FbuildTypeId%3DTsfm2_DevelopMaster%26tab%3DbuildTypeSettings"),
+    shift: {x: -241, y: 20},
+    className: 'quickLinksMenuPopup'
+  });
+</script>
+<span class="pc" onmouseover="BS[&#39;_EditSettingsbt3&#39;].stopHidingPopup();" onmouseout="BS[&#39;_EditSettingsbt3&#39;].hidePopup();"><span class="pc__label">
+  <a href="http://as21470.samnipineft.ru:8010/admin/editBuild.html?init=1&id=buildType:Tsfm2_DevelopMaster&cameFromUrl=%2FviewType.html%3FbuildTypeId%3DTsfm2_DevelopMaster%26tab%3DbuildTypeSettings" title="Edit build configuration settings">Edit Configuration Settings</a></span><span class="pc__toggle-wrapper">&nbsp;<span id="editControlbt3" onmouseover="BS[&#39;_EditSettingsbt3&#39;].showPopupNearElement(this)" onclick="_tc_es(event)" class="toggle"></span></span></span>
+
+
+    
+        </div>
+
+        
+        <ul id="mainNavigation" style="visibility: visible;"><li class="project" data-projectid="Tsfm2"><div class="contentWrapper"><i class="icon projectIcon"></i><a href="http://as21470.samnipineft.ru:8010/project.html?projectId=Tsfm2&branch_Tsfm2=__all_branches__">TSFM2</a></div></li><li class="last selected buildType" data-buildtypeid="Tsfm2_DevelopMaster"><div class="contentWrapper"><i class="icon buildTypeIcon"></i><a href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&branch_Tsfm2=__all_branches__">Develop Master</a>&nbsp;<small></small></div></li></ul>
+
+        <script type="text/javascript">
+            BS.Navigation.writeBreadcrumbs();
+        </script>
+      </div>
+    </div>
+
+    <div class="fixedWidth">
+      
+
+      
+
+
+      
+
+
+<!-- include PlaceId.BEFORE_CONTENT -->
+
+  <!-- START EXTENSION CONTENT jetbrains.buildServer.controllers.CriticalErrorsPageExtension: name:__tc_criticalErrors: /pageBeforeContentCriticalErrors.jsp -->
+    
+
+
+
+
+
+
+<div id="globalHealthItems" class="refreshable">
+  <!--##BEGIN:globalHealthItemsInner##--><div id="globalHealthItemsInner" class="refreshableInner">
+  
+</div><!--##END:globalHealthItemsInner##-->
+</div>
+
+  
+  
+    <script type="text/javascript">
+      $('globalHealthItems').refresh = BS.Refreshable.createRefreshFunction('globalHealthItems', '/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings', '');
+    </script>
+  
+
+
+
+
+  <!-- END EXTENSION CONTENT jetbrains.buildServer.controllers.CriticalErrorsPageExtension -->
+  
+  <!-- START EXTENSION CONTENT jetbrains.buildServer.serverSide.search.SearchController$2: name:searchBuildByNumber: /plugins/searchBuildByNumber/input.jsp -->
+    
+
+<div id="inputIdF" style="display: none;" data-btid="Tsfm2_DevelopMaster"></div>
+
+<!-- :linkScript --><script type="text/javascript" src="./TSFM2 __ Develop Master _ Settings — TeamCity_files/1441146027103481529.js"></script>
+
+
+  <!-- END EXTENSION CONTENT jetbrains.buildServer.serverSide.search.SearchController$2 -->
+  
+<!-- end of include PlaceId.BEFORE_CONTENT -->
+
+
+      
+      <table class="tabsTable">
+        <tbody><tr>
+          <td>
+            <div id="tabsContainer3" class="simpleTabs simpleTabsWithSelector" style="display: block;"><ul class="tabs"><li><p class="branchNameSelector"><span class="ufd branchNameSelector popup disabled" style="float: none; margin: 0px; width: 197px;"><input type="text" autocomplete="off" spellcheck="false" id="-ufd-teamcity-ui-branchNameSelector" class="disabled" name="-ufd-teamcity-ui-undefined" disabled="disabled" style="width: 171px;"><button type="button" tabindex="-1" class="-ufd-teamcity-ui-branchNameSelector disabled"><div class="icon"></div></button><select class="branchNameSelector" id="branchNameSelector" disabled="disabled"><option value="__all_branches__">&lt;Active branches&gt;</option><option value="&lt;default&gt;">&lt;Default branch&gt;</option><optgroup label="Active branches"></optgroup><optgroup label="Inactive branches"><option value="dataTab">dataTab</option><option value="master">master</option><option value="test-1">test-1</option><option value="v1">v1</option><option value="v2">v2</option><option value="viet">viet</option></optgroup></select></span></p></li><li id="buildTypeStatusDiv_Tab" class="first"><p><a class="tabs" showdiscardchangesmessage="false" href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeStatusDiv&branch_Tsfm2=__all_branches__">Overview</a></p></li><li id="buildTypeHistoryList_Tab" class=""><p><a class="tabs" showdiscardchangesmessage="false" href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeHistoryList&branch_Tsfm2=__all_branches__">History</a></p></li><li id="buildTypeChangeLog_Tab" class=""><p><a class="tabs" showdiscardchangesmessage="false" href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeChangeLog&branch_Tsfm2=__all_branches__">Change Log</a></p></li><li id="buildTypeIssueLog_Tab" class=""><p><a class="tabs" showdiscardchangesmessage="false" href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeIssueLog&branch_Tsfm2=__all_branches__">Issue Log</a></p></li><li id="buildTypeStatistics_Tab" class=""><p><a class="tabs" showdiscardchangesmessage="false" href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeStatistics&branch_Tsfm2=__all_branches__">Statistics</a></p></li><li id="compatibilityList_Tab" class=""><p><a class="tabs" showdiscardchangesmessage="false" href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=compatibilityList&branch_Tsfm2=__all_branches__">Compatible Agents</a><span class="tabCounter">2</span></p></li><li id="pendingChangesDiv_Tab" class=""><p><a class="tabs" showdiscardchangesmessage="false" href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=pendingChangesDiv&branch_Tsfm2=__all_branches__">Pending Changes</a></p></li><li id="buildTypeSettings_Tab" class="last selected"><p><a class="tabs" showdiscardchangesmessage="false" href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings&branch_Tsfm2=__all_branches__">Settings</a></p></li></ul></div>
+          </td>
+          <td class="besideContent">
+            
+          </td>
+        </tr>
+      </tbody></table>
+    </div>
+
+    <div id="archivedProjectsContent" class="popupDiv" style="display:none;">
+    </div>
+
+    
+<div id="buildResultsSummaryTemplate" style="display:none">
+  <div class="summaryContainer">
+    <span id="detailedSummary:##BUILD_ID##">
+      <table cellspacing="0">
+      <tbody><tr>
+        <td>
+          <div class="header">Build shortcuts</div>
+          <ul class="bsLinks">
+            <li>
+              <a href="http://as21470.samnipineft.ru:8010/viewLog.html?tab=buildLog&buildTypeId=##BUILD_TYPE_ID##&buildId=##BUILD_ID##" title="View log messages">Build log</a>
+              <span class="separator">|</span>
+              <a href="http://as21470.samnipineft.ru:8010/downloadBuildLog.html?buildId=##BUILD_ID##&archived=true" target="_blank" title="Download archived build log">.zip</a>
+            </li>
+            <li><a href="http://as21470.samnipineft.ru:8010/viewLog.html?tab=buildParameters&buildTypeId=##BUILD_TYPE_ID##&buildId=##BUILD_ID##" title="View parameters">Parameters</a></li>
+            <li><span id="summaryProgress:##BUILD_ID##" style="font-weight: normal; color:#888;"></span></li>
+          </ul>
+        </td>
+      </tr>
+      </tbody></table>
+    </span>
+  </div>
+</div>
+<div id="issueDetailsTemplate" style="display:none">
+  <span id="detailedSummary:##ISSUE_ID##_##PROJECT_ID##">
+    <i id="inProgress" style="" class="icon-refresh icon-spin progressRing progressRingInline" title="Please wait..."></i>
+  </span>
+</div>
+
+
+    <div id="mainContent" class="fixedWidth clearfix" style="padding-bottom: 112px;">
+      <div id="content">
+        
+
+        <script type="text/javascript">(function() {var handler = function() {BS.reload();};BS.EventTracker.subscribeOnProjectEvent('n', 0, 'project1', handler);BS.EventTracker.subscribeOnProjectEvent('l', 0, 'project1', handler);BS.EventTracker.subscribeOnProjectEvent('m', 0, 'project1', handler);BS.EventTracker.subscribeOnProjectEvent('p', 0, 'project1', handler);BS.EventTracker.subscribeOnProjectEvent('q', 0, 'project1', handler);})();</script>
+    <script type="text/javascript">(function() {var handler = function() {BS.reload();};BS.EventTracker.subscribeOnBuildTypeEvent('s', 0, 'bt3', handler);})();</script>
+    
+    <script type="text/javascript">(function() {var handler = function() {BS.BuildType.updateView();};BS.EventTracker.subscribeOnBuildTypeEvent('a', 15, 'bt3', handler);BS.EventTracker.subscribeOnBuildTypeEvent('b', 15, 'bt3', handler);BS.EventTracker.subscribeOnBuildTypeEvent('c', 15, 'bt3', handler);BS.EventTracker.subscribeOnBuildTypeEvent('e', 0, 'bt3', handler);BS.EventTracker.subscribeOnBuildTypeEvent('v', 0, 'bt3', handler);BS.EventTracker.subscribeOnBuildTypeEvent('t', 15, 'bt3', handler);BS.EventTracker.subscribeOnBuildTypeEvent('u', 15, 'bt3', handler);BS.EventTracker.subscribeOnBuildTypeEvent('x', 22, 'bt3', handler);})();</script>
+    
+    <div id="buildConfigurationContainer" class="refreshable">
+  <!--##BEGIN:buildConfigurationContainerInner##--><div id="buildConfigurationContainerInner" class="refreshableInner">
+      <script type="text/javascript">
+        BS.BuildType.updateStatus(false);
+        
+        $j(document).on("bs.breadcrumbRendered", function() {
+          BS.Branch.installDropdownToBreadcrumb("__all_branches__", 0,
+              [],
+              ["dataTab","master","test-1","v1","v2","viet"],
+                                                {projectId: "project1", projectExternalId: "Tsfm2", tab: "buildTypeSettings", wildcardDisplayName: ""});
+          BS.Branch.injectBranchParamToLinks($j("#mainNavigation"), "Tsfm2");
+        });
+        
+      </script>
+
+      
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+(function() {
+var tabs = new TabbedPane("BUILD_CONF@TAB");
+// plugin buildTypeStatusDiv:
+tabs.addTab('buildTypeStatusDiv', {
+caption: 'Overview',
+url: 'viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeStatusDiv'
+});
+// plugin buildTypeHistoryList:
+tabs.addTab('buildTypeHistoryList', {
+caption: 'History',
+url: 'viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeHistoryList'
+});
+// plugin buildTypeChangeLog:
+tabs.addTab('buildTypeChangeLog', {
+caption: 'Change Log',
+url: 'viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeChangeLog'
+});
+// plugin buildTypeIssueLog:
+tabs.addTab('buildTypeIssueLog', {
+caption: 'Issue Log',
+url: 'viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeIssueLog'
+});
+// plugin buildTypeStatistics:
+tabs.addTab('buildTypeStatistics', {
+caption: 'Statistics',
+url: 'viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeStatistics'
+});
+// plugin compatibilityList:
+tabs.addTab('compatibilityList', {
+caption: 'Compatible Agents (2)',
+url: 'viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=compatibilityList'
+});
+// plugin pendingChangesDiv:
+tabs.addTab('pendingChangesDiv', {
+caption: 'Pending Changes',
+url: 'viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=pendingChangesDiv'
+});
+// plugin buildTypeSettings:
+tabs.addTab('buildTypeSettings', {
+caption: 'Settings',
+url: 'viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings'
+});
+tabs.showIn('tabsContainer3');
+tabs.setActiveCaption('buildTypeSettings');
+// Example: "Users and Groups \u2014 TeamCity" -> "Users and Groups > Users \u2014 TeamCity"
+var tabTitle = '> Settings \u2014 TeamCity';
+if (document.title.indexOf(tabTitle) == -1) {
+document.title = document.title.replace(/\u2014 TeamCity$/, tabTitle);
+}
+})();
+</script>
+  
+        <div style="padding-top: 3px" id="messagesDiv">
+           
+
+           
+
+        </div>
+        
+      
+  
+  <!-- START EXTENSION CONTENT jetbrains.buildServer.controllers.buildType.tabs.SettingsTab: name:buildTypeSettings: /buildTypeSettings.jsp -->
+    
+
+
+
+
+<div id="buildTypeSettings" class="buildTypeSettings">
+
+    
+    
+
+    
+      
+    <div class="parameterGroup">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 class="groupTitle">
+  General Settings
+    
+      <span class="editSettingsLink">
+        <a href="http://as21470.samnipineft.ru:8010/admin/editBuild.html?init=1&id=buildType:Tsfm2_DevelopMaster&cameFromUrl=%2FviewType.html%3FbuildTypeId%3DTsfm2_DevelopMaster%26tab%3DbuildTypeSettings">edit »</a>
+      </span>
+    
+</h2>
+
+
+      <div class="parameter">
+        Name: <strong>Develop Master</strong>
+      </div>
+
+      <div class="parameter">
+        ID: <strong title="Internal id: bt3">Tsfm2_DevelopMaster</strong>
+      </div>
+
+      <div class="parameter">
+        Description: <strong>none</strong>
+      </div>
+
+      <div class="parameter">
+        Build number format: <strong>%build.counter%</strong>, next build number: <strong>#288</strong>
+      </div>
+
+      <div class="parameter">
+        Artifact paths:
+        <div class="nestedParameter"><strong>
+        
+          
+          IPA.UI\bin\Release =&gt; TSFM2-%version%.dev.zip
+        </strong>
+        </div>
+      </div>
+
+      
+      
+      
+      
+      
+      
+
+      <div class="parameter">
+        Build options:
+
+        <div class="nestedParameter">
+          Enable hanging builds detection: <strong>ON</strong>
+        </div>
+
+        <div class="nestedParameter">
+          Enable status widget: <strong>OFF</strong>
+        </div>
+
+        <div class="nestedParameter">
+          Limit the number of simultaneously running builds (0 — unlimited): <strong>unlimited</strong>
+        </div>
+      </div>
+    </div>
+
+    <div class="parameterGroup">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 class="groupTitle">
+  Version Control Settings (1)
+    
+      <span class="editSettingsLink">
+        <a href="http://as21470.samnipineft.ru:8010/admin/editBuildTypeVcsRoots.html?init=1&id=buildType:Tsfm2_DevelopMaster&cameFromUrl=%2FviewType.html%3FbuildTypeId%3DTsfm2_DevelopMaster%26tab%3DbuildTypeSettings">edit »</a>
+      </span>
+    
+</h2>
+
+
+      <div class="parameter">
+        VCS checkout mode: <strong>Automatically on server</strong>
+      </div>
+
+      <div class="parameter">
+        Checkout directory:
+        <strong>
+          
+            
+            
+              default
+            
+          
+        </strong>
+      </div>
+
+      <div class="parameter">
+        Clean all files before build: <strong>ON</strong>
+      </div>
+
+      <div class="parameter">Attached VCS roots:
+        
+        
+          <div class="nestedParameter">
+          <table class="settings">
+            <tbody><tr>
+              <th class="name">VCS Root</th>
+              <th class="name" style="width: 20%">Checkout Rules</th>
+            </tr>
+            
+              <tr>
+                <td class="vcsRootName">
+                  
+<a href="http://as21470.samnipineft.ru:8010/admin/editVcsRoot.html?init=1&action=editVcsRoot&vcsRootId=Tsfm2_Master&editingScope=editProject:Tsfm2&cameFromUrl=%2FviewType.html%3FbuildTypeId%3DTsfm2_DevelopMaster%26tab%3DbuildTypeSettings&cameFromTitle="><em>(jetbrains.git)</em> master</a>
+                  belongs to 
+
+  
+    <a href="http://as21470.samnipineft.ru:8010/admin/editProject.html?init=1&projectId=Tsfm2">TSFM2</a>
+  
+  
+
+
+                </td>
+                <td>
+                  
+                  not specified
+                </td>
+              </tr>
+            
+          </tbody></table>
+          </div>
+        
+      </div>
+
+      <div class="parameter">
+        
+        Show changes from snapshot dependencies: <strong>OFF</strong>
+      </div>
+
+    </div>
+
+    <div class="parameterGroup">
+      
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+  BS.VewBuildRunnerFormControls = BS.TypedParameters.create();
+  BS.VewBuildRunnerFormControls.containerId = 'runner_parameters_view';
+  BS.VewBuildRunnerFormControls.submitUrl = '\/parameters\/submit.html';
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+  <!-- create additional paremters for container -->
+  
+
+  <!-- render parameters context -->
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 class="groupTitle">
+  Build Steps (2)
+    
+      <span class="editSettingsLink">
+        <a href="http://as21470.samnipineft.ru:8010/admin/editBuildRunners.html?init=1&id=buildType:Tsfm2_DevelopMaster&cameFromUrl=%2FviewType.html%3FbuildTypeId%3DTsfm2_DevelopMaster%26tab%3DbuildTypeSettings">edit »</a>
+      </span>
+    
+</h2>
+
+      
+
+      
+        
+        <div class="parameter">
+
+          Step 1:
+          
+
+          <div class="nestedParameter">
+            <div class="parameter">Runner type: <strong>Visual Studio (sln)</strong> (Microsoft Visual Studio solution (.sln) runner)</div>
+            <div class="parameter">Execute:
+    
+    
+  
+    
+    
+  <a id="" class="helpIcon" onclick="BS.Util.showHelp(event, &#39;http://confluence.jetbrains.com/display/TCD9/Configuring+Build+Steps&#39;, {width: 0, height: 0}); return false" style="" href="http://confluence.jetbrains.com/display/TCD9/Configuring+Build+Steps" title="View help" showdiscardchangesmessage="false"><img src="./TSFM2 __ Develop Master _ Settings — TeamCity_files/help.png" alt=""></a> <strong>If all previous steps finished successfully</strong></div>
+            
+
+
+
+
+
+
+
+  
+    
+      
+        
+
+
+
+
+
+<div class="parameter">
+  Solution file path: <strong>IPA.sln</strong>
+</div>
+
+
+
+
+
+
+<div class="parameter">
+  Working directory:
+  <strong><strong>same as checkout directory</strong></strong>
+</div>
+
+
+<div class="parameter">
+  Visual Studio:
+  <strong>
+    
+    
+      Microsoft Visual Studio 2013
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </strong>
+</div>
+
+<div class="parameter">
+  Targets: <strong>Rebuild</strong>
+</div>
+
+<div class="parameter">
+  Configuration: <strong>Release</strong>
+</div>
+
+<div class="parameter">
+  Platform: <strong>default</strong>
+</div>
+
+<div class="parameter">
+  Command line parameters: <strong>/m:4</strong>
+</div>
+
+      
+      
+    
+  
+  
+
+
+
+
+
+
+          </div>
+
+        </div>
+        
+      
+        
+        <div class="parameter">
+
+          Step 2:
+          <strong>Run tests</strong>
+
+          <div class="nestedParameter">
+            <div class="parameter">Runner type: <strong>NUnit</strong> (NUnit tests runner)</div>
+            <div class="parameter">Execute:
+    
+    
+  
+    
+    
+  <a id="" class="helpIcon" onclick="BS.Util.showHelp(event, &#39;http://confluence.jetbrains.com/display/TCD9/Configuring+Build+Steps&#39;, {width: 0, height: 0}); return false" style="" href="http://confluence.jetbrains.com/display/TCD9/Configuring+Build+Steps" title="View help" showdiscardchangesmessage="false"><img src="./TSFM2 __ Develop Master _ Settings — TeamCity_files/help.png" alt=""></a> <strong>If all previous steps finished successfully</strong></div>
+            
+
+
+
+
+
+
+
+  
+    
+      
+        
+
+
+
+
+
+
+  <div class="parameter">
+    NUnit runner:
+    <strong>
+      
+      
+        NUnit 2.6.4
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </strong>
+  </div>
+
+  <div class="parameter">
+    .NET Runtime:
+    <strong>
+      
+      
+        auto (MSIL)
+      
+        
+      
+        
+      
+    </strong>
+
+    <strong>
+      
+      
+        v4.0
+      
+        
+      
+    </strong>
+  </div>
+
+  <div class="parameter">
+    Run tests from: <strong><strong>Tests\**\bin\Release\*.Tests.dll</strong></strong>
+  </div>
+
+  <div class="parameter">
+    Do not run tests from: <strong><strong>none specified</strong></strong>
+  </div>
+
+  <div class="parameter">
+    NUnit categories include: <strong><strong>none specified</strong></strong>
+  </div>
+
+  <div class="parameter">
+    NUnit categories exclude: <strong><strong>none specified</strong></strong>
+  </div>
+
+  <div class="parameter">
+    Run a process per assembly: <strong>
+
+
+
+
+
+
+
+
+
+
+
+  
+  OFF
+
+</strong>
+  </div>
+
+
+      
+      
+    
+  
+  
+
+
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+  <div class="parameter">
+    .NET Code Coverage: <strong>disabled</strong>
+  </div>
+
+  
+
+
+
+
+          </div>
+
+        </div>
+        
+      
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+    <div class="parameterGroup">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 class="groupTitle">
+  Triggers (2)
+    
+      <span class="editSettingsLink">
+        <a href="http://as21470.samnipineft.ru:8010/admin/editTriggers.html?init=1&id=buildType:Tsfm2_DevelopMaster&cameFromUrl=%2FviewType.html%3FbuildTypeId%3DTsfm2_DevelopMaster%26tab%3DbuildTypeSettings">edit »</a>
+      </span>
+    
+</h2>
+
+
+      
+
+      <div class="parameter">
+      
+      
+        Build configuration is active (triggering enabled).
+      
+      </div>
+
+      <div class="parameter">
+        
+
+        
+          <div class="nestedParameter">
+            <table class="settings">
+              <tbody><tr>
+                <th class="name" style="width: 30%;">Trigger</th>
+                <th class="name" style="width: 70%;">Parameters Description</th>
+              </tr>
+              <tr>
+                <td style="white-space: nowrap;">
+                  
+
+
+
+
+
+<div style="">
+  
+    <div class="triggerName">
+      VCS Trigger
+      
+        
+        
+        
+      
+    </div>
+  
+  
+</div>
+                </td>
+                <td>
+                  
+
+
+
+
+
+<div style="">
+  
+  
+  <div class="triggerDescription">
+    Triggers a build after a VCS check-in is detected<br>
+  </div>
+  
+</div>
+                </td>
+              </tr>
+            
+          
+            
+              <tr>
+                <td style="white-space: nowrap;">
+                  
+
+
+
+
+
+<div style="">
+  
+    <div class="triggerName">
+      Branch Remote Run Trigger
+      
+        
+        
+        
+      
+    </div>
+  
+  
+</div>
+                </td>
+                <td>
+                  
+
+
+
+
+
+<div style="">
+  
+  
+  <div class="triggerDescription">
+    Monitors VCS repository branches and triggers a personal build with detected changes.
+  </div>
+  
+</div>
+                </td>
+              </tr>
+            </tbody></table>
+          </div>
+        
+      </div>
+
+    </div>
+
+    <div class="parameterGroup">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 class="groupTitle">
+  Failure Conditions
+    
+      <span class="editSettingsLink">
+        <a href="http://as21470.samnipineft.ru:8010/admin/editBuildFailureConditions.html?init=1&id=buildType:Tsfm2_DevelopMaster&cameFromUrl=%2FviewType.html%3FbuildTypeId%3DTsfm2_DevelopMaster%26tab%3DbuildTypeSettings">edit »</a>
+      </span>
+    
+</h2>
+
+
+      <div class="parameter">
+        Fail build if:
+        <div class="nestedParameter">
+          process exit code is not zero: <strong>ON</strong>
+        </div>
+
+        <div class="nestedParameter">
+          at least one test failed: <strong>ON</strong>
+        </div>
+
+        <div class="nestedParameter">
+          an error message is logged by build runner: <strong>OFF</strong>
+        </div>
+
+        <div class="nestedParameter">
+          it runs longer than:
+          <strong>
+          
+            no limit
+            
+          
+          </strong>
+        </div>
+
+        <div class="nestedParameter">
+          out of memory or crash is detected: <strong>ON</strong>
+        </div>
+      </div>
+
+      
+      
+      
+
+      
+
+    </div>
+
+    <div class="parameterGroup">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 class="groupTitle">
+  Build Features (1)
+    
+      <span class="editSettingsLink">
+        <a href="http://as21470.samnipineft.ru:8010/admin/editBuildFeatures.html?init=1&id=buildType:Tsfm2_DevelopMaster&cameFromUrl=%2FviewType.html%3FbuildTypeId%3DTsfm2_DevelopMaster%26tab%3DbuildTypeSettings">edit »</a>
+      </span>
+    
+</h2>
+
+
+      
+      
+      
+
+      <div class="parameter">
+      
+        <div class="nestedParameter">
+          <table class="settings">
+            <tbody><tr>
+              <th class="name" style="width: 30%;">Type</th>
+              <th class="name" style="width: 70%;">Parameters Description</th>
+            </tr>
+            <tr>
+              <td style="white-space: nowrap;">
+                
+
+
+
+
+
+<div style="">
+  
+    <div class="featureName">
+      AssemblyInfo patcher
+      
+        
+        
+        
+      
+    </div>
+  
+  
+</div>
+              </td>
+              <td>
+                
+
+
+
+
+
+<div style="">
+  
+  
+  <div class="featureDescription">
+    Update version to %version% in AssemblyInfo files
+  </div>
+  
+</div>
+              </td>
+            </tr>
+          </tbody></table>
+        </div>
+      
+      
+      </div>
+
+    </div>
+
+    <div class="parameterGroup">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 class="groupTitle">
+  Dependencies
+    
+      <span class="editSettingsLink">
+        <a href="http://as21470.samnipineft.ru:8010/admin/editDependencies.html?init=1&id=buildType:Tsfm2_DevelopMaster&cameFromUrl=%2FviewType.html%3FbuildTypeId%3DTsfm2_DevelopMaster%26tab%3DbuildTypeSettings">edit »</a>
+      </span>
+    
+</h2>
+
+
+      
+
+      <div class="parameter">
+        Snapshot Dependencies:
+        <div class="nestedParameter">
+          
+          There are no snapshot dependencies.
+          
+          
+        </div>
+      </div>
+
+      
+
+      <div class="parameter">
+        Artifact dependencies:
+        <div class="nestedParameter">
+          
+          There are no artifact dependencies.
+          
+          
+        </div>
+      </div>
+    </div>
+
+    <div class="parameterGroup">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 class="groupTitle">
+  Parameters (2)
+    
+      <span class="editSettingsLink">
+        <a href="http://as21470.samnipineft.ru:8010/admin/editBuildParams.html?init=1&id=buildType:Tsfm2_DevelopMaster&cameFromUrl=%2FviewType.html%3FbuildTypeId%3DTsfm2_DevelopMaster%26tab%3DbuildTypeSettings">edit »</a>
+      </span>
+    
+</h2>
+
+      
+
+      
+
+<div class="parameter"><span class="groupTitle2">Configuration parameters:</span> </div>
+
+
+<div class="nestedParameter">
+<table class="settings">
+  <tbody><tr>
+    <th class="name" style="width: 30%;">Name</th>
+    <th class="name" style="width: 70%;">Value</th>
+  </tr>
+
+  <tr>
+    <td style="white-space: nowrap;">project.version</td>
+    <td>
+      1.0.4
+    </td>
+  </tr>
+
+  <tr>
+    <td style="white-space: nowrap;">version</td>
+    <td>
+      %project.version%.%build.counter%
+    </td>
+  </tr>
+
+</tbody></table>
+</div>
+
+
+<div class="parameter"><span class="groupTitle2">System properties:</span> none defined</div>
+
+
+
+<div class="parameter"><span class="groupTitle2">Environment variables:</span> none defined</div>
+
+
+    </div>
+
+    <div class="parameterGroup">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 class="groupTitle">
+  Agent Requirements
+    
+      <span class="editSettingsLink">
+        <a href="http://as21470.samnipineft.ru:8010/admin/editRequirements.html?init=1&id=buildType:Tsfm2_DevelopMaster&cameFromUrl=%2FviewType.html%3FbuildTypeId%3DTsfm2_DevelopMaster%26tab%3DbuildTypeSettings">edit »</a>
+      </span>
+    
+</h2>
+
+      
+
+      <p>None defined</p>
+
+      
+
+    </div>
+
+</div>
+
+  <!-- END EXTENSION CONTENT jetbrains.buildServer.controllers.buildType.tabs.SettingsTab -->
+  
+
+    </div><!--##END:buildConfigurationContainerInner##-->
+</div>
+
+  
+  
+    <script type="text/javascript">
+      $('buildConfigurationContainer').refresh = BS.Refreshable.createRefreshFunction('buildConfigurationContainer', '/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings', '');
+    </script>
+  
+
+
+
+    
+
+
+
+
+
+
+
+<div id="valuePopup" class="valuePopup modalDialog">
+  <div id="valuePopupHeader" class="dialogHeader">
+    <div class="closeWindow">
+      <a class="closeWindowLink" title="Close dialog window" href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings#" onclick="BS.BuildTypeSettingsPopup.closeMultilineValuePopup(); return false">×</a>
+    </div>
+    <div class="dialogHandle">
+      <h3 class="dialogTitle" id="valuePopupTitle"></h3>
+    </div>
+  </div>
+
+  <div class="modalDialogBody">
+    <textarea id="valueContainer" rows="5" cols="40" readonly="true" wrap="off"></textarea>
+  </div>
+</div>
+
+
+    
+    <form id="resetSources" action="http://as21470.samnipineft.ru:8010/ajax.html" method="post" onsubmit="return BS.BuildTypeResetSources.submitResetSources();" autocomplete="off">
+  <div id="resetSourcesDialog" class="resetSourcesDialog  modalDialog">
+  <div class="dialogHeader">
+    <div class="closeWindow">
+      <a class="closeWindowLink" title="Close dialog window" href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings#" onclick="BS.BuildTypeResetSources.close(); return false">×</a>
+    </div>
+    <div class="dialogHandle">
+      <h3 class="dialogTitle" id="resetSourcesTitle">Enforce clean checkout on agents</h3>
+    </div>
+  </div>
+  <div class="modalDialogBody">
+    
+      <div>Choose agents to enforce clean checkout
+    
+    
+  
+    
+    
+  <a id="" class="helpIcon" onclick="BS.Util.showHelp(event, &#39;http://confluence.jetbrains.com/display/TCD9/Clean+Checkout&#39;, {width: 0, height: 0}); return false" style="" href="http://confluence.jetbrains.com/display/TCD9/Clean+Checkout" title="View help" showdiscardchangesmessage="false"><img src="./TSFM2 __ Develop Master _ Settings — TeamCity_files/help.png" alt=""></a> for:</div>
+      
+<div class="inplaceFilterDiv " style="width: 98%;">
+  <input type="text" id="resetSourcesAgentId_filter" value="" autocomplete="off" placeholder="&lt;filter agents&gt;">
+</div>
+<script type="text/javascript">
+  jQuery(function($) {
+    var input = $('#resetSourcesAgentId_filter');
+    input.placeholder({text: '&lt;filter agents>'});
+    input.inplaceFilter('resetSourcesAgentId');
+    BS.InPlaceFilter.prepareFilter('resetSourcesAgentId');
+    
+    input.trigger('focus');
+    
+  });
+</script>
+
+      <select id="resetSourcesAgentId" name="agentId" multiple="multiple" size="10" style="width: 98%;">
+        <option value="">&lt;All agents&gt;</option>
+      
+        <option class="inplaceFiltered" value="1">as21470</option>
+      
+        <option class="inplaceFiltered" value="3">as21470_2</option>
+      
+      </select>
+
+      <input type="hidden" name="resetBuildConfigurationSources" value="bt3">
+
+      <div class="popupSaveButtonsBlock">
+        
+
+
+
+
+
+<input type="submit" value="Clean sources" class="btn btn_primary submitButton " id="resetSourcesSubmitButton">
+
+        <a class="btn cancel" onclick="BS.BuildTypeResetSources.close(); return false">Cancel</a><script>BS.fixCancel();</script>
+        <i id="resetSourcesProgress" style="display: none; " class="icon-refresh icon-spin progressRing progressRingDefault" title="Please wait..."></i>
+      </div>
+    
+  </div>
+</div></form>
+
+    
+
+
+
+
+
+
+
+
+<form id="pauseBuildTypeForm" action="http://as21470.samnipineft.ru:8010/action.html" method="post" onsubmit="return BS.PauseBuildTypeDialog.submit();" autocomplete="off">
+  <div id="pauseBuildTypeFormDialog" class="pauseBuildTypeFormDialog  modalDialog">
+  <div class="dialogHeader">
+    <div class="closeWindow">
+      <a class="closeWindowLink" title="Close dialog window" href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings#" onclick="BS.PauseBuildTypeDialog.close();; return false">×</a>
+    </div>
+    <div class="dialogHandle">
+      <h3 class="dialogTitle" id="pauseBuildTypeFormTitle">Pause build configuration</h3>
+    </div>
+  </div>
+  <div class="modalDialogBody">
+    
+
+  <textarea name="pauseComment" rows="5" cols="46" class="commentTextArea" onfocus="if (this.value == this.defaultValue) this.value = &#39;&#39;" onblur="if (this.value == &#39;&#39;) this.value=&#39;&lt;your comment here&gt;&#39;">&lt;your comment here&gt;</textarea>
+  <input type="hidden" name="pauseBuildType" value="">
+  <input type="hidden" name="pause" value="">
+  
+    <div>
+      <input type="checkbox" name="removeFromQueue" id="removeFromQueue" checked="checked">
+      <label for="removeFromQueue" id="lbl_removeFromQueue">Cancel already queued builds</label>
+    </div>
+  
+
+  <div class="popupSaveButtonsBlock">
+    
+
+
+
+
+
+<input type="submit" value="Pause" class="btn btn_primary submitButton " id="PauseSubmitButton">
+
+    <a class="btn cancel" onclick="BS.PauseBuildTypeDialog.close(); return false">Cancel</a><script>BS.fixCancel();</script>
+    <i id="pauseProgressIcon" style="display: none; " class="icon-refresh icon-spin progressRing progressRingDefault" title="Please wait..."></i>
+  </div>
+
+  </div>
+</div></form>
+      </div>
+    </div>
+
+    
+
+
+
+
+
+<div id="footer" style="height: 112px; visibility: visible;">
+  <div class="footerExtensions fixedWidth">
+  <!-- START EXTENSION CONTENT jetbrains.buildServer.usageStatistics.impl.GetRequestDetector: name:getRequestProcessor: /plugins/usage-statistics/empty.jsp -->
+    
+  <!-- END EXTENSION CONTENT jetbrains.buildServer.usageStatistics.impl.GetRequestDetector -->
+  </div>
+
+  <div class="footerMainContainer">
+    <div class="footerMain fixedWidth clearfix">
+      <div class="column1">
+        <div class="columnContent">
+          <a class="helpLink" target="_blank" href="http://confluence.jetbrains.com/display/TCD9"> Help</a>
+          <a class="feedbackLink" target="_blank" href="http://www.jetbrains.com/teamcity/feedback?source=footer&version=9.0.3%20(build%2032334)&build=32334&mode=prof">Feedback</a>
+        </div>
+      </div>
+
+      <div class="column2">
+        <div class="columnContent">
+          <a target="_blank" href="http://www.jetbrains.com/teamcity/?fromServer">TeamCity Professional</a><span class="greyNote"><span class="vWord">Version</span> 9.0.3 (build 32334)</span>
+
+          
+
+        </div>
+      </div>
+
+      <div class="column3">
+        <div class="columnContent">
+          <a onclick="BS.Util.popupWindow(&#39;/showAgreement.html&#39;, &#39;agreement&#39;); return false" href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings#">License agreement</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  (function($) {
+    var mainContent = $('#mainContent'),
+        footer = $('#footer');
+
+    mainContent.css('padding-bottom', footer.height() + 'px');
+    footer.css('height', footer.height() + 'px');
+    footer.css('visibility', 'visible');
+  })(jQuery);
+</script>
+
+
+  </div><div id="ufd-container" style="height: 0px;"><div class="popup"><div class="list-wrapper list-wrapper-ufd-teamcity-ui-branchNameSelector invisible" style="z-index: 10; min-width: 219px; max-width: 500px;"><div class="list-scroll custom-scroll" style="min-width: 217px;"><ul><li class="option nogroup active" name="0" data-title="&lt;Active branches&gt;">&lt;Active branches&gt;</li><li class="option nogroup" name="1" data-title="&lt;Default branch&gt;">&lt;Default branch&gt;</li><li class="optgroup" data-title="Inactive branches">Inactive branches</li><li class="option" name="2" data-title="dataTab">dataTab</li><li class="option" name="3" data-title="master">master</li><li class="option" name="4" data-title="test-1">test-1</li><li class="option" name="5" data-title="v1">v1</li><li class="option" name="6" data-title="v2">v2</li><li class="option" name="7" data-title="viet">viet</li></ul></div></div></div></div>
+
+  <script type="text/javascript">(function() {var handler = function() {BS.ServerLink.onShutdown();};BS.EventTracker.subscribeOnEvent('H', 0, handler);})();</script>
+
+  
+
+
+
+
+<form id="muteTestsForm" action="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings#" method="post" onsubmit="return BS.BulkInvestigateDialog.submit();;" autocomplete="off">
+  <div id="muteTestsFormDialog" class="muteTestsFormDialog  modalDialog">
+  <div class="dialogHeader">
+    <div class="closeWindow">
+      <a class="closeWindowLink" title="Close dialog window" href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings#" onclick="BS.BulkInvestigateDialog.close();; return false">×</a>
+    </div>
+    <div class="dialogHandle">
+      <h3 class="dialogTitle" id="muteTestsFormTitle">Mute test</h3>
+    </div>
+  </div>
+  <div class="modalDialogBody">
+    
+  <div id="mute-dialog-container"></div>
+  <div><i id="mute-dialog-progress" style="display: none; " class="icon-refresh icon-spin progressRing progressRingInline" title="Please wait..."></i></div>
+
+  </div>
+</div></form>
+
+<form id="errorForm" action="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings#" method="post" onsubmit="return BS.ErrorDialog.close();;" autocomplete="off">
+  <div id="errorFormDialog" class="errorFormDialog  modalDialog">
+  <div class="dialogHeader">
+    <div class="closeWindow">
+      <a class="closeWindowLink" title="Close dialog window" href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings#" onclick="BS.ErrorDialog.close();; return false">×</a>
+    </div>
+    <div class="dialogHandle">
+      <h3 class="dialogTitle" id="errorFormTitle"></h3>
+    </div>
+  </div>
+  <div class="modalDialogBody">
+    
+
+  </div>
+</div></form>
+
+<div id="shutdownDialog" class=" modalDialog">
+  <div class="dialogHeader">
+    <div class="closeWindow">
+      <a class="closeWindowLink" title="Close dialog window" href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings#" onclick="BS.ServerUnavailableModalDialog.close(); return false">×</a>
+    </div>
+    <div class="dialogHandle">
+      <h3 class="dialogTitle" id="shutdownDialogTitle">Server communication failure</h3>
+    </div>
+  </div>
+  <div class="modalDialogBody">
+    
+  <strong id="shutdownDetails">Server is unavailable</strong>
+  <p id="onCommunicationFailure">Server stopped or communication with the server is not possible due to network failure.</p>
+  <p id="onServerShutdown">Server shutdown started.</p>
+  <p id="onAuthFailure">Please relogin to continue your work.</p>
+
+  </div>
+</div>
+
+
+<form id="runBuild" action="http://as21470.samnipineft.ru:8010/runCustomBuild.html" method="post" onsubmit="return BS.RunBuildDialog.submit();" autocomplete="off">
+  <div id="runBuildDialog" class="runBuildDialog editTagsDialog modalDialog">
+  <div class="dialogHeader">
+    <div class="closeWindow">
+      <a class="closeWindowLink" title="Close dialog window" href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings#" onclick="BS.RunBuildDialog.close(); return false">×</a>
+    </div>
+    <div class="dialogHandle">
+      <h3 class="dialogTitle" id="runBuildTitle">Run Custom Build</h3>
+    </div>
+  </div>
+  <div class="modalDialogBody">
+    
+
+  </div>
+</div></form>
+
+<form id="stopBuildForm" action="http://as21470.samnipineft.ru:8010/ajax.html" method="post" onsubmit="return BS.StopBuildDialog.killBuild();;" autocomplete="off">
+  <div id="stopBuildFormDialog" class="stopBuildFormDialog  modalDialog">
+  <div class="dialogHeader">
+    <div class="closeWindow">
+      <a class="closeWindowLink" title="Close dialog window" href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings#" onclick="BS.StopBuildDialog.close(); return false">×</a>
+    </div>
+    <div class="dialogHandle">
+      <h3 class="dialogTitle" id="stopBuildFormTitle">TODO</h3>
+    </div>
+  </div>
+  <div class="modalDialogBody">
+    
+  <textarea id="removeQueuedBuildComment" name="comment" rows="3" cols="46" class="commentTextArea" onfocus="if (this.value == this.defaultValue) this.value = &#39;&#39;" onblur="if (this.value == &#39;&#39;) this.value=&#39;&lt;your comment here&gt;&#39;">&lt;your comment here&gt;</textarea>
+  <input type="hidden" name="kill" value="">
+  <input type="hidden" name="operationKind" value="0">
+
+  <div id="moreToStop">
+    Loading related builds...
+    <i id="moreToStopLoader" style="display: none; " class="icon-refresh icon-spin progressRing progressRingInline" title="Loading related builds to stop..."></i>
+  </div>
+  <div id="moreToStopFragment" class="custom-scroll"></div>
+
+  <div id="moreToStopRetryNotice" class="attentionComment" style="display: none">The stop command has already been sent to the build. This will re-send stop command</div>
+
+  <div class="popupSaveButtonsBlock">
+    
+
+
+
+
+
+<input type="submit" value="Stop" class="btn btn_primary submitButton " id="submitRemoveQueuedBuild" name="submit">
+
+    <a class="btn cancel" onclick="BS.StopBuildDialog.close(); return false" id="cancelRemoveQueuedBuild">Cancel</a><script>BS.fixCancel();</script>
+    <i id="stopBuildIndicator" style="display: none; " class="icon-refresh icon-spin progressRing progressRingDefault" title="Please wait..."></i>
+  </div>
+
+  </div>
+</div></form>
+
+<form id="investigationForm" action="" method="post" onsubmit="return BS.ResponsibilityDialog.submit();" autocomplete="off">
+  <div id="investigationFormDialog" class="investigationFormDialog  modalDialog">
+  <div class="dialogHeader">
+    <div class="closeWindow">
+      <a class="closeWindowLink" title="Close dialog window" href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings#" onclick="BS.ResponsibilityDialog.close();; return false">×</a>
+    </div>
+    <div class="dialogHandle">
+      <h3 class="dialogTitle" id="investigationFormTitle">Responsibility</h3>
+    </div>
+  </div>
+  <div class="modalDialogBody">
+    
+  </div>
+</div></form>
+
+
+
+<form id="editBuildTagsForm" action="http://as21470.samnipineft.ru:8010/ajax.html" method="post" onsubmit="return BS.Tags.submitTags();" autocomplete="off">
+  <div id="editBuildTagsFormDialog" class="editBuildTagsFormDialog editTagsDialog modalDialog">
+  <div class="dialogHeader">
+    <div class="closeWindow">
+      <a class="closeWindowLink" title="Close dialog window" href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings#" onclick="BS.Tags.close(); return false">×</a>
+    </div>
+    <div class="dialogHandle">
+      <h3 class="dialogTitle" id="editBuildTagsFormTitle">Edit tags</h3>
+    </div>
+  </div>
+  <div class="modalDialogBody">
+    
+  
+
+
+<textarea style="resize: both; " class="expandable commentTextArea" name="buildTagsInfo" id="buildTagsInfoEditTags"></textarea>
+<script type="text/javascript">
+  BS.VisibilityHandlers.attachTo('buildTagsInfoEditTags', {
+    updateVisibility: function() {
+      var element = jQuery(BS.Util.escapeId('buildTagsInfoEditTags'));
+      if (element.length) {
+        element.textAreaExpander(40, 200);
+      } else {
+        BS.VisibilityHandlers.detachFrom('buildTagsInfoEditTags');
+      }
+    }
+  });
+</script>
+
+<div id="editBuildTagsForm_availableTags"></div>
+<span class="note"></span>
+  <div class="tagsApplyAll" style="display: none;">
+  
+  
+  
+    <input type="checkbox" name="applyToChainBuilds" id="tag_applyToChainBuilds" value="true">
+    <input type="hidden" name="_applyToChainBuilds" value="">
+  
+
+
+  <label for="tag_applyToChainBuilds">Apply tags to all builds that this build snapshot depends on</label>
+  <div class="grayNote">Note: existing tags in dependent builds will <i>not</i> be removed</div>
+</div>
+
+
+  <div class="popupSaveButtonsBlock">
+    
+
+
+
+
+
+<input type="submit" value="Save" class="btn btn_primary submitButton ">
+
+    <a class="btn cancel" onclick="BS.Tags.close(); return false">Cancel</a><script>BS.fixCancel();</script>
+    <input type="hidden" value="" name="editTagsForPromotion">
+    <i id="savingTags" style="display: none; " class="icon-refresh icon-spin progressRing progressRingDefault" title="Please wait..."></i>
+  </div>
+
+  </div>
+</div></form>
+
+
+<form id="abstractLoading" action="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings#" method="post" onsubmit="return BS.LoadingDialog.close();" autocomplete="off">
+  <div id="abstractLoadingDialog" class="abstractLoadingDialog  modalDialog">
+  <div class="dialogHeader">
+    <div class="closeWindow">
+      <a class="closeWindowLink" title="Close dialog window" href="http://as21470.samnipineft.ru:8010/viewType.html?buildTypeId=Tsfm2_DevelopMaster&tab=buildTypeSettings#" onclick="BS.LoadingDialog.close();; return false">×</a>
+    </div>
+    <div class="dialogHandle">
+      <h3 class="dialogTitle" id="abstractLoadingTitle">Loading...</h3>
+    </div>
+  </div>
+  <div class="modalDialogBody">
+    
+
+  <i id="abstractProgress" style="display: none; " class="icon-refresh icon-spin progressRing progressRingInline" title="Please wait..."></i>
+
+  </div>
+</div></form>
+
+  
+
+
+</body></html>

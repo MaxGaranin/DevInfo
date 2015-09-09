@@ -1,0 +1,68 @@
+
+MVVM
+----
+Изучая Autofac. Динамическое создание объектов с помощью контейнера
+http://mike.eshva.ru/dev/izuchaya-autofac-dinamicheskoe-sozdanie-obektov-s-pomoschyu-kontejnera
+
+Using Autofac's Auto-Factories to Avoid Service Locator
+http://jahyacode.blogspot.ru/2012/03/using-autofacs-auto-factories-to-avoid.html
+
+
+Общее
+-----
+The Register Resolve Release pattern by Mark Seemann
+http://blog.ploeh.dk/2010/09/29/TheRegisterResolveReleasepattern/
+
+Advanced Dependency Injection на примере Ninject
+http://habrahabr.ru/post/235995/
+
+Перевод legacy-проекта на Dependency Injection. Путь Ситха
+http://habrahabr.ru/post/217523/
+
+Эволюция управления зависимостями в коде (видео от Саши Бындю)
+http://blog.byndyu.ru/2013/06/blog-post_27.html
+
+Введение в IoC
+http://gandjustas.blogspot.ru/2009/01/ioc.html
+
+Dependency Injection: анти-паттерны
+http://habrahabr.ru/post/166287/
+
+
+Серия статей Теплякова Сергея
+-----------------------------
+Управление зависимостями
+http://sergeyteplyakov.blogspot.ru/2012/11/blog-post.html
+
+Наследование vs Композиция vs Агрегация
+http://sergeyteplyakov.blogspot.ru/2012/12/vs-vs.html
+
+Фреймворки, библиотеки и зависимости
+http://sergeyteplyakov.blogspot.ru/2012/10/blog-post_26.html
+
+DI Паттерны. Constructor Injection
+http://sergeyteplyakov.blogspot.ru/2012/12/di-constructor-injection.html
+
+DI Паттерны. Property Injection
+http://sergeyteplyakov.blogspot.ru/2013/01/di-property-injection.html
+
+DI Паттерны. Method Injection
+http://sergeyteplyakov.blogspot.ru/2013/02/di-method-injection.html
+
+Наследование vs Композиция vs Агрегация
+http://sergeyteplyakov.blogspot.ru/2012/12/vs-vs.html
+
+
+Ninject
+-------
+Using Ninject with MVVM Light
+http://www.codecapers.com/post/Using-Ninject-with-MVVM-Light.aspx
+
+Ninject.Web.Mvc3 docs
+https://github.com/ninject/ninject.web.mvc/wiki/MVC3
+
+
+Autofac
+-------
+WPF – Automatic ViewModel Resolution with Autofac
+http://deanchalk.com/2013/05/03/wpf-automatic-viewmodel-resolution-with-autofac-2/

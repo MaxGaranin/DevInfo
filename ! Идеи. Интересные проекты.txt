@@ -1,0 +1,95 @@
+
+Проектирование
+--------------
+Саша Бындю
+http://blog.byndyu.ru/
+http://alex-byndyu-presentations.googlecode.com/svn/trunk/
+! Есть типовой проект его компании
+https://github.com/AlexanderByndyu/ByndyuSoft.Infrastructure
+
+Проектируем по DDD. Часть 1: Domain & Application
+http://habrahabr.ru/post/173893/
+Хаб Егора Боборова. Проекты Xamarin, WinPhone
+https://github.com/EgorBo
+
+Введение в CQRS + Event Sourcing: Часть 1. Основы
+http://habrahabr.ru/post/146429/
+Введение в CQRS + Event Sourcing: Часть 2
+http://habrahabr.ru/post/149464/
+CQRS-Event-Sourcing-Sample--ASP.NET-MVC
+https://github.com/AlexShkor/CQRS-Event-Sourcing-Sample--ASP.NET-MVC-/tree/master/CqrsSample
+
+Хаб Дениса Гладких 
+Обратить внимание на проект gMusicW для Windows8, кстати используется SQLite.
+https://github.com/outcoldman
+
+Неплохой сайт Bradley Braithwaite, разработчика ASP.NET MVC.
+Весь цикл статей (DDD, репозитории, Dapper, EF) и учебный проект
+http://www.contentedcoder.com/2012/11/aspnet-10-years-on-my-journey.html
+
+Интересный сайт Bob Cravens, 
+cтатьи про использование ASP.NET MVC, NHibernate и репозиториев,
+есть учебный проект
+http://bobcravens.com/
+http://gpsnerd.codeplex.com/
+
+Есть достаточно сложные примеры типовых архитектур на C#
+с NHibernate, WCF и прочим (немного устарело и не совсем понятно)
+http://igorzelmanovich.blogspot.ru/search/label/IZWebFileManager
+https://github.com/manishma
+
+
+WPF
+---
+WPF: Binding без тривиальных конвертеров
+http://habrahabr.ru/post/248197/
+
+Showing Dialogs When Using the MVVM Pattern
+Отличный пример построения архитектуры MVVM с применением сервисов, показ диалоговых окон,
+связь между View и ViewModel и т.п.
+http://www.codeproject.com/Articles/36745/Showing-Dialogs-When-Using-the-MVVM-Pattern
+
+Приложения WPF с шаблоном проектирования модель-представление-модель представления (Джош Смит)
+http://msdn.microsoft.com/ru-ru/magazine/dd419663.aspx
+http://archive.msdn.microsoft.com/mag200902MVVM
+
+
+C#, проекты общего назначения
+-----------------------------
+Athari/Alba.Framework
+https://github.com/Athari/Alba.Framework
+
+NCommon
+https://github.com/riteshrao/ncommon
+
+
+JavaScript
+----------
+Вселенная npm
+http://habrahabr.ru/post/243495/
+
+
+Парсинг
+-------
+Алгоритмы и решения при разработке движка JavaScript на C#
+http://habrahabr.ru/post/243399/
+
+
+Xamarin
+-------
+Пишем Android-игру на Xamarin+MonoGame (C#)
+http://habrahabr.ru/post/229951/
+
+
+Разное
+------
+Как мы написали helpdesk (Php, можно поучаствовать)
+http://habrahabr.ru/post/227277/
+
+ВКонтакте API для .Net (можно поучаствовать)
+http://habrahabr.ru/post/216553/
+https://vk.codeplex.com
+
+Кросс-платформенный файловый менеджер? Это реальность
+http://habrahabr.ru/post/226669/
+

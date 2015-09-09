@@ -1,0 +1,8 @@
+
+Формат исполняемых файлов
+-------------------------
+Пошаговое руководство к исполняемым файлам (EXE) Windows
+http://habrahabr.ru/post/148194/
+
+ФОРМАТ ИСПОЛНЯЕМЫХ ФАЙЛОВ PortableExecutables (PE)
+https://exelab.ru/art/?action=view&id=146

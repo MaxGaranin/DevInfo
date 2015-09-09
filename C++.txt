@@ -1,0 +1,3 @@
+
+Для новичков про stdafx.h
+http://habrahabr.ru/company/pvs-studio/blog/227521/

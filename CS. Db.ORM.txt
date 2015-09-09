@@ -1,0 +1,18 @@
+
+Общее
+-----
+Fetch performance of various .NET ORM / Data-access frameworks
+http://weblogs.asp.net/fbouma/fetch-performance-of-various-net-orm-data-access-frameworks
+
+3 самые плохие вещи, которые можно сделать с помощью Linq to Database
+http://habrahabr.ru/post/230479/
+
+7 мифов о Linq to Database
+http://habrahabr.ru/post/230623/
+
+Выбор ORM-стратегии (.NET)
+http://habrahabr.ru/post/160845/
+
+ORM или объектно-реляционный проектор
+http://habrahabr.ru/company/piter/blog/165327/
+

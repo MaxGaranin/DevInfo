@@ -1,0 +1,33 @@
+
+Рефакторить или не рефакторить?
+http://habrahabr.ru/company/enterra/blog/229051/
+
+Комментировать или не комментировать?
+http://habrahabr.ru/company/enterra/blog/182574/
+
+Совершенный код и реальные проекты
+http://habrahabr.ru/company/enterra/blog/183360/
+
+Почему нет простых решений о том, что лучше — купить серверов или оптимизировать код
+http://habrahabr.ru/post/232369/
+
+Как улучшить свой стиль программирования?
+http://habrahabr.ru/post/230637/
+
+Иерархия принципов проектирования, или самые важные слова для инженеров
+http://habrahabr.ru/post/169487/
+
+Проблемы с кодом? Помогите команде писать лучший код. Советы от Дино Эспозито
+http://habrahabr.ru/company/luxoft/blog/215345/
+
+Практика хорошего кода
+http://habrahabr.ru/post/206868/
+
+Код, который невозможно поддерживать
+http://habrahabr.ru/post/99016/
+
+Как писать неподдерживаемый код?
+http://learn.javascript.ru/write-unmain-code
+
+Стиль кода от javascript.ru (очень полезно)
+http://learn.javascript.ru/coding-style

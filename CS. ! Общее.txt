@@ -1,0 +1,126 @@
+
+Что нового
+----------
+Введение в .NET Core
+http://habrahabr.ru/company/microsoft/blog/245901/
+
+Переход на .NET Framework 4.5. Преимущества и недостатки
+http://sonyks2007.blogspot.ru/2014/08/net-framework-45.html
+
+
+Важно
+-----
+Онлайн-исходники от Microsoft
+http://referencesource.microsoft.com/
+
+
+Ресурсы
+-------
+Load DLL From Embedded Resource
+http://www.codeproject.com/Articles/528178/Load-DLL-From-Embedded-Resource
+
+
+Обновление ПО
+-------------
+Пишем свой сервис авто-обновлений
+http://habrahabr.ru/post/131649/
+
+
+Контракты кода
+--------------
+Code Contracts в .NET 4.0
+http://www.regfordev.com/2010/04/code-contracts-net-40.html#.Uzk4OpLJSrA
+
+Основы Code Contracts
+http://andrey.moveax.ru/post/csharp-code-contracts-basics.aspx
+
+
+Измерение времени работы (Benchmark)
+------------------------------------
+Использование Stopwatch
+http://sonyks2007.blogspot.ru/2013/12/stopwatch.html
+
+Под капотом у Stopwatch
+http://habrahabr.ru/post/226279/
+
+Учимся писать правильные C#-бенчмарки (есть тестовый проект)
+http://habrahabr.ru/post/191636/
+
+На мгновение быстрее: измеряем время упаковки и распаковки значимых типов данных
+http://habrahabr.ru/post/210108/
+
+Работа над бенчмарками
+http://aakinshin.blogspot.ru/2013/09/dotnet-benchmark-ferrum-box-linq.html
+
+
+Оптимизация
+-----------
+Field vs Property. Optimisation of performance
+http://stackoverflow.com/questions/9842917/field-vs-property-optimisation-of-performance
+
+
+Enum
+----
+Filtering an Enum by Attribute
+http://tiredblogger.wordpress.com/2009/07/09/filtering-an-enum-by-attribute/
+
+
+Culture
+-------
+Why we have both CurrentCulture and CurrentUICulture
+http://blogs.msdn.com/b/michkap/archive/2007/01/11/1449754.aspx
+
+
+IO
+--
+Стримы в .NET
+http://sergeyteplyakov.blogspot.ru/2013/09/net.html
+
+
+Строки, кодировки
+-----------------
+UTF-8: Кодирование и декодирование
+http://habrahabr.ru/post/138173/
+
+Строки в C# и .NET
+http://habrahabr.ru/post/165597/ (Джон Скит)
+
+Эффективная конкатенация строк в .NET (Джон Скит)
+http://habrahabr.ru/post/166701/
+
+
+Excel automation
+----------------
+Kill Excel.exe Process in C# .NET
+http://july-code.blogspot.de/2008/11/kill-excelexe-process-in-c-net.html
+
+How to properly clean up Excel interop objects
+http://stackoverflow.com/questions/158706/how-to-properly-clean-up-excel-interop-objects
+
+
+Приведение типов для двумерных массивов
+---------------------------------------
+Multidimensional Array Casting Runtime Error ---> unable to cast object of type 'System.Object[,]' to type 'System.String
+http://stackoverflow.com/questions/14125913/multidimensional-array-casting-runtime-error-unable-to-cast-object-of-type
+
+How can I convert a boxed two-dimensional array to a two-dimensional string array in one step?
+http://stackoverflow.com/questions/6065695/how-can-i-convert-a-boxed-two-dimensional-array-to-a-two-dimensional-string-arra
+
+
+Разное
+------
+Генерация случайных чисел в .NET (Джон Скит)
+http://habrahabr.ru/users/klotos/topics/
+
+Папка запуска программы
+http://stackoverflow.com/questions/6041332/best-way-to-get-application-folder-path
+
+Virtual member call in a constructor when assigning value to property
+http://stackoverflow.com/questions/4625614/virtual-member-call-in-a-constructor-when-assigning-value-to-property
+
+Версионирование сборок
+http://www.regfordev.com/2013/07/blog-post.html?utm_source=BP_recent#.Uzk-_JLJSrA
+
+Условная компиляция
+http://www.regfordev.com/2009/12/blog-post.html#.UzlDJ5LJSrA
+

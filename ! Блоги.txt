@@ -1,0 +1,118 @@
+
+Проектирование
+--------------
+! Programming stuff.Тепляков Сергей (проектирование, внутреннее строение .Net)
+http://sergeyteplyakov.blogspot.ru/
+https://github.com/SergeyTeplyakov
+
+! Блог Александра Бындю (проектирование)
+http://blog.byndyu.ru/
+https://github.com/AlexanderByndyu
+
+! Andrey on .NET. Веселов Андрей (ORM, ASP.NET MVC)
+http://andrey.moveax.ru/
+
+Статьи Джимми Богарда на LosTechies (проектирование)
+http://lostechies.com/jimmybogard/2008/06/17/separation-of-concerns-how-not-to-do-it/
+
+Marc Gravell (неплохой блог, материалы по PropertyDescriptor)])
+http://marcgravell.blogspot.ru/
+
+! Интереснейший блог про разработку и тестирование (удивительно, но это блог разработчика Delphi)
+http://18delphi.blogspot.ru/
+http://programmingmindstream.blogspot.com/
+
+Outcoldman (Denis Gladkikh)
+http://outcoldman.com/
+
+ScottGu's Blog
+http://weblogs.asp.net/scottgu
+
+Статьи Джулии Лерман (Julie Lerman) на MSDN (.Net, Entity Framework)
+http://msdn.microsoft.com/ru-ru/magazine/ee532098(en-us).aspx?sdmr=JulieLerman&sdmi=authors
+
+Статьи Дино Эспозито (Dino Esposito) на MSDN
+http://msdn.microsoft.com/ru-ru/magazine/ee532098(en-us).aspx?sdmr=DinoEsposito&sdmi=authors
+
+Неплохой сайт Bradley Braithwaite, разработчика ASP.NET MVC.
+Весь цикл статей (DDD, репозитории, Dapper, EF) и учебный проект
+http://www.contentedcoder.com/2012/11/aspnet-10-years-on-my-journey.html
+
+Интересный сайт Bob Cravens, 
+cтатьи про использование ASP.NET MVC, NHibernate и репозиториев,
+есть учебный проект
+http://bobcravens.com/
+http://gpsnerd.codeplex.com/
+
+Блог Марка Симана, автора книги Dependency Injection in .NET
+http://blog.ploeh.dk/archive.html
+-----------------------------------------------------------------------------------------------
+
+CS (Deep)
+---------
+! Невероятные приключения в коде. Перевод блога Эрика Липперта (Eric Lippert)
+http://blogs.msdn.com/b/ruericlippert/?Redirected=true
+Оригинал
+http://ericlippert.com/
+
+! Блог Джона Скита (Jon Skeet)
+http://codeblog.jonskeet.uk/
+
+Блог Стаса Сидристого на Хабре
+http://habrahabr.ru/users/sidristij/topics/
+-----------------------------------------------------------------------------------------------
+
+WPF
+---
+! Aleksandr Polukhovich. Отличный блог и не только по WPF.
+http://sonyks2007.blogspot.ru
+
+! MUHAMMAD SHUJAAT SIDDIQI (отличный блог по WPF)
+http://www.shujaat.net/
+
+Статьи Laurent Bugnion на MSDN (WPF, MVVM)
+http://msdn.microsoft.com/ru-ru/magazine/ee532098(en-us).aspx?sdmr=LaurentBugnion&sdmi=authors
+
+Блог Бориса Романова (неплохо про WPF)
+http://dev-sol.blogspot.ru/
+
+Переводы статей Beatriz Costa (отличный автор для начинающих) на Хабре.
+http://habrahabr.ru/users/blackfoks/topics/
+Оригинал
+http://www.zagstudio.com/categories/blog/wpf#.VFoW8fmsX0o
+
+Josh Smith Guided Tour (Туториал от Джоша Смита)
+http://joshsmithonwpf.wordpress.com/a-guided-tour-of-wpf/
+
+Rachel Lim's Blog (Очень интересные и простые статьи, автор часто подробно отвечает на stackoverflow)
+http://rachel53461.wordpress.com/2011/12/18/navigation-with-mvvm-2/
+
+Mitesh Sureja's Blog. (Отличный сборник статей по изучению WPF)
+http://miteshsureja.blogspot.ru/p/wpf-tutorial.html
+
+Сборник статей по изучению WPF (Просто и ясно)
+http://soumya.wordpress.com/2009/12/31/wpf-simplified-part-6-attached-properties/
+
+Хорошие обучающие материалы (Chtistian Mosers)
+http://wpftutorial.net/DependencyProperties.html
+
+
+Entity Framework
+----------------
+One Unicorn (очень мощный сайт одного из разработчиков EF)
+http://blog.oneunicorn.com/
+
+Статьи Джулии Лерман (Julie Lerman) на MSDN (.Net, Entity Framework)
+http://msdn.microsoft.com/ru-ru/magazine/ee532098(en-us).aspx?sdmr=JulieLerman&sdmi=authors
+
+
+Математика, алгоритмы
+---------------------
+Блог Тимура Гуева
+http://timyrguev.blogspot.ru/
+
+
+Web
+---
+Антон Шевчук. Отличные лекции по jQuery
+http://anton.shevchuk.name/javascript/jquery-for-beginners/

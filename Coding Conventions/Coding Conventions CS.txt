@@ -1,0 +1,12 @@
+
+C#: требовани€ и рекомендации по написанию кода
+http://habrahabr.ru/post/26077/
+
+—тандарты и правила оформлени€ кода C#
+http://michaelsmirnov.blogspot.ru/2011/01/c.html
+
+C# Coding Conventions (C# Programming Guide)
+http://msdn.microsoft.com/ru-ru/library/ff926074.aspx
+
+C# Coding Standards and Naming Conventions (неплохо)])
+http://www.dofactory.com/reference/csharp-coding-standards.aspx

@@ -1,0 +1,109 @@
+
+Последнее
+---------
+Entity Framework глазами постороннего
+http://habrahabr.ru/post/262023/
+
+Entity Framework 6 (7) vs NHibernate 4: взгляд со стороны DDD
+http://habrahabr.ru/post/262407/
+
+
+Интересно
+---------
+Associations in EF Code First CTP5: Part 1 – Complex Types
+http://weblogs.asp.net/manavi/entity-association-mapping-with-code-first-part-1-one-to-one-associations
+
+
+ChangeTracker
+-------------
+Secrets of DetectChanges Part 1: What does DetectChanges do? (4 статьи)
+http://blog.oneunicorn.com/2012/03/10/secrets-of-detectchanges-part-1-what-does-detectchanges-do/
+
+
+Создание различных связей
+-------------------------
+Associations in EF Code First CTP5: Part 3 – One-to-One Foreign Key Associations
+http://weblogs.asp.net/manavi/Tags/Entity%20Framework
+
+
+Наследование, иерархии
+----------------------
+Inheritance with EF Code First: Part 1 – Table per Hierarchy (TPH)
+http://weblogs.asp.net/manavi/inheritance-mapping-strategies-with-entity-framework-code-first-ctp5-part-1-table-per-hierarchy-tph
+
+
+Транзакции
+----------
+Как управлять транзакциями на платформе Entity Framework
+https://msdn.microsoft.com/ru-ru/library/vstudio/bb738523(v=vs.100).aspx
+
+
+Общее
+-----
+! Реализация слоя доступа к данным на Entity Framework Code First (интересно, есть тестовый проект)
+http://habrahabr.ru/post/219947/
+
+! Пишем слой доступа к данным c POCO и EF (неплохо)
+http://www.regfordev.com/2011/09/blog-post.html#.Uzk-p5LJSrA
+
+Models (POCO), Entity Framework and Data Patterns (неплохо, есть тестовый проект)
+http://www.codeproject.com/Articles/615499/Models-POCO-Entity-Framework-and-Data-Patterns
+
+Entity Framework Code First на практике
+http://habrahabr.ru/post/236037/
+
+Разработка баз данных с Code First
+http://habrahabr.ru/post/234827/
+
+Entity Framework и производительность
+http://habrahabr.ru/post/227637/
+
+Профайлер для Entity Framework
+http://habrahabr.ru/post/221681/
+
+Entity Framework 4.0 Resources – documentation links, best blog posts and more
+http://blogs.msdn.com/b/ericnel/archive/2009/09/23/entity-framework-4-0-resources-documentation-links-best-blog-posts-and-more.aspx
+
+Entity Framework Code First — индексация полей и полнотекстовый поиск
+http://habrahabr.ru/post/189806/
+
+Entity Framework 6 — ALPHA
+http://habrahabr.ru/post/157267/
+
+Пошаговый обзор стратегии Code First в Entity Framework 4.1
+http://blog.vkuznetsov.ru/posts/2011/06/12/poshagovyj-obzor-strategii-code-first-v-entity-framework-41#.UyrDh5LJSrB
+
+Code First to an Existing Database
+http://msdn.microsoft.com/en-US/data/jj200620
+Code First to a New Database
+http://msdn.microsoft.com/en-US/data/jj193542
+
+Использование Entity Framework совместно с WPF
+http://ferrum-box.blogspot.ru/2012/03/entity-framework-wpf.html
+
+
+! Статьи Джулии Лерман на MSDN (.Net, Entity Framework)
+-----------------------------------------------------
+Полный список
+http://msdn.microsoft.com/ru-ru/magazine/ee532098(en-us).aspx?sdmr=JulieLerman&sdmi=authors
+
+Профилирование операций с базой данных в Entity Framework
+http://msdn.microsoft.com/ru-ru/magazine/gg490349.aspx
+
+Entity Framework 6: издание для ниндзя
+http://msdn.microsoft.com/ru-ru/magazine/dn532202.aspx
+
+Новшества Code First в Entity Framework 6
+http://msdn.microsoft.com/ru-ru/magazine/dn519921.aspx
+
+Кодирование при использовании DDD: советы разработчикам, сосредоточенным на операциях с данными (3 части)
+http://msdn.microsoft.com/ru-ru/magazine/dn342868.aspx
+
+
+Управление сеансами
+-------------------
+! Managing DbContext the right way with Entity Framework 6: an in-depth guide (огромная статья и есть тестовый проект)
+http://mehdi.me/ambient-dbcontext-in-ef6/
+
+Entity Framework and Connection Pooling
+http://stackoverflow.com/questions/3653009/entity-framework-and-connection-pooling/3653392#3653392

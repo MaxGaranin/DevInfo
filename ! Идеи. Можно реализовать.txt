@@ -1,0 +1,70 @@
+
+Общее
+-----
+Разработка системы автоматизации процедуры подготовки и проведения заседаний Правительства с помощью технологий Microsoft – Часть 1 (Постановка задачи)
+http://kavayii.blogspot.ru/2010/08/microsoft-1.html
+
+Как мы написали helpdesk (Php)
+http://habrahabr.ru/post/227277/
+
+Калькулятор кредита в Сбербанке.
+
+Поисковая форма Авито.
+
+
+Мобильное
+---------
+Кому нужен старательный IOS — junior без опыта? (есть пример тестового задания)
+https://toster.ru/q/205284
+
+Конкурс ВК: Мессенджер для Android. Как это было!?
+http://habrahabr.ru/post/147335/
+
+Хочешь быть iOS разработчиком? Будь им!
+http://habrahabr.ru/post/149090/
+
+
+Игры
+----
+Шайбу вбросим в iOS восемь
+http://habrahabr.ru/company/papabubadiop/blog/253423/
+
+Как из пустой пластиковой бутылки, картинки и шейдера сделать игру для iOS за выходные
+http://habrahabr.ru/post/251413/
+
+Пример написание игры Color Lines
+http://www.imaladec.com/story/primer_napisanie_igri_color_lines
+
+Пишем игру для iPhone
+http://www.imaladec.com/story/pinpong
+
+6 игр за 6 недель — игра пятая (Пляшущие человечки)
+http://habrahabr.ru/company/papabubadiop/blog/246497/
+6 игр за 6 недель — игра четвертая (Чапай)
+http://habrahabr.ru/company/papabubadiop/blog/246369/
+6 игр за 6 недель — игра третья (В4)
+http://habrahabr.ru/company/papabubadiop/blog/246293/
+6 игр за 6 недель — игра вторая (4 комнаты)
+http://habrahabr.ru/company/papabubadiop/blog/246195/
+6 игр за 6 недель — неделя первая (Swips)
+http://habrahabr.ru/company/papabubadiop/blog/246069/
+
+Реализация шаблона MVC на примере игры типа Packman – Часть 1 (серия статей)
+http://kavayii.blogspot.ru/2010/08/mvc-packman-1.html
+
+Разработка приложения JobTerrarium
+http://kavayii.blogspot.ru/2010/08/jobterrarium.html
+
+Чем заняться айтишнику в армии или как я на VBA игры писал
+http://habrahabr.ru/post/237641/
+
+Пятнашки
+Танчики
+
+Интересная игра, усложненные крестики-нолики (блог тоже неплохой, если про WPF)
+Можно сделать и обычные крестики-нолики
+http://druss.pp.ua/tic-tac-toe/
+http://habrahabr.ru/post/183764/
+
+Разработка Судоку для Windows 8.1
+http://habrahabr.ru/post/204922/

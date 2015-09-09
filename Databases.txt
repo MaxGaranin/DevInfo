@@ -1,0 +1,55 @@
+
+SQL Server
+----------
+Поиск и подключение к MSSQL серверу
+http://varshots.ru/2013/08/09/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-%D0%B8-%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA-mssql-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D1%83/
+
+Microsoft Data Connection Dialog
+https://github.com/kjbartel/ConnectionDialog
+
+
+SQL Server LocalDb
+------------------
+LocalDB: Where is My Database?
+http://blogs.msdn.com/b/sqlexpress/archive/2011/10/28/localdb-where-is-my-database.aspx
+
+Introducing LocalDB, an improved SQL Express
+http://blogs.msdn.com/b/sqlexpress/archive/2011/07/12/introducing-localdb-a-better-sql-express.aspx
+
+SQL Express v LocalDB v SQL Compact Edition
+http://blogs.msdn.com/b/jerrynixon/archive/2012/02/26/sql-express-v-localdb-v-sql-compact-edition.aspx
+
+Первый взгляд на LocalDB
+http://andrey.moveax.ru/post/sqlserver-localdb-first-look.aspx
+
+
+SQLite
+------
+SQLite Helper (C#)
+http://www.codeproject.com/Articles/746191/SQLite-Helper-Csharp
+
+SQLite performance tuning and optimization on embedded systems
+http://katastrophos.net/andre/blog/2007/01/04/sqlite-performance-tuning-and-optimization-on-embedded-systems/
+
+How do I improve the performance of SQLite?
+http://stackoverflow.com/questions/1711631/how-do-i-improve-the-performance-of-sqlite?lq=1
+
+! Insert new column into table in sqlite ? (здесь есть вариант и с копированием данных)
+http://stackoverflow.com/questions/4253804/insert-new-column-into-table-in-sqlite
+
+SQLite — замечательная встраиваемая БД
+http://habrahabr.ru/post/149356/
+http://habrahabr.ru/post/149390/
+http://habrahabr.ru/post/149635/
+
+Что нового в SQLite (2013)?
+http://habrahabr.ru/post/193238/
+
+
+Разное
+------
+StubDb — база данных на стабах для быстрого прототипирования и не только
+http://habrahabr.ru/post/212437/
+
+Базы данных в онлайн играх. От Аллодов Онлайн до Skyforge
+http://habrahabr.ru/company/mailru/blog/182088/

@@ -1,0 +1,371 @@
+
+Сборники статей и блоги
+-----------------------
+! Очень важный сайт с точки зрения WPF и MVVM (много статей)
+http://sonyks2007.blogspot.ru
+
+Josh Smith Guided Tour (Туториал от Джоша Смита)
+http://joshsmithonwpf.wordpress.com/a-guided-tour-of-wpf/
+
+Статьи Laurent Bugnion на MSDN (MVVM)
+http://msdn.microsoft.com/ru-ru/magazine/ee532098(en-us).aspx?sdmr=LaurentBugnion&sdmi=authors
+
+Rachel Lim's Blog (Очень интересные и простые статьи, автор часто подробно отвечает на stackoverflow)
+http://rachel53461.wordpress.com/2011/12/18/navigation-with-mvvm-2/
+
+Mitesh Sureja's Blog. (Отличный сборник статей по изучению WPF)
+http://miteshsureja.blogspot.ru/p/wpf-tutorial.html
+
+Сборник статей по изучению WPF (Просто и ясно)
+http://soumya.wordpress.com/2009/12/31/wpf-simplified-part-6-attached-properties/
+
+Хорошие обучающие материалы (Chtistian Mosers)
+http://wpftutorial.net/DependencyProperties.html
+
+Using the Model-View-ViewModel Pattern (Большая глава от Microsoft)
+http://msdn.microsoft.com/en-us/library/hh821028.aspx
+
+Переводы статей Beatriz Costa (отличный автор для начинающих) на Хабре.
+http://habrahabr.ru/users/blackfoks/topics/
+Оригинал
+http://www.zagstudio.com/categories/blog/wpf#.VFoW8fmsX0o
+
+ItemsControl: A to Z (серия статей от Dr.WPF)
+http://drwpf.com/blog/itemscontrol-a-to-z/
+
+Блог Бориса Романова (неплохо про WPF)
+http://dev-sol.blogspot.ru/
+
+MUHAMMAD SHUJAAT SIDDIQI (отличный блог по WPF)
+http://www.shujaat.net/
+
+
+Что нового
+----------
+Глубокое погружение в систему рендеринга WPF
+http://habrahabr.ru/post/255683/
+
+Почему WPF живее всех живых?
+http://habrahabr.ru/company/geekfamily/blog/253341/
+
+The Roadmap for WPF (2014.11)
+http://blogs.msdn.com/b/dotnet/archive/2014/11/12/the-roadmap-for-wpf.aspx
+
+Семь лет WPF: что изменилось?
+http://habrahabr.ru/post/165273/
+
+WPF 4 (VS 2010 and .NET 4.0 Series)
+http://weblogs.asp.net/scottgu/archive/2009/10/26/wpf-4-vs-2010-and-net-4-0-series.aspx
+
+WPF 4.0. Что нового? Часть 5
+http://outcoldman.com/ru/blog/show/189
+
+
+Проблемы, узкие места, утечки памяти
+------------------------------------
+Подводные камни WPF
+http://habrahabr.ru/post/262299/
+
+Утечки памяти в WPF
+http://sonyks2007.blogspot.ru/2013/12/wpf.html
+
+
+Производительность
+------------------
+Сравнение производительности UI в WPF, Qt, WinForms и FLTK
+http://habrahabr.ru/post/263897/
+Выбор между C++ и C#
+http://habrahabr.ru/post/262461/
+
+WPF Animations Tips and Tricks
+http://blogs.msdn.com/b/wpfsdk/archive/2007/01/18/wpf-animations-tips-and-tricks.aspx
+
+
+Коллекции
+---------
+Can I bind my ItemsControl to a dictionary?
+http://drwpf.com/blog/2007/09/16/can-i-bind-my-itemscontrol-to-a-dictionary/
+
+ObservableDictionary<TKey, TValue>
+http://blogs.microsoft.co.il/blogs/shimmy/archive/2010/12/26/observabledictionary-lt-tkey-tvalue-gt-c.aspx
+
+ReadOnlyObservableCollection anti-pattern
+http://code.logos.com/blog/2009/03/readonlyobservablecollection_anti-pattern.html
+
+How can I make a read-only ObservableCollection property?
+http://stackoverflow.com/questions/1763696/how-can-i-make-a-read-only-observablecollection-property
+
+
+DependencyProperties
+--------------------
+Dependency Properties (Jesse Liberty)
+http://jesseliberty.com/2011/08/08/dependency-properties/
+
+Dependency Properties (Christian Mosers)
+http://wpftutorial.net/DependencyProperties.html
+
+Свойства зависимости и уведомления (Чарльз Петцольд)
+http://msdn.microsoft.com/ru-ru/magazine/cc794276.aspx
+
+WPF Tutorial - Dependency Property
+http://www.codeproject.com/Articles/140620/WPF-Tutorial-Dependency-Property
+
+PropertyDescriptor AddValueChanged Alternative
+http://agsmith.wordpress.com/2008/04/07/propertydescriptor-addvaluechanged-alternative/
+
+Exploring the use of Dependency Properties in User Controls
+http://www.codeproject.com/Articles/224230/Exploring-the-use-of-Dependency-Properties-in-User
+
+-- Последовательность событий при загрузке контрола
+
+Lifetime events of a WPF application 
+http://www.codeproject.com/Articles/403418/Lifetime-events-of-a-WPF-application
+Control Initialization Order Fiasco
+http://stackoverflow.com/questions/9535810/control-initialization-order-fiasco
+
+Dependency Property Value Precedence (Неплохая справка по DP с MSDN)
+http://msdn.microsoft.com/en-us/library/ms743230.aspx
+
+Dependency Property Value Changed does not fire when setting to same value
+http://social.msdn.microsoft.com/Forums/vstudio/en-US/d79f8b34-e116-45f7-a592-42d6b849a437/dependency-property-value-changed-does-not-fire-when-setting-to-same-value
+
+Checking if a WPF property is set or not
+http://siderite.blogspot.com/2010/02/checking-if-wpf-property-is-set-or-not.html
+
+
+Notification
+------------
+Борьба с INotifyPropertyChanged или как я стал опенсорсником — 2
+http://habrahabr.ru/post/95211/
+
+Fody и его плагины
+http://habrahabr.ru/post/220701/
+
+MVVM – Lambda vs INotifyPropertyChanged vs DependencyObject
+http://blog.quantumbitdesigns.com/2010/01/26/mvvm-lambda-vs-inotifypropertychanged-vs-dependencyobject/
+
+Есть пример базового класса NotificationObject в проекте DmFund
+или NotifiableObject в MVVM Light.
+
+
+Binding
+-------
+! Настройка отображения данных с привязкой данных и WPF (Джош Смит)
+http://msdn.microsoft.com/ru-ru/magazine/cc700358.aspx
+
+WPF: Binding без тривиальных конвертеров (написание своего байндинга, можно разобраться, как работает байндинг)
+http://habrahabr.ru/post/248197/
+
+Привязка данных в Windows Presentation Foundation (Джон Папа)
+http://msdn.microsoft.com/ru-ru/magazine/cc163299.aspx
+
+WPF Binding: Когда нужно использовать ObjectDataProvider? (Здесь же хорошо написано про валидацию)
+http://habrahabr.ru/post/46998/
+
+How to update dependency property without breaking binding? (Когда ломается байндинг)
+http://social.msdn.microsoft.com/Forums/vstudio/en-US/8819f0d6-4c18-480c-941d-94cee18713e1/how-to-update-dependency-property-without-breaking-binding
+
+How to bind to data when the DataContext is not inherited (Привязка данных, когда недоступен DataContext)
+http://www.thomaslevesque.com/2011/03/21/wpf-how-to-bind-to-data-when-the-datacontext-is-not-inherited/
+
+-- MultiBinding
+
+WPF Binding and MultiBinding Data Converters
+http://dev.net.ua/blogs/andriydanilchenko/archive/2011/08/14/binding-and-multibinding-converters.aspx
+
+WPF Tutorial - Using MultiBindings
+http://tech.pro/tutorial/809/wpf-tutorial-using-multibindings
+
+
+Converters
+----------
+How do I invert BooleanToVisibilityConverter?
+http://stackoverflow.com/questions/534575/how-do-i-invert-booleantovisibilityconverter
+
+-- Converters with parameters
+
+Binding ConverterParameter
+http://stackoverflow.com/questions/15309008/binding-converterparameter
+
+WPF: Несколько параметров для конвертера
+http://habrahabr.ru/post/141107/
+
+
+Validation
+----------
+! Validation in Windows Presentation Foundation
+http://www.codeproject.com/Articles/15239/Validation-in-Windows-Presentation-Foundation
+
+WPF Input Validation Part 1: Tutorial and examples
+http://blog.vascooliveira.com/wpf-input-validation-part-1-tutorial-and-examples/
+
+Binding ValidationRule's property
+http://social.msdn.microsoft.com/Forums/vstudio/en-US/982e2fcf-780f-4f1c-9730-cedcd4e24320/binding-validationrules-property
+
+MVVM Validation Helpers
+http://mvvmvalidation.codeplex.com/
+
+-- Group Validation
+
+WPF 3.5 SP1 Feature: BindingGroups with Item-level Validation
+http://blogs.msdn.com/b/vinsibal/archive/2008/08/11/wpf-3-5-sp1-feature-bindinggroups-with-item-level-validation.aspx
+
+Bindinggroups for total view validation
+http://www.scottlogic.com/blog/2009/01/26/bindinggroups-for-total-view-validation.html
+
+-- Adorners
+
+WPF Adorners
+http://www.shujaat.net/2010/07/wpf-adorners.html
+
+-- ValidationRule with parameters
+
+Attaching a Virtual Branch to the Logical Tree in WPF
+http://www.codeproject.com/Articles/18678/Attaching-a-Virtual-Branch-to-the-Logical-Tree-in
+
+Fully binded validation by using Dependency and Attached properties
+http://dedjo.blogspot.ru/2007/05/fully-binded-validation-by-using.html
+
+How to add a binding to a property on a ValidationRule
+http://www.wpfmentor.com/2009/01/how-to-add-binding-to-property-on.html
+
+[WPF] Custom ValidationRule with an additional parameter
+http://michlg.wordpress.com/2010/01/29/wpf-custom-validationrule-with-an-additional-parameter/
+
+
+Templates
+---------
+
+-- DataTemplateSelector
+
+Динамический выбор шаблона DataTemplateSelector
+http://csharpcoding.org/dinamicheskij-vybor-shablona/
+
+WPF Tutorial - How To Use A DataTemplateSelector
+http://tech.pro/tutorial/807/wpf-tutorial-how-to-use-a-datatemplateselector
+
+-- Анализ шаблонов отображения по умолчанию
+
+Control Styles and Templates
+http://msdn.microsoft.com/en-us/library/aa970773.aspx
+
+Blend tip: finding default styles using “Edit a Copy”
+http://www.jeff.wilcox.name/2010/08/using-blend-to-find-default-style-xaml/
+
+How to Extract Default Control Template In Visual Studio?
+http://stackoverflow.com/questions/8825030/how-to-extract-default-control-template-in-visual-studio
+
+
+Визуальные и логические деревья
+-------------------------------
+Understanding the Visual Tree and Logical Tree in WPF (Josh Smith)
+http://www.codeproject.com/Articles/21495/Understanding-the-Visual-Tree-and-Logical-Tree-in
+
+Attaching a Virtual Branch to the Logical Tree in WPF (Josh Smith)
+http://www.codeproject.com/Articles/18678/Attaching-a-Virtual-Branch-to-the-Logical-Tree-in
+
+
+Триггеры
+--------
+Создание простого триггера в WPF
+http://kavayii.blogspot.ru/2011/06/wpf_4082.html
+
+Triggers in WPF
+http://www.codeproject.com/Tips/522041/Triggers-in-WPF
+
+! В статье есть пример написания своего EventToCommand через Behavior (на русском)
+http://sonyks2007.blogspot.ru/2013/11/behaviors-in-wpf-introduction.html
+
+
+События, команды
+----------------
+Знакомство с маршрутизированными событиями и командами в WPF (Брайан Нойс)
+http://msdn.microsoft.com/ru-ru/magazine/cc785480.aspx
+
+DataGrid bind command to row select
+http://stackoverflow.com/questions/15327227/datagrid-bind-command-to-row-select
+
+
+MarkupExtensions
+----------------
+! WPF: конвертеры как MarkupExtension
+http://habrahabr.ru/post/140876/
+
+Creating a Custom Markup Extension in WPF
+http://10rem.net/blog/2011/03/09/creating-a-custom-markup-extension-in-wpf-and-soon-silverlight
+
+WPF Markup Extensions
+http://www.shujaat.net/2010/07/wpf-markup-extensions.html
+
+WPF Converter Property
+http://stackoverflow.com/questions/17290409/wpf-converter-property
+
+
+Attached properties
+-------------------
+! WPF: Что делать, когда свойство не поддерживает привязку
+http://habrahabr.ru/post/215249/
+
+Mouse Event Commands for MVVM
+http://www.codeproject.com/Tips/478643/Mouse-Event-Commands-for-MVVM
+
+
+Behaviours
+----------
+! Behaviors in WPF introduction (по русски)
+http://sonyks2007.blogspot.ru/2013/11/behaviors-in-wpf-introduction.html
+
+Создание поведений
+http://professorweb.ru/my/WPF/binding_and_styles_WPF/level11/11_10.php
+
+Behaviors in WPF introduction
+http://www.jayway.com/2013/03/20/behaviors-in-wpf-introduction/
+
+
+UserControls и CustomControls
+-----------------------------
+A Simple Pattern for Creating Re-useable UserControls in WPF / Silverlight
+http://www.scottlogic.co.uk/blog/colin/2012/02/a-simple-pattern-for-creating-re-useable-usercontrols-in-wpf-silverlight/
+
+Create a WPF Custom Control, Part 1
+http://www.codeproject.com/Articles/49797/Create-a-WPF-Custom-Control-Part-1
+Create a WPF Custom Control, Part 2
+http://www.codeproject.com/Articles/49802/Create-a-WPF-Custom-Control-Part-2
+
+
+d:Ignore
+--------
+mc:Ignorable Attribute
+http://msdn.microsoft.com/en-us/library/aa350024.aspx
+
+Quick tip: Commenting out properties in XAML
+http://geekswithblogs.net/lbugnion/archive/2010/02/01/quick-tip-commenting-out-properties-in-xaml.aspx
+
+
+Локализация WPF-приложений
+--------------------------
+Технология локализации WPF приложений
+http://dev-sol.blogspot.ru/2011/06/wpf.html
+
+Локализация строк в WPF приложениях
+http://dev-sol.blogspot.ru/2011/06/wpf_14.html
+
+Использование перечислений в локализуемых WPF приложениях
+http://dev-sol.blogspot.ru/2011/09/wpf.html
+
+Локализация WPF приложений
+http://habrahabr.ru/post/86778/
+
+Практическое руководство. Локализация приложения
+http://msdn.microsoft.com/ru-ru/library/ms746621.aspx
+
+WPF - Самый простой способ локализации
+http://www.gotdotnet.ru/blogs/eisernwolf/2107/
+
+
+Создание пошагового визарда (Wizard)
+------------------------------------
+Пишем простой визард на WPF
+http://sonyks2007.blogspot.ru/2014/03/wpf.html
+
+

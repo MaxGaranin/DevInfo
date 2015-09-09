@@ -1,0 +1,35 @@
+
+RESTful vs SOAP и прочие размышления
+------------------------------------
+SOAP vs RESTful
+http://samolisov.blogspot.ru/2013/12/soap-vs-restful.html
+
+Дао Вебсервиса. (Или да хватит же изобретать велосипеды!)
+http://habrahabr.ru/post/75248/
+
+REST vs SOAP. Часть 1. Почувствуйте разницу
+http://habrahabr.ru/post/131343/
+
+Разница между WCF, Web API, WCF REST и Web Service
+http://lexsop.com.ua/riznitsya-mizh-wcf-web-api-wcf-rest-i-web-service/?lang=ru
+
+
+Вопросы-ответы с Toster
+-----------------------
+Как передать произвольный метод в класс для асинхронного выполнения, отслеживания статуса и получения результата?
+https://toster.ru/q/64764
+
+Что выбрать в качестве серверного приложения, ASP.Net или WCF?
+https://toster.ru/q/65754
+
+Как написать метод загрузки файла на сервер с помощью ASP.NET WebAPI?
+https://toster.ru/q/70156
+
+
+Сетевое программирование
+-----------------------
+Как я писал свой чат
+http://habrahabr.ru/post/228021/
+
+Cетевое взаимодействие посредством TCP в C#
+http://habrahabr.ru/post/220285/

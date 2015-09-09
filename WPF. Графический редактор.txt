@@ -1,0 +1,11 @@
+
+WPF DrawTools
+http://www.codeproject.com/Articles/22776/WPF-DrawTools
+
+WPF Diagram Designer: Part 1
+http://www.codeproject.com/Articles/22952/WPF-Diagram-Designer-Part-1
+WPF Diagram Designer - Part 4
+http://www.codeproject.com/Articles/24681/WPF-Diagram-Designer-Part-4#_articleTop
+
+WPF Shape Editor works with MVVM
+http://blogs.microsoft.co.il/tomershamam/2010/10/19/wpf-shape-editor-works-with-mvvm/

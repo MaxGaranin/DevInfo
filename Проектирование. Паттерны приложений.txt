@@ -1,0 +1,56 @@
+
+Repository
+----------
+The generic repository is just a lazy anti-pattern
+http://www.ben-morris.com/why-the-generic-repository-is-just-a-lazy-anti-pattern
+
+
+CQRS
+----
+Реализация CQRS в .NET. Часть 1 – шаблоны CQS и CQRS
+http://andrey.moveax.ru/post/patterns-cqrs-part1-introducing.aspx
+
+Введение в CQRS + Event Sourcing: Часть 1. Основы
+http://habrahabr.ru/post/146429/
+Введение в CQRS + Event Sourcing: Часть 2
+http://habrahabr.ru/post/149464/
+CQRS-Event-Sourcing-Sample--ASP.NET-MVC
+https://github.com/AlexShkor/CQRS-Event-Sourcing-Sample--ASP.NET-MVC-/tree/master/CqrsSample
+
+CQRS (Мартин Фаулер)
+http://martinfowler.com/bliki/CQRS.html
+
+
+MVC, MVP, MVVM
+--------------
+В чем различия MVVM и MVC?
+https://toster.ru/q/226608
+
+Паттерны для новичков: MVC vs MVP vs MVVM
+http://habrahabr.ru/post/215605/
+
+Проектировочный шаблон Model-View-Presenter-ViewModel (MVPVM) для WPF (Билл Кратохвил)
+http://msdn.microsoft.com/ru-ru/magazine/hh580734.aspx
+
+MVP
+---
+Особенности реализации MVP для Windows Forms (есть много ссылок на другие статьи)
+http://habrahabr.ru/post/211899/
+
+Model View Presenter (Jean-Paul Boodhoo)
+http://msdn.microsoft.com/ru-ru/magazine/cc188690(en-us).aspx
+
+Улучшение Web Forms с помощью шаблона MVP
+http://msdn.microsoft.com/ru-ru/magazine/ff955232.aspx
+
+MVVM
+----
+MVVM Pattern Made Simple
+http://www.codeproject.com/articles/278901/mvvm-pattern-made-simple
+
+Приложения WPF с шаблоном проектирования модель-представление-модель представления (Джош Смит)
+http://msdn.microsoft.com/ru-ru/magazine/dd419663.aspx
+
+Проблемы и решения в Model-View-ViewModel (Роберт Маккартер)
+http://msdn.microsoft.com/ru-ru/magazine/ff798279.aspx
+

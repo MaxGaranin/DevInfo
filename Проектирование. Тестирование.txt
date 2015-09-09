@@ -1,0 +1,23 @@
+
+UI WPF
+------
+¬ведение в Coded UI Tests
+http://sonyks2007.blogspot.ru/2014/07/coded-ui-tests.html
+
+јвтоматизаци€ тестировани€ UI в WPF приложений средствами MS (Coded UI Test)
+http://software-testing.ru/forum/index.php?/topic/24814/
+
+Coded UI Test. –абота с глубоко вложенными контролами в WPF
+http://positiveflower.blogspot.ru/2013/04/coded-ui-test-wpf.html
+
+ раткое описание использовани€ White дл€ автоматизации тестировани€ Windows приложений
+http://positiveflower.blogspot.ru/2013/04/white-windows.html
+
+Enable Coded UI Testing of Your Controls
+http://msdn.microsoft.com/en-us/library/vstudio/hh552522.aspx
+
+Time for Coded UI Tests
+http://habrahabr.ru/post/97012/
+
+Coded UI Test:  ак написать первый тест
+http://bugscatcher.net/archives/1297

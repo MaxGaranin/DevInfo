@@ -1,0 +1,3 @@
+
+Разработка приложений SharePoint 2013 с помощью TypeScript
+http://habrahabr.ru/post/174099/

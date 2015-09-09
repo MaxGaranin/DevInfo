@@ -1,0 +1,7 @@
+
+Roadmap for Apps for Office, VSTO, and VBA
+http://blogs.msdn.com/b/vsto/archive/2013/06/18/roadmap-for-apps-for-office-vsto-and-vba.aspx
+
+Office Developer Tools for Visual Studio 2012: Now Available with Office 2013 and .NET Framework 4.5 support
+http://blogs.msdn.com/b/vsto/archive/2013/03/06/office-developer-tools-for-visual-studio-2012-now-available.aspx
+

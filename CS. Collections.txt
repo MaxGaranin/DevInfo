@@ -1,0 +1,44 @@
+
+Async
+-----
+Под капотом у Dictionary и ConcurrentDictionary
+http://habrahabr.ru/post/198104/
+
+Как устроен ConcurrentBag в .Net
+http://habrahabr.ru/post/241706/
+
+
+LINQ
+----
+Как обрабатывать большие объемы данных, используя LINQ и итераторы
+http://ferrum-box.blogspot.ru/2013/09/linq.html
+
+
+Read-only Collections
+---------------------
+Улучшаем LINQ для работы с IReadOnly-коллекциями
+http://habrahabr.ru/post/237389/
+
+
+Запрещение модификации коллекций
+--------------------------------
+Проблемы использования IEnumerable
+http://habrahabr.ru/post/193774/
+
+LINQ против LSP
+http://habrahabr.ru/post/191770/
+
+Entity Framework Code First и Domain Driven Design: защищаем коллекции
+http://habrahabr.ru/post/184456/
+
+How to prevent collection modifications in .NET
+http://sshumakov.com/2013/10/20/how-to-prevent-collection-modifications-in-net/
+
+
+SortedDictionary
+----------------
+IDictionary Options - Performance Test - SortedList vs. SortedDictionary vs. Dictionary vs. Hashtable
+http://blog.bodurov.com/Performance-SortedList-SortedDictionary-Dictionary-Hashtable/
+
+SortedList<>, SortedDictionary<> and Dictionary<>
+http://stackoverflow.com/questions/1427147/sortedlist-sorteddictionary-and-dictionary

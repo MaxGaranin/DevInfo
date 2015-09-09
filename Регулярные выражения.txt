@@ -1,0 +1,3 @@
+
+! Выразительный JavaScript: Регулярные выражения
+http://habrahabr.ru/post/242695/

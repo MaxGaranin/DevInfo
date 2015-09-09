@@ -1,0 +1,19 @@
+
+Getting ready for the new ArcGIS Runtime SDK for the Microsoft .NET Framework
+http://blogs.esri.com/esri/arcgis/2014/03/07/getting-ready-for-the-new-net-sdk/
+The history and future of the ArcGIS SDKs for .NET
+http://blogs.esri.com/esri/arcgis/2013/07/05/the-history-and-future-of-the-arcgis-sdks-for-net/
+Презентация - Migrating your WPF Apps to the New ArcGIS Runtime SDK for .NET
+https://s3.amazonaws.com/webapps.esri.com/esri-proceedings/devsummit14/papers/dev-097.pdf
+
+ArcGIS DotNet Team (хаб команды ArcGIS для .NET)
+https://github.com/ArcGISDotNetTeam
+
+Справка по новому ArcGIS Runtime SDK for .NET (версия 10.2.4)
+https://developers.arcgis.com/net/desktop/guide/guide-home.htm
+
+Справка ArcGIS Runtime SDK for WPF (версия 10.2.3)
+http://resources.arcgis.com/en/help/runtime-wpf/concepts/index.html
+
+Справка ArcGIS API for WPF (версия 2.4)
+http://help.arcgis.com/en/webapi/wpf/help/index.html

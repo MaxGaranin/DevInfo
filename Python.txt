@@ -1,0 +1,6 @@
+
+Накидайте большую порцию задачек для практики Python-новичка?
+http://toster.ru/q/176427
+
+Python изнутри. Введение
+http://habrahabr.ru/company/buruki/blog/189972/

@@ -1,0 +1,41 @@
+
+FluentMigrator
+--------------
+Миграция версий БД MSSQL (интересно)
+http://habrahabr.ru/post/219789/
+
+FluentMigrator — система версионных миграций
+http://habrahabr.ru/post/129242/
+
+Database Migrations using FluentMigrator
+https://www.macaw.nl/weblog/2013/5/database-migrations-using-fluentmigrator
+
+Github Repository You Should Watch: FluentMigrator
+http://www.devbridge.com/articles/github-repository-you-should-watch-fluentmigrator/
+
+FluentMigrator tutorials
+http://stackoverflow.com/questions/2751373/fluentmigrator-tutorials
+
+
+TransactionScope
+----------------
+All About TransactionScope
+http://www.codeproject.com/Articles/690136/All-About-TransactionScope
+
+
+SqlBulkInsert
+-------------
+How to parse chunk by chunk a large CSV file and bulk insert to a database
+http://www.codeproject.com/Articles/543789/How-to-parse-chunk-by-chunk-a-large-CSV-file-and-b
+
+
+Разное
+------
+Saving Connection Strings to app.config
+http://www.codeproject.com/Articles/118532/Saving-Connection-Strings-to-app-config
+
+CombGuid. Генерация “дружественных” к SQL серверам значений Guid в .net приложениях
+http://habrahabr.ru/post/214667/
+
+Первичный ключ – GUID или автоинкремент?
+http://habrahabr.ru/post/265437/

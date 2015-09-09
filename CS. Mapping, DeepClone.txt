@@ -1,0 +1,38 @@
+
+Clone objects
+-------------
+Deep cloning objects in C#
+http://stackoverflow.com/questions/78536/deep-cloning-objects-in-c-sharp
+
+C# Object Clone Wars	
+http://developerscon.blogspot.ru/2008/06/c-object-clone-wars.html
+
+Why Copying an Object is a terrible thing to do?	
+http://www.agiledeveloper.com/articles/cloning072002.htm
+
+Copy object to object (with Automapper ?)
+http://stackoverflow.com/questions/5713556/copy-object-to-object-with-automapper
+
+Fast Deep Cloning
+http://blog.nuclex-games.com/mono-dotnet/fast-deep-cloning/
+
+.NET Deep Copy/Deep Clone between 2 different object types in C# ÷ Some of the Different/Alternative Approaches
+http://ddkonline.blogspot.ru/2010/04/net-deep-copy-between-2-different.html
+
+Copying Values Among Objects
+http://www.c-sharpcorner.com/UploadFile/82b980/copying-values-among-objects/
+
+
+Versioning
+----------
+How to implement Уclass versioningФ (using different version of the same class)
+http://stackoverflow.com/questions/449569/how-to-implement-class-versioning-using-different-version-of-the-same-class
+
+C# и нечувствительна€ сериализаци€
+http://habrahabr.ru/post/124900/
+
+»спользование Protocol Buffers на платформе .Net („асть 1)
+http://habrahabr.ru/post/119503/
+
+»спользование Protocol Buffers на платформе .Net („асть 2)
+http://habrahabr.ru/post/119510/

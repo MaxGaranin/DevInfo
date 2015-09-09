@@ -1,0 +1,74 @@
+
+Common
+------
+! Динамические вызовы: сравнение методов (очень важная статья)
+http://habrahabr.ru/post/103558/
+
+! Massive is a Single File Database Lover
+https://github.com/robconery/massive
+
+Using DynamicObject to Implement General Proxy Classes
+http://www.codeproject.com/Articles/100710/Using-DynamicObject-to-Implement-General-Proxy-Cla
+
+General DynamicObject Proxy and Fast Reflection Proxy
+http://www.codeproject.com/Articles/109868/General-DynamicObject-Proxy-and-Fast-Reflection-Pr
+
+
+DynamicObject, ExpandoObject
+----------------------------
+Dynamic in C# 4.0: Introducing the ExpandoObject
+http://blogs.msdn.com/b/csharpfaq/archive/2009/10/01/dynamic-in-c-4-0-introducing-the-expandoobject.aspx
+
+Expando-объекты в C# 4.0
+http://msdn.microsoft.com/ru-ru/magazine/ff796227.aspx
+
+Погружаемся в глубины C# dynamic
+http://habrahabr.ru/post/144330/
+
+
+WPF
+---
+! Использование динамических возможностей языка C# в WPF
+http://sonyks2007.blogspot.ru/2014/01/c-wpf.html
+
+DynamicObject & WPF Binding
+http://www.shujaat.net/2012/09/dynamicobject-wpf-binding.html
+
+Dynamically Generated Properties using CustomTypeDescriptor for WPF Binding
+http://www.shujaat.net/2012/09/dynamically-generated-properties-using.html
+
+
+Вызов закрытых методов
+----------------------
+Testing private methods with C# 4.0
+http://bugsquash.blogspot.ru/2009/05/testing-private-methods-with-c-40.html
+
+Use C# dynamic typing to conveniently access internals of an object
+http://igoro.com/archive/use-c-dynamic-typing-to-conveniently-access-internals-of-an-object/
+
+
+PropertyByName
+--------------
+How to get property name from lambda
+http://www.limilabs.com/blog/property-name-from-lambda
+
+Various ways to sort List of objects by Property name in C#	http://www.shirmanov.com/2011/03/various-ways-to-sort-list-of-objects-by.html
+
+
+PropertyDescriptor
+------------------
+Data binding dynamic data (Mark Grawell)
+http://stackoverflow.com/questions/882214/data-binding-dynamic-data
+
+Databinding Magic with Dynamic PropertyDescriptors and Anonymous Methods
+http://jopinblog.wordpress.com/2007/05/12/dynamic-propertydescriptors-with-anonymous-methods/
+
+[C# 2.0] Динамическое управление набором свойств
+http://www.rsdn.ru/forum/info/FAQ.dotnet.gui.propertygrid.dynamic
+
+PropertyDescriptor AddValueChanged Alternative
+http://agsmith.wordpress.com/2008/04/07/propertydescriptor-addvaluechanged-alternative/
+
+
+
+

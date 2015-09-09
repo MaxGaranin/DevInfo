@@ -1,0 +1,38 @@
+
+Общее
+-----
+Архив интересного кода
+http://habrahabr.ru/post/181714/
+
+
+MapReduce
+---------
+MapReduce
+http://www.regfordev.com/2011/07/mapreduce.html#.Uz4yQ5LJSrD
+
+
+Графы
+-----
+Графы для самых маленьких: DFS
+http://habrahabr.ru/post/200074/
+Графы для самых маленьких: BFS
+http://habrahabr.ru/post/200252/
+
+Motion planning: граф видимости, дорожные карты
+http://habrahabr.ru/post/199256/
+
+
+Двоичный поиск
+--------------
+Только 10% программистов способны написать двоичный поиск
+http://habrahabr.ru/post/91605/
+
+Я не могу написать бинарный поиск
+http://habrahabr.ru/post/146228/
+
+
+Распознавание текста
+--------------------
+Optical Character Recognition силами .NET
+http://habrahabr.ru/post/239803/
+

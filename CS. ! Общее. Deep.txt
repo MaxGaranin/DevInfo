@@ -1,0 +1,154 @@
+
+Общее
+-----
+Крадущийся тигр, затаившийся дракон
+http://habrahabr.ru/post/145932/
+
+Размеры CLR-объектов. Точное определение
+http://habrahabr.ru/post/136609/
+
+
+PDB
+---
+PDB Files: What Every Developer Must Know
+http://www.wintellect.com/blogs/jrobbins/pdb-files-what-every-developer-must-know
+
+dotPeek Symbol Server and PDB Generation
+http://confluence.jetbrains.com/display/NETCOM/dotPeek+Symbol+Server+and+PDB+Generation
+
+
+Отладка
+-------
+Как отлаживать .NET Framework Source
+http://sonyks2007.blogspot.ru/2014/06/net-framework-source.html
+
+
+Производительность
+------------------
+О книге “Writing High-Performance .NET Code”
+http://sergeyteplyakov.blogspot.ru/2014/10/writing-high-performance-net-code.html
+
+Улучшаем производительность: boxing в .NET, которого можно избежать
+http://habrahabr.ru/post/229741/
+
+
+Память, Объекты, сборка мусора
+------------------------------
+О явном вызове метода Dispose
+http://sergeyteplyakov.blogspot.ru/2013/08/dispose.html
+
+Dispose pattern
+http://sergeyteplyakov.blogspot.ru/2011/09/dispose-pattern.html
+
+О сборке мусора и достижимости объектов
+http://sergeyteplyakov.blogspot.ru/2013/08/blog-post_27.html
+
+Проблемы передачи списка перечислений или Почему абстракции «текут»
+http://sergeyteplyakov.blogspot.ru/2011/10/blog-post_26.html
+
+Обратная сторона луны
+http://habrahabr.ru/post/149584/
+
+Особенности строкового типа данных в .NET
+http://www.rsdn.ru/article/submit/net_strings/net_strings.xml
+
+The Stack Is An Implementation Detail, Part One (Eric Lippert)
+http://blogs.msdn.com/b/ericlippert/archive/2009/04/27/the-stack-is-an-implementation-detail.aspx
+The Stack Is An Implementation Detail, Part Two
+http://blogs.msdn.com/b/ericlippert/archive/2009/05/04/the-stack-is-an-implementation-detail-part-two.aspx
+
+
+WeakRerefence
+-------------
+Слабые ссылки в .NET
+http://sergeyteplyakov.blogspot.ru/2013/08/net.html
+
+Слабые события в C#
+http://habrahabr.ru/post/89529/
+
+Слабые события в C#
+http://sonyks2007.blogspot.ru/2013/11/c_6109.html
+
+
+Потоки
+------
+Потокобезопасные события в C# или Джон Скит против Джеффри Рихтера
+http://habrahabr.ru/post/240385/
+
+
+Делегаты и события
+------------------
+Использование делегатов в C#
+http://sonyks2007.blogspot.ru/2013/11/c.html
+Использование событий с C#
+http://sonyks2007.blogspot.ru/2013/11/c_9.html
+
+Делегаты и события в .NET
+http://habrahabr.ru/post/198694/
+
+
+Дженерики
+---------
+The art of Generics
+http://habrahabr.ru/post/201996/
+
+
+Компиляция, дизассемблирование
+---------------------------------------------
+Разные версии JIT в .NET
+http://habrahabr.ru/company/enterra/blog/252105/
+
+Как работает декомпиляция в .Net или Java на примере .Net
+http://habrahabr.ru/company/luxoft/blog/244095/
+
+Математические выражения в .NET (разбор, дифференцирование, упрощение, дроби, компиляция)
+http://habrahabr.ru/post/150043/
+
+Инъекция кода в .NET CLR: изменение IL-кода во время выполнения программы
+http://habrahabr.ru/post/154419/
+
+
+Кодогенерация
+-------------
+Runtime-генерирование .Net-кода для тех, кому некогда
+http://habrahabr.ru/post/199266/
+
+Кодогенерация при программировании с использованием платформы Microsoft.NET
+http://rsdn.ru/article/dotnet/codegen.xml
+
+Динамическая компиляция кода в C#
+http://habrahabr.ru/post/67431/
+
+ДИНАМИЧЕСКАЯ КОМПИЛЯЦИЯ И ЗАГРУЗКА КОДА - ДИНАМИЧЕСКАЯ КОМПИЛЯЦИЯ ИСХОДНОГО КОДА НА C#
+http://www.cyberguru.ru/microsoft-net/net-framework/dotnet-dynamic-code-compilation-page2.html
+
+Выполнение C# кода "на лету"
+http://yrevotyuk.blogspot.ru/2013/03/in-flight-csharp.html
+
+
+Ссылочные и значимые типы
+-------------------------
+В чем разница между ковариантностью и совместимостью по присваиванию?
+http://blogs.msdn.com/b/ruericlippert/archive/2009/11/30/covariance-assignment-compatibility.aspx
+
+О вреде изменяемых значимых типов
+http://sergeyteplyakov.blogspot.ru/2011/07/blog-post.html
+
+О вреде изменяемых значимых типов. Часть 2
+http://sergeyteplyakov.blogspot.ru/2012/12/2.html
+
+
+Разное
+------
+Интересные моменты в C#
+http://habrahabr.ru/post/209914/#first_unread
+
+Интересные моменты в C# ч.2
+http://habrahabr.ru/post/211404/
+
+Откуда растут руки у GetHashCode в .NET
+http://habrahabr.ru/post/188038/
+
+Сортировка в .NET
+http://habrahabr.ru/post/188012/
+

@@ -1,0 +1,20 @@
+
+Самарские компании
+------------------
+Epam (Java)
+Magenta (Java)
+I-Sys (.Net, Java)
+Parcsis (.Net, Java)
+Maxifier (Java)
+CloudCastle (Ruby)
+
+
+Интересные в России
+-------------------
+Enterra. Барнаул. Все платформы.
+http://www.enterra.ru/
+Проводят свои конференции, записи докладов на http://www.enterra.ru/blog/
+
+ByndyuSoft. Челябинск. .Net
+http://byndyusoft.com/
+Компания Саши Бындю.

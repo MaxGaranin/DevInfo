@@ -1,0 +1,39 @@
+
+Туториалы
+---------
+Уроки по FluentNHibernate c ASP.NET MVC и SQL Server. Часть 1 
+(их там несколько, можно посмотреть по автору, вроде неплохо написано)
+http://habrahabr.ru/post/264907/
+
+
+Cache
+-----
+NHibernate and Caching - Part - 1
+http://www.gitshah.com/2012/02/nhibernate-and-caching-part-1.html
+NHibernate and Caching - Part - 2
+http://www.gitshah.com/2012/03/nhibernate-and-caching-part-2.html
+
+NHibernate Second Level Caching Implementation
+http://www.codeproject.com/Articles/529016/NHibernate-Second-Level-Caching-Implementation
+
+
+Hierarchical Data
+-----------------
+Using NHibernate to fetch Hierarchical information with SqlServer - Part - 1
+http://www.gitshah.com/2012/10/using-nhibernate-to-fetch-hierarchical.html
+Using NHibernate to fetch Hierarchical information with SqlServer - Part - 2
+http://www.gitshah.com/2012/11/using-nhibernate-to-fetch-hierarchical.html
+Using NHibernate to fetch Hierarchical information with SqlServer - Part - 3
+http://www.gitshah.com/2012/12/using-nhibernate-to-fetch-hierarchical.html
+
+
+One-to-many
+-----------
+Hibernate: How To load one-to-many collections using a custom query
+http://www.gitshah.com/2013/07/hibernate-how-to-load-one-to-many.html
+
+
+Управление сеансами
+-------------------
+Создание настольного приложения с применением NHibernate
+http://msdn.microsoft.com/ru-ru/magazine/ee819139.aspx

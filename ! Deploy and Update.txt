@@ -1,0 +1,26 @@
+
+ClickOnce
+---------
+Использование clickonce для быстрого разворачивания приложений
+https://www.techdays.ru/videos/1274.html
+
+Модель ClickOnce (подробно, 3 страницы)
+http://professorweb.ru/my/WPF/documents_WPF/level33/33_2.php
+
+
+Squirrel
+--------
+Squirrel.Windows
+https://github.com/Squirrel/Squirrel.Windows/blob/master/docs/getting-started.md
+
+Desktop Application deployment with auto update (Shimmer/Squirrel) - not working (yet)
+http://www.jittuu.com/2014/4/25/desktop-application-deployment-with-auto-update-1/
+
+Squirrel – replace ClickOnce the easy way
+http://gregorsuttie.com/2015/04/27/squirrel-replace-clickonce-the-easy-way/
+
+
+Самописные решения
+------------------
+Пишем свой сервис авто-обновлений
+http://habrahabr.ru/post/131649/

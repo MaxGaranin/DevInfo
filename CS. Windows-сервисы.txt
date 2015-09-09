@@ -1,0 +1,14 @@
+
+Windows-сервисы
+---------------
+! ѕишем свой сервис авто-обновлений
+http://habrahabr.ru/post/131649/
+
+! Data acquisition, часть 1 (супер, саморегистраци€ сервиса)
+https://nesteruk.wordpress.com/2010/05/20/data-acquisition-part-1/
+
+ѕишем свой Windows service (интересные комментарии)
+http://habrahabr.ru/post/102826/
+
+—оздать сервис это просто (есть описание установки сервиса через msi)
+http://wladm.narod.ru/C_Sharp/services.html

@@ -1,0 +1,26 @@
+
+Dapper
+------
+That annoying INSERT problem, getting data into the DB
+http://samsaffron.com/archive/2012/01/16/that-annoying-insert-problem-getting-data-into-the-db-using-dapper
+
+How I learned to stop worrying and write my own ORM
+http://samsaffron.com/archive/2011/03/30/How+I+learned+to+stop+worrying+and+write+my+own+ORM
+
+“есты Dapper (хорошо посмотреть примеры использовани€)
+https://github.com/StackExchange/dapper-dot-net/blob/master/Tests/Tests.cs
+
+Multi-Mapper to create object hierarchy
+http://stackoverflow.com/questions/6379155/multi-mapper-to-create-object-hierarchy
+
+Dapper.Net by example
+http://www.tritac.com/bp-24-dapper-net-by-example
+
+ огда не нужен ORM а нужно что-то поменьше. Dapper micro-ORM
+http://www.regfordev.com/2013/04/orm-dapper-micro-orm.html#.Uzk7uJLJSrA
+
+Dapper + QueryObject, как замена ORM
+≈сть тестовый проект.
+http://blog.byndyu.ru/2013/03/dapper-queryobject-orm.html#.UgoCb5LJTCY
+
+

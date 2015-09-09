@@ -1,0 +1,24 @@
+
+Уроки
+-----
+Start Android
+http://startandroid.ru/ru/
+
+
+Примеры проектов
+----------------
+Конкурс ВК: Мессенджер для Android. Как это было!?
+http://habrahabr.ru/post/147335/
+
+
+DataBinding
+-----------
+Быстрый старт Data Binding в Android
+http://habrahabr.ru/post/260317/
+
+
+Разное
+------
+FAQ по программированию под Android от новичка, и для новичков
+http://habrahabr.ru/post/232885/
+

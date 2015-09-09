@@ -1,0 +1,6 @@
+
+Особенности реализации MVP для Windows Forms (есть много ссылок на другие статьи)
+http://habrahabr.ru/post/211899/
+
+Использование подхода MVC в WinForms для самых маленьких
+http://habrahabr.ru/post/242091/

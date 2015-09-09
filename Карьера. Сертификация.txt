@@ -1,0 +1,6 @@
+
+Подготовка к сертификационному экзамену Microsoft 70-483 «Programming in C#»
+http://habrahabr.ru/post/245067/
+
+Получение MCP: личный опыт
+http://aakinshin.blogspot.ru/2014/07/ms-mcp.html

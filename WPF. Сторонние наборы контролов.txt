@@ -1,0 +1,29 @@
+
+ќбщее
+-----
+“рудный выбор грида дл€ проектов на WPF
+http://habrahabr.ru/post/167751/
+
+
+Telerik
+-------
+http://www.telerik.com/
+
+How To Boost RadGridView Performance for WPF and Silverlight Using Lightweight templates
+http://www.telerik.com/blogs/how-to-boost-radgridview-performance-for-wpf-and-silverlight-using-lightweight-templates
+
+
+Syncfusion
+----------
+http://www.syncfusion.com/
+
+Resolving the УUnable to grant design-time licenseФ error
+http://www.syncfusion.com/support/kb/2119/Resolving%20the%20%E2%80%9CUnable%20to%20grant%20design-time%20license%E2%80%9D%20error
+
+copy multiple rows to insert ... DBG
+http://www.syncfusion.com/support/forums/grid-wpf/89740
+
+
+Xceed
+-----
+http://xceed.com/

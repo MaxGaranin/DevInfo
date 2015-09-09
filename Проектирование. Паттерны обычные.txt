@@ -1,0 +1,55 @@
+
+Общее
+-----
+Паттерны проектирования
+http://habrahabr.ru/post/84706/
+
+
+Синглтон
+--------
+О синглтонах и статических конструкторах
+http://sergeyteplyakov.blogspot.ru/2011/08/blog-post.html
+
+Три возраста паттерна Singleton
+http://habrahabr.ru/post/147373/
+
+
+Стратегия
+---------
+Паттерн Стратегия
+http://sergeyteplyakov.blogspot.ru/2014/02/singleton-pattern.html
+
+
+Фабричный метод
+---------------
+Фабричный метод (Factory Method)
+http://sonyks2007.blogspot.ru/2013/12/factory-method.html
+
+
+Шаблонный метод
+---------------
+Паттерн Шаблонный Метод
+http://sergeyteplyakov.blogspot.ru/2014/03/template-method-design-pattern.html
+
+
+Спецификация
+------------
+Шаблон проектирования «Спецификация»
+http://habrahabr.ru/post/171559/
+
+
+Цепочка обязанностей
+--------------------
+Цепочка обязанностей, chain of responsibilities
+http://www.regfordev.com/2012/11/chain-of-responsibilities.html#.Uz4yQZLJSrD
+
+
+Строитель
+---------
+Элегантный Builder на Java
+http://habrahabr.ru/post/244521/
+
+Разное
+------
+Применение паттерна CRTP в C#
+http://habrahabr.ru/post/211743/

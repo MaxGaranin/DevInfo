@@ -1,0 +1,94 @@
+
+Системы контроля версий
+-----------------------
+
+Git
+---
+! Материалы по Git (от Акиншина Андрея)
+http://aakinshin.net/ru/blog/git/links/
+
+! Отличная книга Pro Git на русском
+http://git-scm.com/book/ru
+Getting Started - Git Basics (она же на английском)
+http://git-scm.com/book/en/Getting-Started-Git-Basics
+
+! GIT Quiz- практикум по использованию git, для начинающих
+http://habrahabr.ru/post/220485/
+
+! ХХ полезных советов для пользователей Git среднего уровня
+http://habrahabr.ru/post/75728/
+http://habrahabr.ru/post/76084/
+
+Интерактивная обучалка по Git
+http://pcottle.github.io/learnGitBranching/
+
+Постигаем Git
+http://habrahabr.ru/post/141160/
+
+6 мифов, мешающих разработчикам использовать Git
+http://habrahabr.ru/post/231839/
+
+Басня о Git	
+http://hades.name/blog/2009/05/23/the-git-parable-ru/
+
+Опыт использования TFS после перехода с SVN
+http://habrahabr.ru/post/223797/
+
+Git Workflow
+http://habrahabr.ru/post/60030/
+
+Ежедневная работа с Git
+http://habrahabr.ru/post/174467/
+
+
+Git и Visual Studio
+-------------------
+Git и Visual Studio: как правильно приготовить
+http://habrahabr.ru/company/microsoft/blog/216037/
+
+Настройка Git на компьютере разработки (настройка, создание, клонирование, добавление)
+http://msdn.microsoft.com/ru-ru/library/hh850445.aspx
+
+Работа с Git в Visual Studio 2012
+http://habrahabr.ru/company/microsoft/blog/175261/
+
+Интеграция Team Foundation Services с Git и другие новые возможности
+http://habrahabr.ru/company/microsoft/blog/167699/
+
+
+Миграция с TSF на Git
+---------------------
+! Перенос кода с tfs на git (Сычев Игорь)
+http://habrahabr.ru/post/228319/
+
+Миграция кода из SVN на Git в TFS2013 (Сычев Игорь)
+http://habrahabr.ru/post/214157/
+
+Migrating From TFS to Git-based Repositories
+http://blogs.ancestry.com/techroots/migrating-from-tfs-to-git-based-repositories-ii/
+
+Migrate an existing project from TFS to Git with changeset history intact
+http://chriskirby.net/migrate-an-existing-project-from-tfs-to-github-with-changeset-history-intact/
+
+Migrating a TFS TFVC based team project to a Git team project retaining as much source and work item history as possible
+http://www.microsoft.com/en-gb/developers/articles/week02mar2014/migrating-a-tfs-tfvc-based-team-project-to-a-git-team-project-retaining-as-much-source-and-work-item-history-as-possible
+
+
+Fossil
+------
+Системы контроля версий: Fossil, часть I 
+http://habrahabr.ru/post/235369/
+
+
+Автоматизация процесса сборки
+-----------------------------
+Continuous Integration в Дневник.ру (про TeamCity)
+http://habrahabr.ru/company/dnevnik_ru/blog/169329/
+
+Continuous Integration для самых маленьких
+http://habrahabr.ru/post/190412/
+
+Автоматизация сборки web-приложения на платформе .NET
+http://habrahabr.ru/post/101183/
+Автоматизация сборки .NET приложений — часть 2
+http://habrahabr.ru/post/189190/

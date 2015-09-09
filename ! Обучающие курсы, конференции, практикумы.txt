@@ -1,0 +1,150 @@
+
+Новости
+-------
+Осенние онлайн-курсы от Computer Science Center и Академического университета
+http://habrahabr.ru/company/spbau/blog/265403/
+
+Стартовал онлайн курс «Введение в Linux» от Linux Foundation
+http://habrahabr.ru/post/231889/
+
+
+Школа анализа данных Яндекса (ШАД)
+----------------------------------
+Как решать вступительный экзамен в Школу анализа данных Яндекса
+http://habrahabr.ru/company/yandex/blog/262543/
+
+
+Группы обсуждения
+-----------------
+dotnetconf
+https://groups.google.com/forum/#!forum/dotnetconf
+
+
+Разнообразные курсы
+-------------------
+Codeacademy - различные обучающие курсы
+http://www.codecademy.com/
+
+Пройдите самые лучшие в мире курсы, онлайн, бесплатно
+https://www.coursera.org/
+
+Различные бесплатные курсы с заданиями (есть JavaScript)
+https://hexlet.org/course/javascript/
+
+Новые бесплатные курсы виртуальной академии Microsoft Virtual Academy
+http://www.microsoftvirtualacademy.com/#?fbid=RdIp-VOIHYS
+
+Stepic (на русском) - Отличные видео-курсы
+http://habrahabr.ru/company/stepic/
+https://stepic.org/
+
+
+Android
+-------
+Онлайн школа Android-разработчиков
+http://learndroid.e-legion.ru/
+
+25+ видеоуроков по Android для начинающих
+http://habrahabr.ru/post/230559/
+
+
+Linux
+-----
+Осваиваем Linux за три недели
+http://habrahabr.ru/company/spbau/blog/243473/
+
+Стартовал онлайн курс «Введение в Linux» от Linux Foundation
+http://habrahabr.ru/post/231889/
+
+
+Алгоритмы
+---------
+Отличные лекции по алгоритмам от Yandex (есть на хабре)
+http://tech.yandex.ru/education/m/
+http://habrahabr.ru/company/yandex/
+
+
+Проектирование
+--------------
+Конференция .NET разработчиков в Челябинске (Александр Бындю)
+http://dotnetconf.ru/
+
+Лекции по проектированию от Luxoft (есть на хабре)
+http://habrahabr.ru/company/luxoft/
+
+Николай Гребнев (CUSTIS) — Что такое DDD? — доклад с конференции ADD	
+http://habrahabr.ru/company/sqalab/blog/142491/
+
+
+.NET
+----
+Конференции для .NET разработчиков от компании Enterra (Барнаул)
+http://www.enterra.ru/blog/
+
+Доклады Application Developers Days	
+http://www.addconf.ru/list-all.sdf/add/last?types=talk
+	
+Дмитpий Hecтepук. Фотоотчет с конференции .NEXT	(Интересные доклады от JetBrains)
+http://nesteruk.wordpress.com/2014/05/18/dotnext-photo-report/
+Как джависты сделали .NET-конференцию
+http://habrahabr.ru/company/codefreeze/blog/241690/
+
+
+ASP.NET MVC
+-----------
+Изучаем ASP.NET MVC 5. (Отличные уроки)
+http://professorweb.ru/my/ASP_NET/mvc/level1/
+
+ProDinner
+http://prodinner.codeplex.com/
+
+Мне кажется, неплохие туториалы от Microsoft
+http://www.asp.net/mvc/tutorials
+Например, Music Store
+http://www.asp.net/mvc/tutorials/mvc-music-store
+http://mvcmusicstore.codeplex.com/
+Учебный курс. Обновление связанных данных с помощью Entity Framework в приложении ASP.NET MVC
+http://habrahabr.ru/post/136155/
+
+NerdDinner (из книги Wiley. Pro ASP.NET MVC 1.0)
+http://www.asp.net/mvc/tutorials/older-versions/nerddinner/introducing-the-nerddinner-tutorial
+
+ASP.NET MVC. Урок 0. Вступление (16 уроков)
+http://habrahabr.ru/post/175999/
+
+Deploying Web Applications in Enterprise Scenarios (есть PDF-книга)
+http://www.asp.net/web-forms/tutorials/deployment/deploying-web-applications-in-enterprise-scenarios/deploying-web-applications-in-enterprise-scenarios
+
+
+WCF
+---
+Неплохие лекции по WCF
+https://www.youtube.com/user/kudvenkat
+
+
+Web
+---
+HTML Academy - онлайн-курсы по HTML и CSS
+http://htmlacademy.ru/
+http://habrahabr.ru/company/htmlacademy/blog/198620/
+
+Антон Шевчук. Отличные лекции по jQuery
+http://anton.shevchuk.name/javascript/jquery-for-beginners/
+
+
+Git
+---
+Git Tutorials
+https://www.atlassian.com/git/tutorial
+
+GIT Quiz- практикум по использованию git, для начинающих (интересные комментарии с ссылками)
+http://habrahabr.ru/post/220485/
+
+Git How To (обучающий курс на русском)
+http://githowto.com/ru
+
+TryGit — интерактивный обучающий курс по Github в стиле Codecademy (на английском)
+http://try.github.io//levels/1/challenges/1
+
+Обучающий курс по Git
+http://pcottle.github.io/learnGitBranching/

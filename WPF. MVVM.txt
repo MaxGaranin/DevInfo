@@ -1,0 +1,121 @@
+
+Общие важные статьи
+---------------------------------------------------------
+Приложения WPF с шаблоном проектирования модель-представление-модель представления (Джош Смит)
+! Важная базовая статья
+http://msdn.microsoft.com/ru-ru/magazine/dd419663.aspx
+
+Проблемы и решения в Model-View-ViewModel (Роберт Маккартер)
+http://msdn.microsoft.com/ru-ru/magazine/ff798279.aspx
+
+Messenger and View Services in MVVM (Laurent Bugnion)
+http://msdn.microsoft.com/en-us/magazine/jj694937.aspx
+
+IOC Containers and MVVM (Laurent Bugnion)
+http://msdn.microsoft.com/en-us/magazine/jj991965.aspx
+
+Commands, RelayCommands and EventToCommand (Laurent Bugnion)
+http://msdn.microsoft.com/en-us/magazine/dn237302.aspx
+
+10 things you might have missed about MVVM Light
+http://www.spikie.be/blog/post/2013/04/12/10-things-you-might-have-missed-about-MVVM-Light.aspx
+
+! MVVM: новый взгляд (интересная статья)
+http://habrahabr.ru/post/208326/
+
+! MVVM Pattern Made Simple
+http://www.codeproject.com/articles/278901/mvvm-pattern-made-simple
+
+
+Команды, сообщения
+------------------
+Инфраструктура команд для вызова пользователем действий в шаблоне MVVM (Async)
+http://habrahabr.ru/post/242073/
+
+MVVM Light Toolkit – Команды и сообщения
+http://rouslan.com/2011/06/mvvm-light-toolkit-commands-and-messenger/
+
+Commands, RelayCommands and EventToCommand
+http://msdn.microsoft.com/ru-ru/magazine/dn237302(en-us).aspx
+
+
+События
+-------
+Handling events in an MVVM WPF application
+http://blog.magnusmontin.net/2013/06/30/handling-events-in-an-mvvm-wpf-application/
+
+WPF Events to Command redirection using System.Windows.Interactivity
+http://krishnabhargav.blogspot.ru/2011/01/wpf-events-to-command-redirection-using.html
+
+Binding Commands to Events?
+http://stackoverflow.com/questions/939388/binding-commands-to-events
+
+
+DI
+--
+DapperContext. Отличный пример использования IoC в WPF
+http://wcabus.github.io/DapperContext/
+
+
+Передать ValudationRule из ViewModel во View
+---------------------------------------------------------
+How can I handle a Validation.Error in my ViewModel instead of my View's code behind?
+http://stackoverflow.com/questions/921601/how-can-i-handle-a-validation-error-in-my-viewmodel-instead-of-my-views-code-be
+
+Passing state of WPF ValidationRule to View Model in MVVM
+http://stackoverflow.com/questions/10596452/passing-state-of-wpf-validationrule-to-view-model-in-mvvm
+
+
+Открытие нового окна
+--------------------
+! Showing Dialogs When Using the MVVM Pattern (есть пример)
+http://www.codeproject.com/Articles/36745/Showing-Dialogs-When-Using-the-MVVM-Pattern
+
+Open a new Window in MVVM (в ответе неплохой пример передачи фабрики во ViewModel для открытия View)
+http://stackoverflow.com/questions/16652501/open-a-new-window-in-mvvm
+
+MVVM and DialogResult with no code-behind
+http://blog.excastle.com/2010/07/25/mvvm-and-dialogresult-with-no-code-behind/
+
+Показ MessageBox
+----------------
+WPF MVVM – Simple ‘MessageBox.Show’ With Action & Func
+http://deanchalk.com/2010/05/06/wpf-mvvm-simple-messagebox-show-with-action-func/
+
+Showing a message box from a ViewModel in MVVM
+http://awkwardcoder.blogspot.ru/2012/03/showing-message-box-from-viewmodel-in.html
+
+How have you successfully implemented MessageBox.Show() functionality in MVVM?
+http://stackoverflow.com/questions/1098023/how-have-you-successfully-implemented-messagebox-show-functionality-in-mvvm
+
+Закрытие окна
+-------------
+How to close a View from a ViewModel ?
+http://www.japf.fr/2009/09/how-to-close-a-view-from-a-viewmodel/
+
+
+MVVM Instantiations
+-------------------
+MVVM Instantiation Approaches
+http://paulstovell.com/blog/mvvm-instantiation-approaches
+
+Walkthrough: Using a DesignInstance to Bind to Data in the Designer
+http://msdn.microsoft.com/en-us/library/dd490796%28VS.100%29.aspx
+
+Wiring up the MVVM View and ViewModel using Declarative DataContext for Design-Time and Data Template for Runtime?
+http://stackoverflow.com/questions/8128421/wiring-up-the-mvvm-view-and-viewmodel-using-declarative-datacontext-for-design-t
+
+
+Разное
+------
+Using the Viewmodel pattern to provide Undo / Redo in WPF
+http://blog.notifychanged.com/2009/01/30/using-the-viewmodel-pattern-to-provide-undo-redo-in-wpf/
+
+MugenMvvmToolkit — кроссплатформенный MVVM фреймворк
+http://habrahabr.ru/post/236745/
+
+
+Prism
+-----
+Prism. Шаблоны для создания составных приложений с WPF (Гленн Блок)
+http://msdn.microsoft.com/ru-ru/magazine/cc785479.aspx

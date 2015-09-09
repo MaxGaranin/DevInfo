@@ -1,0 +1,5 @@
+
+Общее
+-----
+Что же такое базы данных документов? (Джулия Лерман)
+https://msdn.microsoft.com/ru-ru/magazine/hh547103.aspx

@@ -1,0 +1,79 @@
+
+-------------------------------------------------------------------
+DataAccess. Общее
+
+! Entity Framework 6 (7) vs NHibernate 4: взгляд со стороны DDD 
+http://habrahabr.ru/post/262407/
+
+NCommon is a light weight framework that provides implementations of commonly used design patterns for applications using a Domain Driven Design approach.
+https://github.com/riteshrao/ncommon/tree/v1.1
+
+ByndyuSoft.Infrastructure
+https://github.com/AlexanderByndyu/ByndyuSoft.Infrastructure
+
+Command and Query Responsibility Segregation (CQRS) на практике
+http://blog.byndyu.ru/2014/07/command-and-query-responsibility.html
+
+
+-------------------------------------------------------------------
+Множественные транзакции
+
+Multiple Aggregates / Repositories in one Transaction
+http://stackoverflow.com/questions/11445657/multiple-aggregates-repositories-in-one-transaction
+
+Unit of Work + Repository Pattern: The Fall of the Business Transaction Concept
+http://stackoverflow.com/questions/19548531/unit-of-work-repository-pattern-the-fall-of-the-business-transaction-concept
+
+
+-------------------------------------------------------------------
+UnitOfWork
+
+! Важная статья, есть тестовый проект.
+Разработка механизма извлечения DTO из БД с помощью LINQ
+http://habrahabr.ru/post/172787/
+
+CRUD Operations Using the Generic Repository Pattern and Unit of Work in MVC
+http://habrahabr.ru/post/238737/
+
+The Repository Pattern with Linq to Fluent NHibernate and MySQL
+http://blog.bobcravens.com/2010/06/the-repository-pattern-with-linq-to-fluent-nhibernate-and-mysql/
+The Repository Pattern – Part 2
+http://bobcravens.com/2010/09/the-repository-pattern-part-2/
+A .NET Generic Repository Pattern With Implementations
+http://bobcravens.com/2011/05/a-net-generic-repository-pattern-with-implementations/
+Учебный проект
+http://gpsnerd.codeplex.com/
+
+Using the Entity Framework Repository and UnitOfWork Pattern in C# ASP .NET
+http://www.primaryobjects.com/CMS/Article122.aspx
+
+Understanding Repository and Unit of Work Pattern and Implementing Generic Repository in ASP.NET MVC using Entity Framework
+http://www.codeproject.com/Articles/770156/Understanding-Repository-and-Unit-of-Work-Pattern
+
+Repository Pattern and Unit of Work with Entity Framework in ASP.NET MVC
+http://www.codeproject.com/Articles/688929/Repository-Pattern-and-Unit-of
+
+Implementing the Repository and Unit of Work Patterns in an ASP.NET MVC Application (9 of 10)
+http://www.asp.net/mvc/tutorials/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application
+
+
+-------------------------------------------------------------------
+Dapper
+
+! Очень важная статья. Там же есть пример приложения ASP.NET MVC. Вообще надо взять сайт на заметку.
+ORMs: Don't Reinvent the Wheel
+http://www.contentedcoder.com/2013/05/orms-don-reinvent-wheel.html
+Весь цикл статей и учебный проект
+http://www.contentedcoder.com/2012/11/aspnet-10-years-on-my-journey.html
+
+Data access layer with Dapper as wrapper IDbConnection (проект)
+https://github.com/Pencroff/Dapper-DAL
+
+DapperContext (проект)
+http://wcabus.github.io/DapperContext/
+
+That annoying INSERT problem, getting data into the DB
+http://samsaffron.com/archive/2012/01/16/that-annoying-insert-problem-getting-data-into-the-db-using-dapper
+
+
+

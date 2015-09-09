@@ -1,0 +1,61 @@
+
+Mapping
+-------
+AutoMapper (автор ƒжимми Ѕогард)
+http://automapper.codeplex.com/
+
+Value Injecter (автор Omu)
+http://valueinjecter.codeplex.com/
+
+
+Dynamic properties
+------------------
+FastMembar (автор Mark Grawell)
+http://marcgravell.blogspot.co.uk/2012/01/playing-with-your-member.html
+
+ExposedObject (дл€ вызова закрытых методов, можно использовать дл€ тестировани€)
+https://github.com/Cognifide/ExposedObject
+
+
+–абота с Excel
+--------------
+ClosedXML - The easy way to OpenXML (вроде бы неплоха€ библиотека, Excel 2007+)
+http://closedxml.codeplex.com/
+
+NPOI (работает со всеми форматами - надо проверить, поддерживаетс€)
+https://npoi.codeplex.com
+
+excellibrary (библиотека дл€ работы с файлами Excel 2003, не обновл€етс€ с 2011)
+http://code.google.com/p/excellibrary/
+
+Excel Data Reader - Read Excel files in .NET (вроде бы читает все форматы, но надо смотреть)
+http://exceldatareader.codeplex.com/
+
+EPPlus-Create advanced Excel 2007 spreadsheets on the server (Excel 2007+)
+http://epplus.codeplex.com/
+
+ онтролы Syncfusion, 
+сборка Syncfusion.XlsIO.Base.dll (читает все форматы, но платна€ и медленна€)
+http://www.syncfusion.com/
+
+
+WPF
+---
+NotifyHelper
+https://github.com/kekekeks/NotifyHelper
+
+
+Ѕазы данных, ORM
+----------------
+Dapper - lightweight ORM
+https://code.google.com/p/dapper-dot-net/
+
+FluentMigrator - миграции баз данных
+https://github.com/schambers/fluentmigrator
+
+StubDb Ч база данных на стабах дл€ быстрого прототипировани€ и не только
+http://habrahabr.ru/post/212437/
+https://github.com/yegor-sytnyk/StubDb
+
+
+

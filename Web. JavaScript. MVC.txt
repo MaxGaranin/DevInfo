@@ -1,0 +1,10 @@
+
+Общее
+-----
+Обзор JS-фреймворков. Путешествие через джунгли JavaScript MVC. Ч. 1
+http://habrahabr.ru/post/149594/obzor-frejmvorkov-JS-MVC-chast1/
+Обзор JS-фреймворков. Путешествие через джунгли JavaScript MVC. Ч. 2
+http://habrahabr.ru/post/149872/
+
+Фреймворки JavaScript. Как изучить их по-быстрому
+http://habrahabr.ru/company/piter/blog/257923/

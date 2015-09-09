@@ -1,0 +1,27 @@
+
+Общее
+-----
+! Изучаем ASP.NET MVC 5 (отличные уроки)
+http://professorweb.ru/my/ASP_NET/mvc/level1/
+
+Непутевые заметки о ASP.NET MVC. Часть 1 (и единственная)
+http://habrahabr.ru/post/143024/
+
+ASP.NET MVC. Урок 0. Вступление
+http://habrahabr.ru/post/175999/
+
+
+Windows Identity Foundation
+---------------------------
+Windows Identity Foundation — для ASP.NET MVC проектов
+http://habrahabr.ru/post/238121/
+
+
+DI
+--
+!ASP.NET MVC Controller Dependency Injection for Beginners
+Очень подробная статья с примером
+http://www.codeproject.com/Articles/560798/ASP-NET-MVC-Controller-Dependency-Injection-for-Be
+
+Ninject.Web.Mvc3 docs
+https://github.com/ninject/ninject.web.mvc/wiki/MVC3

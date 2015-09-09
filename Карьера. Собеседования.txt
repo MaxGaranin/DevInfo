@@ -1,0 +1,96 @@
+
+Общее
+-----
+Майкрософт. Часть 1
+http://sergeyteplyakov.blogspot.ru/2014/10/1.html
+
+GeeksforGeeks - много примеров собеседований
+http://www.geeksforgeeks.org/
+
+Как проводить технические собеседования?	
+http://sergeyteplyakov.blogspot.ru/2014/06/technical-interview.html
+
+Как обсуждать деньги на собеседовании, если вы кого-то нанимаете и немного про работу с людьми
+http://habrahabr.ru/company/stratoplan/blog/230495/
+Как обсуждать деньги с руководством или почему иногда останавливаются карьеры?
+http://habrahabr.ru/company/stratoplan/blog/229957/
+Как обсуждать деньги на собеседовании: стратегия переговоров для соискателя
+http://habrahabr.ru/company/stratoplan/blog/230255/
+
+Reverse engineering на собеседовании: как мы нанимаем на работу (Лаборатория Касперского)
+http://habrahabr.ru/company/kaspersky/blog/203228/
+
+Тестирование кодеров (вопросы)
+https://codility.com/
+
+«Правильный» подбор программистов
+http://habrahabr.ru/post/147364/
+
+Как я завалил собеседование в Twitter 
+http://habrahabr.ru/post/200190/
+
+
+Тестовые задания
+----------------
+Войти в IT: Долгая дорога в Java
+http://habrahabr.ru/company/dataart/blog/234003/
+
+
+задачки
+-------
+Задачи на собеседованиях в Яндексе	
+http://habrahabr.ru/company/yandex/blog/206234/
+
+Две задачки для собеседования разработчиков
+http://habrahabr.ru/post/179937/
+
+Дюжина логических задач с собеседований
+http://habrahabr.ru/post/230881/
+
+
+Java
+----
+100+ вопросов на собеседование по Java Concurrency
+http://habrahabr.ru/post/231633/
+
+Java собеседование. Коллекции
+http://habrahabr.ru/post/162017/
+
+Java-программист в Петербурге. Обзор рынка труда с точки зрения соискателя. Часть 1/3 (в 3-х частях)
+http://habrahabr.ru/post/206820/
+
+
+.NET
+----
+Эволюция StringBuilder (могут спросить про внутренее устройство)
+http://www.rsdn.ru/?article/net/StringBuilder.xml
+
+C#: вопросы с собеседования. Часть 1
+http://www.regfordev.com/2009/12/c-1.html#.Uzk-o5LJSrA
+
+C#: разница между new и override
+http://www.regfordev.com/2011/01/c-new-override.html#.Uz4ySJLJSrD
+
+Собеседование разработчика
+http://habrahabr.ru/post/199136/
+
+
+Javascript
+----------
+Собеседование на должность JavaScript разработчика
+http://habrahabr.ru/post/231071/
+
+Тестовое задание моей мечты
+http://habrahabr.ru/post/214281/
+
+
+iOS
+---
+Задания для разработчика Яндекс.Музыки для iOS
+http://habrahabr.ru/post/209076/
+
+
+Тестировщики
+------------
+Собеседование на должность Automation QA Engineer 
+http://habrahabr.ru/post/230925/

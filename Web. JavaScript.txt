@@ -1,0 +1,64 @@
+
+Источники
+---------
+Супер учебник Ильи Кантора
+http://javascript.ru/
+http://learn.javascript.ru/
+http://next.javascript.ru/
+
+Неплохой сайт с примерами
+http://dnzl.ru/view_snippets.php?id=56
+
+Перевод книги "Выразительный JavaScript"
+http://habrahabr.ru/post/240219/
+
+
+Для новичков
+------------
+Серия статей:
+Создание игр без Canvas
+http://habrahabr.ru/post/252897/
+Создание игр без canvas: Matreshka.js
+http://habrahabr.ru/post/259907/
+Очередь событий в карточной игре + основы Angular
+http://habrahabr.ru/post/266401/
+
+
+Общее
+-----
+JavaScript. Особенности и типичные ошибки использования.
+http://www.enterra.ru/blog/javascript-typical-errors-and-cases/
+
+Почему eval — это не всегда плохо
+http://habrahabr.ru/post/158403/
+
+
+Lodash (стандартная библиотека)
+-------------------------------
+Lo-Dash
+http://habrahabr.ru/company/alawar/blog/157673/
+
+lodash (underscore) — знай свою стандартную библиотеку
+http://habrahabr.ru/post/217515/
+
+
+Компоненты
+----------
+Начинаем работать с browserify
+http://habrahabr.ru/post/224825/
+
+
+ООП
+---
+Понимание ООП в JavaScript [Часть 1]
+http://habrahabr.ru/company/enterra/blog/153365/
+
+Какая есть простая библиотека, реализующая классы в JavaScript?
+http://toster.ru/q/115739?utm_source=tm_habrahabr&utm_medium=tm_block&utm_campaign=tm_promo
+
+
+Canvas
+------
+Создаём игру, используя canvas и спрайты
+http://habrahabr.ru/post/184666/
+

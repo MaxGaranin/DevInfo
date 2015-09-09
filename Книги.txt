@@ -1,0 +1,57 @@
+
+Онлайн-книги
+------------
+Smarly.Net - книги про .NET И проектирование
+http://smarly.net/dependency-injection-in-net/putting-dependency-injection-on-the-map/a-dependency-injection-tasting-menu/hello-di
+
+
+Большие обзоры книг по программированию
+---------------------------------------
+Сергей Тепляков
+http://sergeyteplyakov.blogspot.ru/2013/08/blog-post.html
+
+Книги по дизайну и ООП
+http://sergeyteplyakov.blogspot.ru/2014/07/books-on-design-and-ood.html
+
+
+Проектирование
+--------------
+Бертран Мейер. Объектно-ориентированное конструирование программных систем
+http://sergeyteplyakov.blogspot.co.uk/2012/03/blog-post_19.html
+
+Об автоматизированном тестировании и книге Стива Фримана "Growing Object-Oriented Software Guided by Tests"
+http://sergeyteplyakov.blogspot.ru/2014/04/about-development-testing.html
+
+
+.NET
+----
+Книги для изучения C#/.NET
+http://sergeyteplyakov.blogspot.ru/2014/04/best-books-on-cnet.html
+
+Классические книги по C#/.NET
+http://sergeyteplyakov.blogspot.co.uk/2011/04/cnet.html
+
+О книге Билла Вагнера «Effective C#»
+http://habrahabr.ru/post/188670/
+
+
+JavaScript
+----------
+Асинхронный JavaScript (книга)
+http://habrahabr.ru/post/207778/
+
+Завершен перевод книги Эдди Османи «Паттерны для масштабируемых JavaScript-приложений»
+http://habrahabr.ru/post/215493/
+
+
+Haskell
+-------
+О Haskell по-человечески
+http://habrahabr.ru/post/214835/
+
+
+Разное
+------
+Отзыв о книге “Интроверты – как использовать особенности своего характера” или почему не стоит смотреть порно на рабочем месте
+http://habrahabr.ru/post/212801/
+

@@ -1,0 +1,24 @@
+
+Разбор всех задач финального раунда Яндекс.Алгоритма 2015
+http://habrahabr.ru/company/yandex/blog/264253/
+
+CodingGame - задачи
+https://www.codingame.com/games/puzzles
+
+! Code Retreat или выходим из зоны комфорта (прикольно)
+http://habrahabr.ru/company/skbkontur/blog/187448/
+
+Timus Online Judge. Задачки для программистов с автоматической проверяемой системой
+http://acm.timus.ru
+
+10 математических и логических задач из собеседований в Apple, Google, Adobe и Microsoft
+http://ain.ua/2015/02/22/565794
+
+Дюжина логических задач с собеседований
+http://habrahabr.ru/post/230881/
+
+Разбор финальных задач Яндекс.Алгоритма 2014
+http://habrahabr.ru/company/yandex/blog/231939/
+
+Мини-задачка: «олд-скульное» дерево
+http://habrahabr.ru/post/104241/

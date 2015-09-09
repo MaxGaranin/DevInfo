@@ -1,0 +1,9 @@
+
+MassTransit. —ервисна€ шина дл€ обмена сообщени€ми на основе сервера очередей RabbitMQ (MSMQ) дл€ .Net
+http://habrahabr.ru/post/210428/
+
+RabbitMQ tutorial 1 Ч Hello World
+http://habrahabr.ru/post/149694/
+
+RabbitMQ tutorial 2 Ч ќчередь задач
+http://habrahabr.ru/post/150134/

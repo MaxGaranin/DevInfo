@@ -1,0 +1,21 @@
+
+Пишем интерпретатор скрипта и стековую машину
+http://habrahabr.ru/post/223887/
+
+MugenMvvmToolkit — кроссплатформенный MVVM фреймворк
+http://habrahabr.ru/post/236745/
+
+Harmony Core 
+https://github.com/mumusan/harmony
+Проект от Станислава Сидристого 
+http://habrahabr.ru/company/luxoft/blog/244095/
+
+Посоветуйте книги и проекты для возможности практиковаться по многопоточности в Java
+http://toster.ru/q/28731?utm_source=tm_habrahabr&utm_medium=tm_block&utm_campaign=tm_promo
+
+Как начать писать серьезные плагины, модули, расширения на JS?
+(в комментариях есть предложение задач)
+http://toster.ru/q/108381
+
+Как мы написали helpdesk (Php)
+http://habrahabr.ru/post/227277/
