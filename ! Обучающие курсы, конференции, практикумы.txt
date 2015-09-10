@@ -78,6 +78,9 @@ http://habrahabr.ru/company/sqalab/blog/142491/
 
 .NET
 ----
+Курсы по .Net-технологиям (от Александра Шевчука)
+https://www.youtube.com/channel/UCzxRv9BtqrM946JmaMLtv_w
+
 Конференции для .NET разработчиков от компании Enterra (Барнаул)
 http://www.enterra.ru/blog/
 

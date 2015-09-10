@@ -10,6 +10,12 @@ http://kavayii.blogspot.ru/2010/08/microsoft-1.html
 Как мы написали helpdesk (Php)
 http://habrahabr.ru/post/227277/
 
+
+Web
+---
+Обучение и экзамен по охране труда
+http://olimpoks.samnipineft.ru:9001/
+
 Калькулятор кредита в Сбербанке.
 
 Поисковая форма Авито.
