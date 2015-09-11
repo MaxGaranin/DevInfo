@@ -1,4 +1,7 @@
 
+Пишем свой сервис авто-обновлений
+http://habrahabr.ru/post/131649/
+
 Data acquisition, часть 1
 https://nesteruk.wordpress.com/2010/05/20/data-acquisition-part-1/
 

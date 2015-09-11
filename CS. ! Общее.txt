@@ -6,6 +6,12 @@ http://habrahabr.ru/post/256819/
 http://habrahabr.ru/post/260047/
 
 
+Ресурсы
+-------
+Онлайн-исходники от Microsoft
+http://referencesource.microsoft.com/
+
+
 Что нового
 ----------
 Введение в .NET Core
@@ -15,10 +21,10 @@ http://habrahabr.ru/company/microsoft/blog/245901/
 http://sonyks2007.blogspot.ru/2014/08/net-framework-45.html
 
 
-Важно
------
-Онлайн-исходники от Microsoft
-http://referencesource.microsoft.com/
+Исключения
+----------
+Как правильно использовать исключения
+http://habrahabr.ru/post/263685/
 
 
 Ресурсы
@@ -27,14 +33,11 @@ Load DLL From Embedded Resource
 http://www.codeproject.com/Articles/528178/Load-DLL-From-Embedded-Resource
 
 
-Обновление ПО
--------------
-Пишем свой сервис авто-обновлений
-http://habrahabr.ru/post/131649/
-
-
 Контракты кода
 --------------
+Code contracts vs валидация входящих данных
+http://habrahabr.ru/post/264113/
+
 Code Contracts в .NET 4.0
 http://www.regfordev.com/2010/04/code-contracts-net-40.html#.Uzk4OpLJSrA
 
