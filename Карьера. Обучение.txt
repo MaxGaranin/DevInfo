@@ -1,6 +1,15 @@
 
 Общее
 -----
+Как стать системным администратором — пособие для начинающих
+http://habrahabr.ru/post/118475/
+http://habrahabr.ru/post/118966/
+http://habrahabr.ru/post/119407/
+http://habrahabr.ru/post/120009/
+
+Программировать с нуля. «Сейчас» — самое подходящее время, чтобы начать
+http://habrahabr.ru/company/tceh/blog/265981/
+
 Записки junior-программиста: как получить первую работу
 http://habrahabr.ru/company/luxoft/blog/240761/
 
@@ -53,3 +62,4 @@ http://habrahabr.ru/post/203796/
 http://habrahabr.ru/post/111189/
 Знаешь ли ты JAVA, %username%? Часть вторая
 http://habrahabr.ru/post/112674/
+

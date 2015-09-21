@@ -1,4 +1,10 @@
 
+Общее
+-----
+! Как работает реляционная БД
+http://habrahabr.ru/company/mailru/blog/266811/
+
+
 SQL Server
 ----------
 Поиск и подключение к MSSQL серверу

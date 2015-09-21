@@ -6,3 +6,6 @@ http://habrahabr.ru/post/148194/
 
 ФОРМАТ ИСПОЛНЯЕМЫХ ФАЙЛОВ PortableExecutables (PE)
 https://exelab.ru/art/?action=view&id=146
+
+PE (Portable Executable): На странных берегах
+http://habrahabr.ru/post/266831/
