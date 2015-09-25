@@ -38,8 +38,14 @@ http://www.regfordev.com/2010/12/thread-pool.html#.Uz4yQZLJSrD
 http://www.enterra.ru/blog/parallel-programming-in-net-framework-4-0/
 
 
-UI (WPF, WinForms)
-------------------
+Task cancel
+-----------
+Задачи и отмена в .Net — tips & tricks
+http://habrahabr.ru/post/168669/
+
+
+Task reporting
+--------------
 Reporting Progress from Tasks
 http://blog.stephencleary.com/2010/06/reporting-progress-from-tasks.html
 

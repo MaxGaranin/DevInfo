@@ -19,6 +19,15 @@ http://habrahabr.ru/post/220485/
 http://habrahabr.ru/post/75728/
 http://habrahabr.ru/post/76084/
 
+19 советов по повседневной работе с Git
+http://habrahabr.ru/company/mailru/blog/267595/
+
+Git Cheat Sheet
+http://www.alexkras.com/getting-started-with-git/
+
+How to Write a Git Commit Message
+http://chris.beams.io/posts/git-commit/#separate
+
 Интерактивная обучалка по Git
 http://pcottle.github.io/learnGitBranching/
 
@@ -30,9 +39,6 @@ http://habrahabr.ru/post/231839/
 
 Басня о Git	
 http://hades.name/blog/2009/05/23/the-git-parable-ru/
-
-Опыт использования TFS после перехода с SVN
-http://habrahabr.ru/post/223797/
 
 Git Workflow
 http://habrahabr.ru/post/60030/

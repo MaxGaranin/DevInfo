@@ -1,9 +1,6 @@
 
-Разбор всех задач финального раунда Яндекс.Алгоритма 2015
-http://habrahabr.ru/company/yandex/blog/264253/
-
-CodingGame - задачи
-https://www.codingame.com/games/puzzles
+Общее
+-----
 
 ! Code Retreat или выходим из зоны комфорта (прикольно)
 http://habrahabr.ru/company/skbkontur/blog/187448/
@@ -17,8 +14,31 @@ http://ain.ua/2015/02/22/565794
 Дюжина логических задач с собеседований
 http://habrahabr.ru/post/230881/
 
-Разбор финальных задач Яндекс.Алгоритма 2014
-http://habrahabr.ru/company/yandex/blog/231939/
-
 Мини-задачка: «олд-скульное» дерево
 http://habrahabr.ru/post/104241/
+
+Накидайте большую порцию задачек для практики Python-новичка?
+http://toster.ru/q/176427
+
+
+Алгоритмы
+---------
+! CodingGame - задачи
+https://www.codingame.com/games/puzzles
+
+
+Задачки Java
+------------
+Хитрые задачки по Java
+http://habrahabr.ru/post/203796/
+
+Знаешь ли ты JAVA, %username%?
+http://habrahabr.ru/post/111189/
+Знаешь ли ты JAVA, %username%? Часть вторая
+http://habrahabr.ru/post/112674/
+
+
+Задачки C#
+----------
+Задачник.NET
+http://habrahabr.ru/company/enterra/blog/237863/
