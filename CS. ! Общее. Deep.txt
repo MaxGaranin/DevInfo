@@ -64,6 +64,8 @@ http://blogs.msdn.com/b/ericlippert/archive/2009/05/04/the-stack-is-an-implement
 
 WeakRerefence
 -------------
+Ёлегантна€ реализаци€ Ђслабых событийї
+http://sergeyteplyakov.blogspot.ru/2015/09/elegant-implementation-of-weak-events.html
 —лабые ссылки в .NET
 http://sergeyteplyakov.blogspot.ru/2013/08/net.html
 

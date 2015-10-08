@@ -1,6 +1,8 @@
 
 Общее
 -----
+Две задачи HeadHunter на Data Science Week: попробуйте решить сами
+http://habrahabr.ru/company/hh/blog/268319/
 
 ! Code Retreat или выходим из зоны комфорта (прикольно)
 http://habrahabr.ru/company/skbkontur/blog/187448/
@@ -25,6 +27,12 @@ http://toster.ru/q/176427
 ---------
 ! CodingGame - задачи
 https://www.codingame.com/games/puzzles
+
+
+Анализ сайтов
+-------------
+Введение в анализ социальных сетей на примере VK API
+http://habrahabr.ru/company/hh/blog/263313/
 
 
 Задачки Java

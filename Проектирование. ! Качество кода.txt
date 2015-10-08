@@ -1,4 +1,7 @@
 
+Поиск и чтение унаследованного кода
+http://habrahabr.ru/company/custis/blog/267923/
+
 Рефакторить или не рефакторить?
 http://habrahabr.ru/company/enterra/blog/229051/
 

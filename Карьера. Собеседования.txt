@@ -30,12 +30,6 @@ http://habrahabr.ru/post/147364/
 http://habrahabr.ru/post/200190/
 
 
-Тестовые задания
-----------------
-Войти в IT: Долгая дорога в Java
-http://habrahabr.ru/company/dataart/blog/234003/
-
-
 задачки
 -------
 Задачи на собеседованиях в Яндексе	
@@ -50,6 +44,9 @@ http://habrahabr.ru/post/230881/
 
 Java
 ----
+Войти в IT: Долгая дорога в Java
+http://habrahabr.ru/company/dataart/blog/234003/
+
 100+ вопросов на собеседование по Java Concurrency
 http://habrahabr.ru/post/231633/
 
