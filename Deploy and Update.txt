@@ -1,4 +1,27 @@
 
+–есурсы
+-------
+ClickOnce
+Squirrel
+Wix#
+Inno Setup
+NSIS
+NetSparkle - дл€ обновлени€
+DeployLX - дл€ лицензировани€
+
+
+ќбщее
+-----
+  вопросу распространени€ приложений
+http://rsdn.ru/article/install/Deploying.xml
+
+»спользование C# и Wix# дл€ создани€ msi-пакетов
+http://habrahabr.ru/post/253819/
+
+Inno Setup: создание инсталл€тора на примере развертывани€ C# приложени€
+http://habrahabr.ru/post/255807/
+
+
 ClickOnce
 ---------
 »спользование clickonce дл€ быстрого разворачивани€ приложений

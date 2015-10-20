@@ -38,6 +38,12 @@ http://weblogs.asp.net/manavi/inheritance-mapping-strategies-with-entity-framewo
 https://msdn.microsoft.com/ru-ru/library/vstudio/bb738523(v=vs.100).aspx
 
 
+UnitOfWork
+----------
+! Использование паттерна Unit of Work (как обычно, классная статья от sonyks2007)
+http://sonyks2007.blogspot.ru/2015/10/unit-of-work.html
+
+
 Общее
 -----
 ! Реализация слоя доступа к данным на Entity Framework Code First (интересно, есть тестовый проект)
