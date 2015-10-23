@@ -34,6 +34,8 @@ http://habrahabr.ru/post/229741/
 Field vs Property. Optimisation of performance
 http://stackoverflow.com/questions/9842917/field-vs-property-optimisation-of-performance
 
+Performance overhead for properties in .NET
+http://stackoverflow.com/questions/3264833/performance-overhead-for-properties-in-net
 
 
 Память, Объекты, сборка мусора

@@ -1,6 +1,12 @@
 
 Новости
 -------
+Алгоритмы: теория и практика. Методы
+http://habrahabr.ru/company/spbau/blog/269147/
+
+Курс по машинному обучению на Coursera от Яндекса и ВШЭ
+http://habrahabr.ru/company/yandex/blog/269175/
+
 Осенние онлайн-курсы от Computer Science Center и Академического университета
 http://habrahabr.ru/company/spbau/blog/265403/
 

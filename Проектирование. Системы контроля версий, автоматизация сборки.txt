@@ -4,6 +4,9 @@
 
 Git
 ---
+! Git How To на русском
+http://githowto.com/ru/
+
 ! Материалы по Git (от Акиншина Андрея)
 http://aakinshin.net/ru/blog/git/links/
 
@@ -47,37 +50,10 @@ http://habrahabr.ru/post/60030/
 http://habrahabr.ru/post/174467/
 
 
-Git и Visual Studio
--------------------
-Git и Visual Studio: как правильно приготовить
-http://habrahabr.ru/company/microsoft/blog/216037/
-
-Настройка Git на компьютере разработки (настройка, создание, клонирование, добавление)
-http://msdn.microsoft.com/ru-ru/library/hh850445.aspx
-
-Работа с Git в Visual Studio 2012
-http://habrahabr.ru/company/microsoft/blog/175261/
-
-Интеграция Team Foundation Services с Git и другие новые возможности
-http://habrahabr.ru/company/microsoft/blog/167699/
-
-
-Миграция с TSF на Git
----------------------
-! Перенос кода с tfs на git (Сычев Игорь)
-http://habrahabr.ru/post/228319/
-
-Миграция кода из SVN на Git в TFS2013 (Сычев Игорь)
-http://habrahabr.ru/post/214157/
-
-Migrating From TFS to Git-based Repositories
-http://blogs.ancestry.com/techroots/migrating-from-tfs-to-git-based-repositories-ii/
-
-Migrate an existing project from TFS to Git with changeset history intact
-http://chriskirby.net/migrate-an-existing-project-from-tfs-to-github-with-changeset-history-intact/
-
-Migrating a TFS TFVC based team project to a Git team project retaining as much source and work item history as possible
-http://www.microsoft.com/en-gb/developers/articles/week02mar2014/migrating-a-tfs-tfvc-based-team-project-to-a-git-team-project-retaining-as-much-source-and-work-item-history-as-possible
+Визуализация истории
+--------------------
+Превращаем скучные логи Git'a в захватывающую анимацию (Gource)
+http://habrahabr.ru/post/214911/
 
 
 Fossil

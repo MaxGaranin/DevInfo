@@ -1,0 +1,3 @@
+
+С чего начать новичку в Go
+http://habrahabr.ru/post/269355/

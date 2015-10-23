@@ -1,13 +1,4 @@
 
-MVVM
-----
-Изучая Autofac. Динамическое создание объектов с помощью контейнера
-http://mike.eshva.ru/dev/izuchaya-autofac-dinamicheskoe-sozdanie-obektov-s-pomoschyu-kontejnera
-
-Using Autofac's Auto-Factories to Avoid Service Locator
-http://jahyacode.blogspot.ru/2012/03/using-autofacs-auto-factories-to-avoid.html
-
-
 Общее
 -----
 The Register Resolve Release pattern by Mark Seemann
@@ -27,6 +18,15 @@ http://gandjustas.blogspot.ru/2009/01/ioc.html
 
 Dependency Injection: анти-паттерны
 http://habrahabr.ru/post/166287/
+
+
+ServiceLocator
+--------------
+ServiceLocator with top MVVM Frameworks
+http://sonyks2007.blogspot.ru/2015/10/servicelocator-with-top-mvvm-frameworks.html
+
+DI Паттерны. Service Locator
+http://sergeyteplyakov.blogspot.ru/2013/03/di-service-locator.html
 
 
 Серия статей Теплякова Сергея
@@ -66,3 +66,11 @@ Autofac
 -------
 WPF – Automatic ViewModel Resolution with Autofac
 http://deanchalk.com/2013/05/03/wpf-automatic-viewmodel-resolution-with-autofac-2/
+
+Autofac.MVVM
+------------
+Изучая Autofac. Динамическое создание объектов с помощью контейнера
+http://mike.eshva.ru/dev/izuchaya-autofac-dinamicheskoe-sozdanie-obektov-s-pomoschyu-kontejnera
+
+Using Autofac's Auto-Factories to Avoid Service Locator
+http://jahyacode.blogspot.ru/2012/03/using-autofacs-auto-factories-to-avoid.html
