@@ -41,6 +41,9 @@ https://github.com/manishma
 
 WPF
 ---
+Perspex Ч кросплатформенный UI-фреймворк с XAML и биндингами
+http://habrahabr.ru/post/267425/
+
 WPF: Binding без тривиальных конвертеров
 http://habrahabr.ru/post/248197/
 

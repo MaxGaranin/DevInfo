@@ -1,6 +1,9 @@
 
 Новости
 -------
+Обновленный Codebattle: игра для программистов
+http://habrahabr.ru/company/hexlet/blog/269613/
+
 Алгоритмы: теория и практика. Методы
 http://habrahabr.ru/company/spbau/blog/269147/
 
@@ -25,6 +28,9 @@ http://habrahabr.ru/post/156241/
 
 Разнообразные курсы
 -------------------
+Hexlet (на русском) - вроде интересно, есть Battle
+https://ru.hexlet.io/courses
+
 Stepic (на русском) - Отличные видео-курсы
 http://habrahabr.ru/company/stepic/
 https://stepic.org/

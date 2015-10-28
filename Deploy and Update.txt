@@ -3,9 +3,9 @@
 -------
 ClickOnce
 Squirrel
-Wix#
 Inno Setup
 NSIS
+Wix и WixSharp - создание msi-пакетов
 NetSparkle - для обновления
 DeployLX - для лицензирования
 
@@ -15,11 +15,19 @@ DeployLX - для лицензирования
 К вопросу распространения приложений
 http://rsdn.ru/article/install/Deploying.xml
 
+Inno Setup: создание инсталлятора на примере развертывания C# приложения
+http://habrahabr.ru/post/255807/
+
+
+Wix
+---
 Использование C# и Wix# для создания msi-пакетов
 http://habrahabr.ru/post/253819/
 
-Inno Setup: создание инсталлятора на примере развертывания C# приложения
-http://habrahabr.ru/post/255807/
+Создание инсталлятора с помощью WiX (3 части)
+http://habrahabr.ru/post/68616/
+http://habrahabr.ru/post/69129/
+http://habrahabr.ru/post/70616/
 
 
 ClickOnce

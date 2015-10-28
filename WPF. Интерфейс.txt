@@ -179,6 +179,9 @@ http://stackoverflow.com/questions/397556/how-to-bind-radiobuttons-to-an-enum
 
 Button
 --------
+! WPF: 4 варианта кнопки с иконкой и текстом (статья странная, но классное обсуждение после)
+http://habrahabr.ru/post/157337/
+
 Link button in wpf
 http://stackoverflow.com/questions/780426/link-button-in-wpf
 

@@ -1,4 +1,13 @@
 
+Алгоритмы
+---------
+! Обновленный Codebattle: игра для программистов
+http://habrahabr.ru/company/hexlet/blog/269613/
+
+! CodingGame - задачи
+https://www.codingame.com/games/puzzles
+
+
 Общее
 -----
 Две задачи HeadHunter на Data Science Week: попробуйте решить сами
@@ -21,12 +30,6 @@ http://habrahabr.ru/post/104241/
 
 Накидайте большую порцию задачек для практики Python-новичка?
 http://toster.ru/q/176427
-
-
-Алгоритмы
----------
-! CodingGame - задачи
-https://www.codingame.com/games/puzzles
 
 
 Анализ сайтов
