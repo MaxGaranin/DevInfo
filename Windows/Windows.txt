@@ -1,3 +1,6 @@
 
+Работа с сетью в командной строке Windows (CMD)
+http://ab57.ru/netcmd.html
+
 Изоляция служб в Windows
 http://habrahabr.ru/company/microsoft/blog/113815/

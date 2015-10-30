@@ -24,10 +24,19 @@ Wix
 »спользование C# и Wix# дл€ создани€ msi-пакетов
 http://habrahabr.ru/post/253819/
 
+Wix# (WixSharp) - managed interface for WiX
+http://www.codeproject.com/Articles/31407/Wix-WixSharp-managed-interface-for-WiX
+
 —оздание инсталл€тора с помощью WiX (3 части)
 http://habrahabr.ru/post/68616/
 http://habrahabr.ru/post/69129/
 http://habrahabr.ru/post/70616/
+
+—оздание patchТей на Wix при помощи PatchWiz
+http://habrahabr.ru/post/190546/
+
+WiX Tutorial
+https://www.firegiant.com/wix/tutorial/
 
 
 ClickOnce
