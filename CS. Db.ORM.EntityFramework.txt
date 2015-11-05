@@ -14,6 +14,12 @@ Associations in EF Code First CTP5: Part 1 – Complex Types
 http://weblogs.asp.net/manavi/entity-association-mapping-with-code-first-part-1-one-to-one-associations
 
 
+Производительность
+------------------
+Подводные камни Entity Framework и производительность
+http://habrahabr.ru/post/269901/
+
+
 ChangeTracker
 -------------
 Secrets of DetectChanges Part 1: What does DetectChanges do? (4 статьи)

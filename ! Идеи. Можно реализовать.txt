@@ -16,6 +16,11 @@ http://habrahabr.ru/post/227277/
 
 Web
 ---
+Создаем ToDo-приложение на основе Electron и AngularJs
+http://artslab.info/stati/sozdaem-todo-prilozhenie-na-osnove-electron-i-angularjs/
+
+Приложение для выбора курсов обучения, аналогично softline.ru
+
 Обучение и экзамен по охране труда http://olimpoks.samnipineft.ru:9001/
 Можно сделать аналогичную программу.
 Вова смог сграбить вопросы и ответы в JSON и сделать приложение на Android.

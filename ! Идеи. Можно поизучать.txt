@@ -1,4 +1,7 @@
 
+ ак € делал веб-версию KeePass
+http://habrahabr.ru/post/269895/
+
 ABCat: Ќова€ верси€ приложени€ дл€ загрузки и каталогизации аудиокниг
 http://habrahabr.ru/post/203500/
 

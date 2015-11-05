@@ -2,3 +2,4 @@
 services.msc - службы
 shippingtool - инструмент "Ножницы"
 control userpasswords2 - пользователи и пароли (сделать автовход)
+inetmgr - запуск надстройки IIS
