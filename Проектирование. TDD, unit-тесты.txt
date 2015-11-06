@@ -1,0 +1,11 @@
+
+Тестирование непубличных методов
+--------------------------------
+Как тестировать не-публичные методы в .NET
+http://habrahabr.ru/post/224733/
+
+Как тестировать закрытые методы?
+http://sergeyteplyakov.blogspot.ru/2013/05/blog-post.html
+
+How to Test Private and Protected methods in .NET
+http://www.codeproject.com/Articles/9715/How-to-Test-Private-and-Protected-methods-in-NET

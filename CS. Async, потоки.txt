@@ -53,6 +53,15 @@ Create MVVM Background Tasks with Progress Reporting
 http://www.codeproject.com/Articles/252392/Create-MVVM-Background-Tasks-with-Progress-Reporti
 
 
+SynchronizationContext
+----------------------
+SynchronizationContext — когда MSDN подводит
+http://habrahabr.ru/post/232169/
+
+Пишем свой SynchronizationContext
+http://habrahabr.ru/post/269985/
+
+
 Разное
 ------
 UDP и C# async/await

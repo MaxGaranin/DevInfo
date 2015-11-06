@@ -39,21 +39,3 @@ http://habrahabr.ru/post/61524/
 Tim McCarthy's sample C# app for his book, .NET Domain-Driven Design with C# (тестовый проект)
 http://dddpds.codeplex.com/
 
-
-TDD
----
-Test-Driven Development Ч телега или лошадь?
-http://habrahabr.ru/post/206828/
-
-
-CQRS
-----
-Command and Query Responsibility Segregation (CQRS) на практике (—аша Ѕындю)
-http://blog.byndyu.ru/2014/07/command-and-query-responsibility.html
-
-¬ведение в CQRS + Event Sourcing: „асть 1. ќсновы (есть тестовый проект)
-http://habrahabr.ru/post/146429/
-¬ведение в CQRS + Event Sourcing: „асть 2
-http://habrahabr.ru/post/149464/
-CQRS-Event-Sourcing-Sample--ASP.NET-MVC
-https://github.com/AlexShkor/CQRS-Event-Sourcing-Sample--ASP.NET-MVC-/tree/master/CqrsSample
