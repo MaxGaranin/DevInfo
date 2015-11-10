@@ -1,6 +1,27 @@
 
+Автоматизация процесса сборки
+=============================
+
+Общее
+-----
+Введение в Continuous Integration
+http://habrahabr.ru/post/82724/
+
+Continuous Integration для самых маленьких
+http://habrahabr.ru/post/190412/
+
+
+TeamCity
+--------
+Настройка TeamCity для новичков
+http://habrahabr.ru/company/skbkontur/blog/205402/
+
+Continuous Integration в Дневник.ру (про TeamCity)
+http://habrahabr.ru/company/dnevnik_ru/blog/169329/
+
+
 Системы контроля версий
------------------------
+=======================
 
 Git
 ---
@@ -61,16 +82,3 @@ Fossil
 Системы контроля версий: Fossil, часть I 
 http://habrahabr.ru/post/235369/
 
-
-Автоматизация процесса сборки
------------------------------
-Continuous Integration в Дневник.ру (про TeamCity)
-http://habrahabr.ru/company/dnevnik_ru/blog/169329/
-
-Continuous Integration для самых маленьких
-http://habrahabr.ru/post/190412/
-
-Автоматизация сборки web-приложения на платформе .NET
-http://habrahabr.ru/post/101183/
-Автоматизация сборки .NET приложений — часть 2
-http://habrahabr.ru/post/189190/

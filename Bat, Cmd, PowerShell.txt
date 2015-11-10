@@ -1,0 +1,22 @@
+
+Bat-файлы
+---------
+Урок bat-аники
+http://rsdn.ru/article/winshell/batanyca.xml#EODAC
+Особенности реализации командного процессора cmd.exe операционных систем WinNT
+Или Урок bat-аники 2-ой
+http://rsdn.ru/article/winshell/NTCommandProcessor.xml
+
+
+Powershell
+----------
+Работа с файлами при помощи команд PowerShell (Семь команд для управления файлами)
+http://www.osp.ru/win2000/2013/10/13037712/
+
+Уроки Powershell – создаем первый скрипт
+http://blog.wadmin.ru/2011/08/powershell-lessons-first-script/
+
+Asynchronously Execute PowerShell Scripts from C#
+http://www.codeproject.com/Articles/18409/Asynchronously-Execute-PowerShell-Scripts-from-C
+
+

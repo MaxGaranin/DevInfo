@@ -22,6 +22,9 @@ http://habrahabr.ru/post/166287/
 
 ServiceLocator
 --------------
+Service Locator нарушает инкапсул€цию
+http://habrahabr.ru/post/270005/
+
 ServiceLocator with top MVVM Frameworks
 http://sonyks2007.blogspot.ru/2015/10/servicelocator-with-top-mvvm-frameworks.html
 

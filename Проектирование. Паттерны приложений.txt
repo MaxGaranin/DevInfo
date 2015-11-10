@@ -25,7 +25,9 @@ http://martinfowler.com/bliki/CQRS.html
 
 
 MVC, MVP, MVVM
---------------
+==============
+Общее
+-----
 В чем различия MVVM и MVC?
 https://toster.ru/q/226608
 
@@ -34,6 +36,7 @@ http://habrahabr.ru/post/215605/
 
 Проектировочный шаблон Model-View-Presenter-ViewModel (MVPVM) для WPF (Билл Кратохвил)
 http://msdn.microsoft.com/ru-ru/magazine/hh580734.aspx
+
 
 MVP
 ---
@@ -45,6 +48,7 @@ http://msdn.microsoft.com/ru-ru/magazine/cc188690(en-us).aspx
 
 Улучшение Web Forms с помощью шаблона MVP
 http://msdn.microsoft.com/ru-ru/magazine/ff955232.aspx
+
 
 MVVM
 ----

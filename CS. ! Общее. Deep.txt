@@ -101,8 +101,11 @@ The art of Generics
 http://habrahabr.ru/post/201996/
 
 
-Компиляция, дизассемблирование
----------------------------------------------
+Компиляция, дизассемблирование, IL
+----------------------------------
+! Introduction to IL Assembly Language
+http://www.codeproject.com/Articles/3778/Introduction-to-IL-Assembly-Language
+
 Разные версии JIT в .NET
 http://habrahabr.ru/company/enterra/blog/252105/
 

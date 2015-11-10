@@ -1,6 +1,0 @@
-
-”роки Powershell Ц создаем первый скрипт
-http://blog.wadmin.ru/2011/08/powershell-lessons-first-script/
-
-Asynchronously Execute PowerShell Scripts from C#
-http://www.codeproject.com/Articles/18409/Asynchronously-Execute-PowerShell-Scripts-from-C

@@ -1,4 +1,7 @@
 
+Правильное оперирование XAML-ресурсами
+http://habrahabr.ru/post/249819/
+
 Подводные камни WPF
 http://habrahabr.ru/post/262299/
 

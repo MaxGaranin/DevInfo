@@ -177,6 +177,9 @@ http://anton.shevchuk.name/javascript/jquery-for-beginners/
 
 Python
 ------
+Ќекоторые репозитории в помощь изучающим и преподающим Python и машинное обучение
+http://habrahabr.ru/post/270449/
+
 »нтерактивный учебник €зыка Python
 http://pythontutor.ru/
 
