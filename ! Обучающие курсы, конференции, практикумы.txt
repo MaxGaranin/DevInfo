@@ -17,8 +17,8 @@ http://habrahabr.ru/company/spbau/blog/265403/
 http://habrahabr.ru/post/231889/
 
 
-Общее
------
+Справочники
+-----------
 Список YouTube-каналов для обучения веб-разработке
 http://habrahabr.ru/post/247893/
 
@@ -28,6 +28,9 @@ http://habrahabr.ru/post/156241/
 
 Разнообразные курсы
 -------------------
+CodeSchool
+https://www.codeschool.com/
+
 Hexlet (на русском) - вроде интересно, есть Battle
 https://ru.hexlet.io/courses
 
