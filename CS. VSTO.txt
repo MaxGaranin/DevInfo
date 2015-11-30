@@ -1,4 +1,7 @@
 
+Office Add-Ins дл€ Excel Ч новые возможности дл€ разработчиков на VBA и VSTO
+http://habrahabr.ru/company/microsoft/blog/270763/
+
 Roadmap for Apps for Office, VSTO, and VBA
 http://blogs.msdn.com/b/vsto/archive/2013/06/18/roadmap-for-apps-for-office-vsto-and-vba.aspx
 

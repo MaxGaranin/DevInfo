@@ -1,9 +1,6 @@
 
 Новости
 -------
-Обновленный Codebattle: игра для программистов
-http://habrahabr.ru/company/hexlet/blog/269613/
-
 Алгоритмы: теория и практика. Методы
 http://habrahabr.ru/company/spbau/blog/269147/
 
@@ -17,13 +14,16 @@ http://habrahabr.ru/company/spbau/blog/265403/
 http://habrahabr.ru/post/231889/
 
 
-Справочники
------------
-Список YouTube-каналов для обучения веб-разработке
-http://habrahabr.ru/post/247893/
+Игры для программистов
+----------------------
+Russian AI Cup — соревнование по программированию искусственного интеллекта
+http://russianaicup.ru/
 
-27+ ресурсов для онлайн-обучения
-http://habrahabr.ru/post/156241/
+Обновленный Codebattle: игра для программистов
+http://habrahabr.ru/company/hexlet/blog/269613/
+
+codewars
+http://www.codewars.com/
 
 
 Разнообразные курсы
@@ -41,7 +41,7 @@ https://stepic.org/
 Codeacademy - различные обучающие курсы
 http://www.codecademy.com/
 
-Пройдите самые лучшие в мире курсы, онлайн, бесплатно
+Coursera. Пройдите самые лучшие в мире курсы, онлайн, бесплатно
 https://www.coursera.org/
 
 Различные бесплатные курсы с заданиями (есть JavaScript)
@@ -71,6 +71,14 @@ http://habrahabr.ru/company/yandex/blog/264253/
 Разбор финальных задач Яндекс.Алгоритма 2014
 http://habrahabr.ru/company/yandex/blog/231939/
 
+
+Справочники
+-----------
+Список YouTube-каналов для обучения веб-разработке
+http://habrahabr.ru/post/247893/
+
+27+ ресурсов для онлайн-обучения
+http://habrahabr.ru/post/156241/
 
 
 Группы обсуждения

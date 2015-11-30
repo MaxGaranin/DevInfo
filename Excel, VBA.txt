@@ -1,4 +1,7 @@
 
+Power Query: стероиды для MS Excel
+http://habrahabr.ru/post/271019/
+
 Чем заняться айтишнику в армии или как я на VBA игры писал
 http://habrahabr.ru/post/237641/
 

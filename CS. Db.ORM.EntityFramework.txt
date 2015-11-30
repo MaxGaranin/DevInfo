@@ -8,6 +8,15 @@ Entity Framework 6 (7) vs NHibernate 4: взгл€д со стороны DDD
 http://habrahabr.ru/post/262407/
 
 
+ѕроблемы
+========
+”даление дочерних записей
+-------------------------
+Entity Framework Gotchas Ц Strategies for Orphaned Child Objects
+http://www.kianryan.co.uk/2013/03/orphaned-child/
+========
+
+
 »нтересно
 ---------
 Associations in EF Code First CTP5: Part 1 Ц Complex Types

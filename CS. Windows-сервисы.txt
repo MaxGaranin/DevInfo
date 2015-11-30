@@ -1,6 +1,9 @@
 
 Windows-сервисы
 ---------------
+Автообновление службы Windows через AWS для бедных
+http://habrahabr.ru/company/edison/blog/270777/
+
 ! Пишем свой сервис авто-обновлений
 http://habrahabr.ru/post/131649/
 

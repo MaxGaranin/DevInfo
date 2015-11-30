@@ -1,4 +1,7 @@
 
+Russian AI Cup Ч соревнование по программированию искусственного интеллекта
+http://russianaicup.ru/
+
 dotnetconf
 https://groups.google.com/forum/?hl=ru&fromgroups#!forum/dotnetconf
 

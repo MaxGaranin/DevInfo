@@ -1,4 +1,7 @@
 
+Модульное приложение на WPF + Caliburn.Micro + Castle.Windsor
+http://habrahabr.ru/post/271655/
+
 Правильное оперирование XAML-ресурсами
 http://habrahabr.ru/post/249819/
 

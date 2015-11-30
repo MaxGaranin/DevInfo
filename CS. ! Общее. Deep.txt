@@ -10,7 +10,7 @@ http://habrahabr.ru/post/136609/
 
 PDB
 ---
-PDB Files: What Every Developer Must Know
+! PDB Files: What Every Developer Must Know
 http://www.wintellect.com/blogs/jrobbins/pdb-files-what-every-developer-must-know
 
 dotPeek Symbol Server and PDB Generation

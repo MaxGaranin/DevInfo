@@ -49,6 +49,11 @@ http://msdn.microsoft.com/ru-ru/magazine/gg983481.aspx
 Create Custom DateTimePicker Column
 http://www.telerik.com/help/wpf/gridview-how-to-create-date-time-picker-column.html
 
+-- Binding äëÿ êîëîíîê
+--
+Forwarding the DataGrid’s DataContext to its’ columns..
+http://blogs.msdn.com/b/jaimer/archive/2008/11/22/forwarding-the-datagrid-s-datacontext-to-its-columns.aspx
+
 -- Customization
 --
 WPF DataGrid Custommization using Style and Template
