@@ -1,11 +1,8 @@
 
-Алгоритмы
----------
-! Обновленный Codebattle: игра для программистов
-http://habrahabr.ru/company/hexlet/blog/269613/
-
-! CodingGame - задачи
-https://www.codingame.com/games/puzzles
+Занимательные задачки
+---------------------
+sin 1° на калькуляторе
+http://habrahabr.ru/post/271889/
 
 
 Общее

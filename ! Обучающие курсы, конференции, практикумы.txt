@@ -14,15 +14,18 @@ http://habrahabr.ru/company/spbau/blog/265403/
 http://habrahabr.ru/post/231889/
 
 
-»гры дл€ программистов
-----------------------
+»гры и задачки дл€ программистов
+--------------------------------
 Russian AI Cup Ч соревнование по программированию искусственного интеллекта
 http://russianaicup.ru/
 
 ќбновленный Codebattle: игра дл€ программистов
 http://habrahabr.ru/company/hexlet/blog/269613/
 
-codewars
+CodingGame - задачи
+https://www.codingame.com/games/puzzles
+
+Codewars
 http://www.codewars.com/
 
 

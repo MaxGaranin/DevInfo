@@ -4,3 +4,7 @@ http://ab57.ru/netcmd.html
 
 Изоляция служб в Windows
 http://habrahabr.ru/company/microsoft/blog/113815/
+
+! Интересно почитать в комментариях, какие есть инструменты для PrintScreen
+Магия Ctrl-C Ctrl-V, или как перестать сохранять картинки и начать жить
+http://habrahabr.ru/post/263175/

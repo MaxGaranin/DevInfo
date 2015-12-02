@@ -5,6 +5,13 @@ The generic repository is just a lazy anti-pattern
 http://www.ben-morris.com/why-the-generic-repository-is-just-a-lazy-anti-pattern
 
 
+DAO
+---
+Java. Реализация шаблона DAO
+http://www.dokwork.ru/2014/02/daotalk.html
+http://www.dokwork.ru/2014/03/daotalk2.html
+
+
 CQRS
 ----
 Command and Query Responsibility Segregation (CQRS) на практике
