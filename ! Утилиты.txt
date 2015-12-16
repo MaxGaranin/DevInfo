@@ -1,0 +1,35 @@
+
+-- Diff Tools
+Обзор инструментов для визуального сравнения и разрешения конфликтов слияния
+http://habrahabr.ru/post/150001/
+
+
+-- SQL Server
+--
+ExpressProfiler (профайлер для SQL Server Express)
+http://expressprofiler.codeplex.com
+
+
+-- WPF
+--
+Show Me The Templates представляет собой инструмент для изучения шаблонов штатных элементов управления WPF для всех 6 тем
+http://odotnet.ru/utilita-s-ishodnym-kodom-show-me-the-templates/
+
+Snoop. It allows you to spy/browse the visual tree of a running WPF application (without the need for a debugger) … 
+and change properties ... amongst other things.
+https://snoopwpf.codeplex.com/
+
+Kaxaml is a lightweight XAML editor
+http://www.kaxaml.com/
+
+
+-- Инсталляторы, обновление, лицензирование
+--
+ClickOnce
+Inno Setup
+NSIS
+Advanced Installer
+Wix и WixSharp - создание msi-пакетов
+NetSparkle - для обновления
+Squirrel
+DeployLX - для лицензирования

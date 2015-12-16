@@ -1,0 +1,6 @@
+
+Руководство разработчика Prism
+http://habrahabr.ru/post/176851/
+
+Prism. Шаблоны для создания составных приложений с WPF (Гленн Блок)
+http://msdn.microsoft.com/ru-ru/magazine/cc785479.aspx

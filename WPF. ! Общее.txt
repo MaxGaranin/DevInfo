@@ -96,6 +96,12 @@ How can I make a read-only ObservableCollection property?
 http://stackoverflow.com/questions/1763696/how-can-i-make-a-read-only-observablecollection-property
 
 
+INotifyPropertyChanged
+----------------------
+Базовая реализация INotifyPropertyChanged
+http://habrahabr.ru/post/271305/
+
+
 DependencyProperties
 --------------------
 Dependency Properties (Jesse Liberty)

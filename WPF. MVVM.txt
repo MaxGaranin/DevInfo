@@ -118,8 +118,3 @@ http://blog.notifychanged.com/2009/01/30/using-the-viewmodel-pattern-to-provide-
 MugenMvvmToolkit Ч кроссплатформенный MVVM фреймворк
 http://habrahabr.ru/post/236745/
 
-
-Prism
------
-Prism. Ўаблоны дл€ создани€ составных приложений с WPF (√ленн Ѕлок)
-http://msdn.microsoft.com/ru-ru/magazine/cc785479.aspx

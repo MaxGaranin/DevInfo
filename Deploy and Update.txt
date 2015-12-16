@@ -1,15 +1,4 @@
 
-Ресурсы
--------
-ClickOnce
-Squirrel
-Inno Setup
-NSIS
-Wix и WixSharp - создание msi-пакетов
-NetSparkle - для обновления
-DeployLX - для лицензирования
-
-
 Общее
 -----
 К вопросу распространения приложений

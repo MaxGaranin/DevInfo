@@ -61,6 +61,13 @@ http://habrahabr.ru/post/232169/
 Пишем свой SynchronizationContext
 http://habrahabr.ru/post/269985/
 
+Async в C# и SynchronizationContext
+http://habrahabr.ru/post/107583/
+
+Understanding SynchronizationContext
+http://www.codeproject.com/Articles/31971/Understanding-SynchronizationContext-Part-I
+http://www.codeproject.com/Articles/32113/Understanding-SynchronizationContext-Part-II
+http://www.codeproject.com/Articles/32119/Understanding-SynchronizationContext-Part-III
 
 Разное
 ------
