@@ -1,4 +1,8 @@
 
+Примеры разработки WPF на WAF
+http://dotnetpad.codeplex.com/
+http://wmm.codeplex.com/
+
 Как я делал веб-версию KeePass
 http://habrahabr.ru/post/269895/
 

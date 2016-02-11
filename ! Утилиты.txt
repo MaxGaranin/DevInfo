@@ -25,6 +25,7 @@ http://www.kaxaml.com/
 
 -- Инсталляторы, обновление, лицензирование
 --
+Microsoft Visual Studio 2015 Installer Projects
 ClickOnce
 Inno Setup
 NSIS

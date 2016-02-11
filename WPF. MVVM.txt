@@ -39,6 +39,12 @@ Commands, RelayCommands and EventToCommand
 http://msdn.microsoft.com/ru-ru/magazine/dn237302(en-us).aspx
 
 
+Event Aggregator
+----------------
+Event Aggregator in Caliburn.Micro
+http://sonyks2007.blogspot.ru/2015/11/event-aggregator-in-caliburnmicro.html
+
+
 События
 -------
 Handling events in an MVVM WPF application

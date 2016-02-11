@@ -23,6 +23,12 @@ http://confluence.jetbrains.com/display/NETCOM/dotPeek+Symbol+Server+and+PDB+Gen
 http://sonyks2007.blogspot.ru/2014/06/net-framework-source.html
 
 
+Сборки
+------
+Немного о сборках
+http://rsdn.ru/article/dotnet/assembly2.xml#EOCAC
+
+
 Производительность
 ------------------
 О книге “Writing High-Performance .NET Code”

@@ -71,6 +71,12 @@ http://habrahabr.ru/post/60030/
 http://habrahabr.ru/post/174467/
 
 
+Github
+------
+Git и Github. Простые рецепты
+http://habrahabr.ru/post/273897/
+
+
 Визуализация истории
 --------------------
 Превращаем скучные логи Git'a в захватывающую анимацию (Gource)

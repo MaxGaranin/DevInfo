@@ -77,6 +77,9 @@ http://tiredblogger.wordpress.com/2009/07/09/filtering-an-enum-by-attribute/
 
 Culture
 -------
+What is the difference between CurrentCulture and CurrentUICulture properties of CultureInfo in .NET?
+http://stackoverflow.com/questions/329033/what-is-the-difference-between-currentculture-and-currentuiculture-properties-of
+
 Why we have both CurrentCulture and CurrentUICulture
 http://blogs.msdn.com/b/michkap/archive/2007/01/11/1449754.aspx
 

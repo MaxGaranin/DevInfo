@@ -1,6 +1,9 @@
 
 RESTful vs SOAP и прочие размышлени€
 ------------------------------------
+„то такое RESTful на самом деле
+http://habrahabr.ru/company/hexlet/blog/274675/
+
 SOAP vs RESTful
 http://samolisov.blogspot.ru/2013/12/soap-vs-restful.html
 

@@ -1,7 +1,18 @@
 
-Power Query: стероиды для MS Excel
-http://habrahabr.ru/post/271019/
+Источники
+---------
+Perfect Excel - супер
+http://perfect-excel.ru/publ/
 
+
+Dictionary
+----------
+Исчерпывающее описание объекта Dictionary
+http://perfect-excel.ru/publ/excel/makrosy_i_programmy_vba/ischerpyvajushhee_opisanie_obekta_dictionary/7-1-0-101#link_16
+
+
+Интересно
+---------
 Чем заняться айтишнику в армии или как я на VBA игры писал
 http://habrahabr.ru/post/237641/
 
