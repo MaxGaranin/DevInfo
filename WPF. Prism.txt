@@ -5,5 +5,8 @@ http://sonyks2007.blogspot.ru/
 Руководство разработчика Prism
 http://habrahabr.ru/post/176851/
 
+Developer's Guide to Microsoft Prism Library 5.0 for WPF (patterns & practices)
+https://msdn.microsoft.com/en-us/library/gg406140.aspx
+
 Prism. Шаблоны для создания составных приложений с WPF (Гленн Блок)
 http://msdn.microsoft.com/ru-ru/magazine/cc785479.aspx

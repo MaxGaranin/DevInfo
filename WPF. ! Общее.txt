@@ -199,6 +199,9 @@ http://stackoverflow.com/questions/15309008/binding-converterparameter
 WPF: Несколько параметров для конвертера
 http://habrahabr.ru/post/141107/
 
+WPF: конвертеры как MarkupExtension
+https://habrahabr.ru/post/140876/
+
 
 Validation
 ----------
@@ -228,6 +231,9 @@ WPF Adorners
 http://www.shujaat.net/2010/07/wpf-adorners.html
 
 -- ValidationRule with parameters
+
+Проверка данных в WPF (неплохо, добавление виртуального элемента для параметра валидации)
+http://www.vitaliy.org/Node/View/60
 
 Attaching a Virtual Branch to the Logical Tree in WPF
 http://www.codeproject.com/Articles/18678/Attaching-a-Virtual-Branch-to-the-Logical-Tree-in
