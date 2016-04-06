@@ -103,7 +103,7 @@ http://habrahabr.ru/post/198694/
 
 Дженерики
 ---------
-The art of Generics
+The art of Generics (интересно!)
 http://habrahabr.ru/post/201996/
 
 

@@ -81,21 +81,6 @@ WPF Animations Tips and Tricks
 http://blogs.msdn.com/b/wpfsdk/archive/2007/01/18/wpf-animations-tips-and-tricks.aspx
 
 
-Коллекции
----------
-Can I bind my ItemsControl to a dictionary?
-http://drwpf.com/blog/2007/09/16/can-i-bind-my-itemscontrol-to-a-dictionary/
-
-ObservableDictionary<TKey, TValue>
-http://blogs.microsoft.co.il/blogs/shimmy/archive/2010/12/26/observabledictionary-lt-tkey-tvalue-gt-c.aspx
-
-ReadOnlyObservableCollection anti-pattern
-http://code.logos.com/blog/2009/03/readonlyobservablecollection_anti-pattern.html
-
-How can I make a read-only ObservableCollection property?
-http://stackoverflow.com/questions/1763696/how-can-i-make-a-read-only-observablecollection-property
-
-
 INotifyPropertyChanged
 ----------------------
 Базовая реализация INotifyPropertyChanged
@@ -165,9 +150,6 @@ http://habrahabr.ru/post/248197/
 Привязка данных в Windows Presentation Foundation (Джон Папа)
 http://msdn.microsoft.com/ru-ru/magazine/cc163299.aspx
 
-WPF Binding: Когда нужно использовать ObjectDataProvider? (Здесь же хорошо написано про валидацию)
-http://habrahabr.ru/post/46998/
-
 How to update dependency property without breaking binding? (Когда ломается байндинг)
 http://social.msdn.microsoft.com/Forums/vstudio/en-US/8819f0d6-4c18-480c-941d-94cee18713e1/how-to-update-dependency-property-without-breaking-binding
 
@@ -181,6 +163,11 @@ http://dev.net.ua/blogs/andriydanilchenko/archive/2011/08/14/binding-and-multibi
 
 WPF Tutorial - Using MultiBindings
 http://tech.pro/tutorial/809/wpf-tutorial-using-multibindings
+
+-- ObjectDataProvider
+
+! WPF Binding: Когда нужно использовать ObjectDataProvider? (Здесь же хорошо написано про валидацию)
+http://habrahabr.ru/post/46998/
 
 
 Converters
@@ -250,6 +237,11 @@ http://michlg.wordpress.com/2010/01/29/wpf-custom-validationrule-with-an-additio
 
 Templates
 ---------
+
+-- Динамическое создание
+
+Creating WPF Data Templates in Code: The Right Way
+http://www.codeproject.com/Articles/444371/Creating-WPF-Data-Templates-in-Code-The-Right-Way
 
 -- DataTemplateSelector
 

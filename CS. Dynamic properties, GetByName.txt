@@ -49,10 +49,11 @@ http://igoro.com/archive/use-c-dynamic-typing-to-conveniently-access-internals-o
 
 PropertyByName
 --------------
+Установка свойства объекта с использованием лямбда-выражений
+https://habrahabr.ru/post/259567/
+
 How to get property name from lambda
 http://www.limilabs.com/blog/property-name-from-lambda
-
-Various ways to sort List of objects by Property name in C#	http://www.shirmanov.com/2011/03/various-ways-to-sort-list-of-objects-by.html
 
 
 PropertyDescriptor

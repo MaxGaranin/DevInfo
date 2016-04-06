@@ -199,6 +199,9 @@ http://stackoverflow.com/questions/9796174/load-usercontrol-in-tabitem
 
 TreeView
 --------
+! .NET компонент — Tree View с поиском
+https://habrahabr.ru/post/135274/
+
 TreeView and HierarchicalDataTemplate, Step-by-Step
 http://blogs.msdn.com/b/mikehillberg/archive/2009/10/30/treeview-and-hierarchicaldatatemplate-step-by-step.aspx
 

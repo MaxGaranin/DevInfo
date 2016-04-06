@@ -26,6 +26,18 @@ Expressions в C# Ч impress yourself!
 http://habrahabr.ru/post/83169/
 
 
+ObservableCollections
+---------------------
+! ‘ункциональность с Range в ObservableCollection
+https://habrahabr.ru/post/253857/
+
+ReadOnlyObservableCollection anti-pattern
+http://code.logos.com/blog/2009/03/readonlyobservablecollection_anti-pattern.html
+
+How can I make a read-only ObservableCollection property?
+http://stackoverflow.com/questions/1763696/how-can-i-make-a-read-only-observablecollection-property
+
+
 Read-only Collections
 ---------------------
 C#: коллекции только дл€ чтени€ и LSP
