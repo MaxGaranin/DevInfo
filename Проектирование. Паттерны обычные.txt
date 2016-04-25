@@ -37,6 +37,9 @@ http://sergeyteplyakov.blogspot.ru/2014/03/template-method-design-pattern.html
 Шаблон проектирования «Спецификация»
 http://habrahabr.ru/post/171559/
 
+Прогноз на Specification pattern в Domain layer — ожидаются проблемы (интересное обсуждение)
+https://habrahabr.ru/post/260771/
+
 
 Цепочка обязанностей
 --------------------

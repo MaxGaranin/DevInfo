@@ -1,16 +1,4 @@
 
-Окна
-----
-WPF: Нестандартное окно
-http://habrahabr.ru/post/158561/
-
-Save and Restore WPF Window Size, Position, and/or State
-http://www.codeproject.com/Articles/50761/Save-and-Restore-WPF-Window-Size-Position-and-or-S
-
-Find out Size (and position) of the taskbar
-http://winsharp93.wordpress.com/2009/06/29/find-out-size-and-position-of-the-taskbar/
-
-
 DataGrid
 ---------
 -- Общее

@@ -126,6 +126,9 @@ http://siderite.blogspot.com/2010/02/checking-if-wpf-property-is-set-or-not.html
 
 Notification
 ------------
+Чистый код под флагом АОП и ненавистный #ПредупреждаюНедвижимостьИзменился
+https://habrahabr.ru/post/281294/
+
 Борьба с INotifyPropertyChanged или как я стал опенсорсником — 2
 http://habrahabr.ru/post/95211/
 
@@ -137,6 +140,7 @@ http://blog.quantumbitdesigns.com/2010/01/26/mvvm-lambda-vs-inotifypropertychang
 
 Есть пример базового класса NotificationObject в проекте DmFund
 или NotifiableObject в MVVM Light.
+или BindableObject в Prism
 
 
 Binding
@@ -376,3 +380,22 @@ http://www.gotdotnet.ru/blogs/eisernwolf/2107/
 http://sonyks2007.blogspot.ru/2014/03/wpf.html
 
 
+Окна
+----
+- Режимы показа окон
+
+Running WPF Application with Multiple UI Threads
+https://eprystupa.wordpress.com/2008/07/28/running-wpf-application-with-multiple-ui-threads/
+
+- Запоминание расположения окна
+
+Save and Restore WPF Window Size, Position, and/or State
+http://www.codeproject.com/Articles/50761/Save-and-Restore-WPF-Window-Size-Position-and-or-S
+
+Find out Size (and position) of the taskbar
+http://winsharp93.wordpress.com/2009/06/29/find-out-size-and-position-of-the-taskbar/
+
+- Разное
+
+WPF: Нестандартное окно
+http://habrahabr.ru/post/158561/

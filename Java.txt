@@ -1,4 +1,10 @@
 
+Интересно
+---------
+
+Шпаргалка Java-программиста 6. Список полезных ссылок для Java программиста
+https://habrahabr.ru/company/luxoft/blog/280784/
+
 Новое в Java 8
 http://habrahabr.ru/post/216431/
 
@@ -13,3 +19,9 @@ http://habrahabr.ru/post/132465/
 
 Использование generic wildcards для повышения удобства Java API
 http://habrahabr.ru/post/207360/
+
+
+Kotlin
+------
+Краткий обзор Kotlin и сравнение с C#
+https://habrahabr.ru/post/281759/
