@@ -42,6 +42,12 @@ http://artslab.info/stati/sozdaem-todo-prilozhenie-na-osnove-electron-i-angularj
 
 Мобильное
 ---------
+Пишем MVP приложение на Kotlin под Android
+https://habrahabr.ru/post/275255/
+
+1 разработчик. 2 приложения. 3 года
+https://habrahabr.ru/post/282417/
+
 Makeloft (интересные проекты WinPhone)
 http://makeloft.by/ru/works
 

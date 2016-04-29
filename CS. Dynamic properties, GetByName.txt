@@ -3,6 +3,8 @@ Common
 ------
 ! Динамические вызовы: сравнение методов (очень важная статья)
 http://habrahabr.ru/post/103558/
+Исследование скорости вызова метода различными способами
+https://habrahabr.ru/post/279367/#direct
 
 ! Massive is a Single File Database Lover
 https://github.com/robconery/massive

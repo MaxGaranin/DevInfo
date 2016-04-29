@@ -15,8 +15,8 @@ WCF tutorial
 http://bloggingabout.net/blogs/dennis/archive/2006/10/18/WCF-Part-0-_3A00_-Introduction.aspx
 
 
-RESTful
--------
+RESTful + WCF
+-------------
 How to create a RESTful web service using WCF (Part 1 of 3)
 http://www.developerhandbook.com/web-developer/how-to-create-a-restful-web-service-using-wcf-part-1-of-3/
 

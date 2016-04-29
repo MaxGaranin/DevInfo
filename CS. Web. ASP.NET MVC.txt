@@ -25,3 +25,15 @@ http://www.codeproject.com/Articles/560798/ASP-NET-MVC-Controller-Dependency-Inj
 
 Ninject.Web.Mvc3 docs
 https://github.com/ninject/ninject.web.mvc/wiki/MVC3
+
+
+Web API
+-------
+Часть уроков, посвященная WebAPI с сайта professorweb.ru
+http://professorweb.ru/my/ASP_NET/mvc/level8/8_1.php
+
+Creating your first ASP.Net Web API (вообще неплохой сайт разработчика ASP.NET MVC, много про DDD)
+http://www.contentedcoder.com/2013/03/creating-your-first-web-api.html
+
+ASP.NET Web API based REST Service - An Introduction
+http://www.shujaat.net/2013/11/aspnet-web-api-based-rest-service.html

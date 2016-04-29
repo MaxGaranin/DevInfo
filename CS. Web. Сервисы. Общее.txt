@@ -1,6 +1,9 @@
 
 RESTful vs SOAP и прочие размышления
 ------------------------------------
+Подходы к проектированию RESTful API
+https://habrahabr.ru/company/dataart/blog/277419/
+
 Что такое RESTful на самом деле
 http://habrahabr.ru/company/hexlet/blog/274675/
 

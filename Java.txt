@@ -25,3 +25,6 @@ Kotlin
 ------
 Краткий обзор Kotlin и сравнение с C#
 https://habrahabr.ru/post/281759/
+
+Пишем MVP приложение на Kotlin под Android
+https://habrahabr.ru/post/275255/
