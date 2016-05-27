@@ -242,6 +242,11 @@ http://michlg.wordpress.com/2010/01/29/wpf-custom-validationrule-with-an-additio
 Templates
 ---------
 
+-- ContentControl, ContentPresenter
+
+WPF: The real difference between ContentControl and ContentPresenter
+https://alexfeinberg.wordpress.com/2014/10/11/wpf-the-real-difference-between-contentcontrol-and-contentpresenter/
+
 -- Динамическое создание
 
 Creating WPF Data Templates in Code: The Right Way

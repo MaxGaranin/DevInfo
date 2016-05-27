@@ -23,6 +23,20 @@ Kaxaml is a lightweight XAML editor
 http://www.kaxaml.com/
 
 
+-- Интерпретаторы CS
+--
+LinqPad
+http://www.linqpad.net/
+
+ScriptCS
+http://scriptcs.net/
+
+CS-Script - The C# Script Engine
+http://www.csscript.net/
+CS-Script for Notepad++ (C# intellisense and code execution)
+http://csscriptnpp.codeplex.com/
+
+
 -- Инсталляторы, обновление, лицензирование
 --
 Microsoft Visual Studio 2015 Installer Projects

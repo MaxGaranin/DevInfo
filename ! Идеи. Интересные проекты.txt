@@ -41,6 +41,9 @@ https://github.com/manishma
 
 WPF
 ---
+Hearthstone Deck Tracker - отличный пример приложения WPF (с установщиком и обновлением)
+https://github.com/HearthSim/Hearthstone-Deck-Tracker
+
 Perspex — кросплатформенный UI-фреймворк с XAML и биндингами
 http://habrahabr.ru/post/267425/
 
@@ -59,6 +62,9 @@ http://archive.msdn.microsoft.com/mag200902MVVM
 
 C#, проекты общего назначения
 -----------------------------
+Dapper
+https://github.com/StackExchange/dapper-dot-net
+
 Athari/Alba.Framework
 https://github.com/Athari/Alba.Framework
 
@@ -96,3 +102,17 @@ https://vk.codeplex.com
 Кросс-платформенный файловый менеджер? Это реальность
 http://habrahabr.ru/post/226669/
 
+Как я делал веб-версию KeePass
+http://habrahabr.ru/post/269895/
+
+ABCat: Новая версия приложения для загрузки и каталогизации аудиокниг
+http://habrahabr.ru/post/203500/
+
+Пишем свой сервис авто-обновлений
+http://habrahabr.ru/post/131649/
+
+Data acquisition, часть 1
+https://nesteruk.wordpress.com/2010/05/20/data-acquisition-part-1/
+
+Интерактивная карта торгового центра на HTML5 canvas
+http://habrahabr.ru/company/arcadia/blog/251335/

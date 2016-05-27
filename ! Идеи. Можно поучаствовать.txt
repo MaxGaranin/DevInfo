@@ -1,4 +1,7 @@
 
+1Script или  ак € начал open-source проект
+https://habrahabr.ru/post/301064/
+
 ABCat: Ќова€ верси€ приложени€ дл€ загрузки и каталогизации аудиокниг
 http://habrahabr.ru/post/203500/
 

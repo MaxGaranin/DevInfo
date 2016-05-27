@@ -21,6 +21,12 @@ http://habrahabr.ru/company/microsoft/blog/245901/
 http://sonyks2007.blogspot.ru/2014/08/net-framework-45.html
 
 
+Структуры
+---------
+C# NET 4.0: Class vs Struct или в чём различия между Классом и Структурой
+http://www.calabonga.net/blog/post/56
+
+
 Исключения
 ----------
 Как правильно использовать исключения
@@ -47,6 +53,9 @@ http://andrey.moveax.ru/post/csharp-code-contracts-basics.aspx
 
 Измерение времени работы (Benchmark)
 ------------------------------------
+! Работа над бенчмарками (автор DotNetBenchmark)
+http://aakinshin.blogspot.ru/2013/09/dotnet-benchmark-ferrum-box-linq.html
+
 Использование Stopwatch
 http://sonyks2007.blogspot.ru/2013/12/stopwatch.html
 
@@ -58,9 +67,6 @@ http://habrahabr.ru/post/191636/
 
 На мгновение быстрее: измеряем время упаковки и распаковки значимых типов данных
 http://habrahabr.ru/post/210108/
-
-Работа над бенчмарками
-http://aakinshin.blogspot.ru/2013/09/dotnet-benchmark-ferrum-box-linq.html
 
 
 Сериализация
