@@ -47,41 +47,36 @@ Performance overhead for properties in .NET
 http://stackoverflow.com/questions/3264833/performance-overhead-for-properties-in-net
 
 
-Память, Объекты, сборка мусора
-------------------------------
+GC
+--
+GC в .NET
+http://rsdn.ru/article/dotnet/GC.xml
+
+Автоматическое управление памятью в .NET
+http://rsdn.ru/article/dotnet/GCnet.xml
+
+О сборке мусора и достижимости объектов
+http://sergeyteplyakov.blogspot.ru/2013/08/blog-post_27.html
+
+
+Dispose
+-------
 О явном вызове метода Dispose
 http://sergeyteplyakov.blogspot.ru/2013/08/dispose.html
 
 Dispose pattern
 http://sergeyteplyakov.blogspot.ru/2011/09/dispose-pattern.html
 
-О сборке мусора и достижимости объектов
-http://sergeyteplyakov.blogspot.ru/2013/08/blog-post_27.html
 
-Проблемы передачи списка перечислений или Почему абстракции «текут»
-http://sergeyteplyakov.blogspot.ru/2011/10/blog-post_26.html
+Слабые ссылки и события
+-----------------------
+! Слабые события в C#
+http://habrahabr.ru/post/89529/
 
-Обратная сторона луны
-http://habrahabr.ru/post/149584/
-
-Особенности строкового типа данных в .NET
-http://www.rsdn.ru/article/submit/net_strings/net_strings.xml
-
-The Stack Is An Implementation Detail, Part One (Eric Lippert)
-http://blogs.msdn.com/b/ericlippert/archive/2009/04/27/the-stack-is-an-implementation-detail.aspx
-The Stack Is An Implementation Detail, Part Two
-http://blogs.msdn.com/b/ericlippert/archive/2009/05/04/the-stack-is-an-implementation-detail-part-two.aspx
-
-
-WeakRerefence
--------------
 Элегантная реализация «слабых событий»
 http://sergeyteplyakov.blogspot.ru/2015/09/elegant-implementation-of-weak-events.html
 Слабые ссылки в .NET
 http://sergeyteplyakov.blogspot.ru/2013/08/net.html
-
-Слабые события в C#
-http://habrahabr.ru/post/89529/
 
 Слабые события в C#
 http://sonyks2007.blogspot.ru/2013/11/c_6109.html
