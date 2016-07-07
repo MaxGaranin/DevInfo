@@ -1,3 +1,6 @@
 
+Онлайн курсы и материалы для изучения SharePoint
+http://blog.gandjustas.ru/2014/02/10/sharepoint-courses-and-materials/
+
 Разработка приложений SharePoint 2013 с помощью TypeScript
 http://habrahabr.ru/post/174099/

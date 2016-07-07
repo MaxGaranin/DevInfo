@@ -13,11 +13,14 @@ http://habrahabr.ru/post/217523/
 Эволюция управления зависимостями в коде (видео от Саши Бындю)
 http://blog.byndyu.ru/2013/06/blog-post_27.html
 
-Введение в IoC
+! Введение в IoC
 http://gandjustas.blogspot.ru/2009/01/ioc.html
 
 Dependency Injection: анти-паттерны
 http://habrahabr.ru/post/166287/
+
+! Обзор различных контейнеров от sonyks2007
+http://sonyks2007.blogspot.ru/2013/11/ioc-autofac.html
 
 
 ServiceLocator
@@ -54,6 +57,12 @@ http://sergeyteplyakov.blogspot.ru/2013/02/di-method-injection.html
 
 Наследование vs Композиция vs Агрегация
 http://sergeyteplyakov.blogspot.ru/2012/12/vs-vs.html
+
+
+Unity
+-----
+! Серия статей от Стаса Выщепана
+http://blog.gandjustas.ru/2009/01/20/ioc-unity/
 
 
 Ninject

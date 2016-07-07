@@ -73,13 +73,18 @@ http://sergeyteplyakov.blogspot.ru/2011/09/dispose-pattern.html
 ! Слабые события в C#
 http://habrahabr.ru/post/89529/
 
-Элегантная реализация «слабых событий»
-http://sergeyteplyakov.blogspot.ru/2015/09/elegant-implementation-of-weak-events.html
+Слабые события в C#
+http://sonyks2007.blogspot.ru/2013/11/c_6109.html
+Шаблоны слабых событий в языке C#
+http://sonyks2007.blogspot.ru/2014/08/c.html
+
+Слабые ссылки в различных языках программирования
+https://habrahabr.ru/post/163679/
 Слабые ссылки в .NET
 http://sergeyteplyakov.blogspot.ru/2013/08/net.html
 
-Слабые события в C#
-http://sonyks2007.blogspot.ru/2013/11/c_6109.html
+Элегантная реализация «слабых событий»
+http://sergeyteplyakov.blogspot.ru/2015/09/elegant-implementation-of-weak-events.html
 
 
 Потоки

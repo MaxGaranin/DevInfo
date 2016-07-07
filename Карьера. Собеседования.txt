@@ -87,6 +87,11 @@ iOS
 http://habrahabr.ru/post/209076/
 
 
+Базы данных
+-----------
+Чеклист по знания MS SQL 2008
+http://blog.gandjustas.ru/2011/01/22/ms-sql-2008/
+
 Тестировщики
 ------------
 Собеседование на должность Automation QA Engineer 

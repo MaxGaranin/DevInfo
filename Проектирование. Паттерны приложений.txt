@@ -1,6 +1,9 @@
 
 Repository
 ----------
+Скользящая ответственность паттерна Репозиторий
+https://habrahabr.ru/post/304824/
+
 The generic repository is just a lazy anti-pattern
 http://www.ben-morris.com/why-the-generic-repository-is-just-a-lazy-anti-pattern
 

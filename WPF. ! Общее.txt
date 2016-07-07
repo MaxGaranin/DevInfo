@@ -247,10 +247,10 @@ Templates
 WPF: The real difference between ContentControl and ContentPresenter
 https://alexfeinberg.wordpress.com/2014/10/11/wpf-the-real-difference-between-contentcontrol-and-contentpresenter/
 
--- Динамическое создание
+-- ControlTemplate и DataTemplate
 
-Creating WPF Data Templates in Code: The Right Way
-http://www.codeproject.com/Articles/444371/Creating-WPF-Data-Templates-in-Code-The-Right-Way
+Difference between Control Template and DataTemplate in WPF
+http://stackoverflow.com/questions/1340108/difference-between-control-template-and-datatemplate-in-wpf
 
 -- DataTemplateSelector
 
@@ -336,17 +336,6 @@ http://professorweb.ru/my/WPF/binding_and_styles_WPF/level11/11_10.php
 
 Behaviors in WPF introduction
 http://www.jayway.com/2013/03/20/behaviors-in-wpf-introduction/
-
-
-UserControls и CustomControls
------------------------------
-A Simple Pattern for Creating Re-useable UserControls in WPF / Silverlight
-http://www.scottlogic.co.uk/blog/colin/2012/02/a-simple-pattern-for-creating-re-useable-usercontrols-in-wpf-silverlight/
-
-Create a WPF Custom Control, Part 1
-http://www.codeproject.com/Articles/49797/Create-a-WPF-Custom-Control-Part-1
-Create a WPF Custom Control, Part 2
-http://www.codeproject.com/Articles/49802/Create-a-WPF-Custom-Control-Part-2
 
 
 d:Ignore

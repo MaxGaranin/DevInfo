@@ -46,6 +46,9 @@ http://gpsnerd.codeplex.com/
 
 Блог Марка Симана, автора книги Dependency Injection in .NET
 http://blog.ploeh.dk/archive.html
+
+Неплохой блог Стаса Выщепана про C# и проектирование
+http://blog.gandjustas.ru/
 -----------------------------------------------------------------------------------------------
 
 CS (Deep)

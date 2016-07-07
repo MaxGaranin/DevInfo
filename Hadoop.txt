@@ -1,0 +1,6 @@
+
+Как проникнуться Hadoop'ом в домашних условиях?
+https://toster.ru/q/192535
+
+Hadoop: что, где и зачем
+https://habrahabr.ru/post/240405/
