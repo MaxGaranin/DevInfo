@@ -65,6 +65,12 @@ http://codeblog.jonskeet.uk/
 http://habrahabr.ru/users/sidristij/topics/
 -----------------------------------------------------------------------------------------------
 
+.NET
+----
+Неплохой познавательный блог
+http://www.calabonga.net/blog/ (.Net и Web)
+
+
 WPF
 ---
 ! Aleksandr Polukhovich. Отличный блог и не только по WPF.

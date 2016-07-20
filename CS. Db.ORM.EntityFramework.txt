@@ -58,6 +58,17 @@ UnitOfWork
 ! Использование паттерна Unit of Work (как обычно, классная статья от sonyks2007)
 http://sonyks2007.blogspot.ru/2015/10/unit-of-work.html
 
+Generic Repository and Unit of Work Pattern, Entity Framework, Unit Testing, Autofac IoC Container and ASP.NET MVC [Part 1]
+(очень хорошо разжеванная реализация, хороша для начинающих)
+http://techbrij.com/generic-repository-unit-of-work-entity-framework-unit-testing-asp-net-mvc
+
+N-Layered App with Entity Framework, Autofac, ASP.NET MVC and Unit Testing
+(из того же источника UoW без репозиториев)
+http://techbrij.com/service-layer-entity-framework-asp-net-mvc-unit-testing
+
+ASP.NET MVC: Unit of Work или продолжаем оптимизировать сайт
+http://www.calabonga.net/blog/post/101
+
 
 Общее
 -----

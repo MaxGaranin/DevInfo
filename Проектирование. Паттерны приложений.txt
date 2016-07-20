@@ -1,4 +1,10 @@
 
+EventAggregator
+---------------
+Event Aggregator example
+http://joseoncode.com/2010/04/27/event-aggregator-example/
+
+
 Repository
 ----------
 Скользящая ответственность паттерна Репозиторий

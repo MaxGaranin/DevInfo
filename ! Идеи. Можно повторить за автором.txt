@@ -1,0 +1,14 @@
+
+ASP.NET MVC
+-----------
+
+Создание музея юмора
+http://www.calabonga.net/blog?tag=музей%20юмора
+
+ASP.NET MVC: История одного проекта "Всё ради данных" (часть 2) 
+http://www.calabonga.net/blog/post/77
+
+Generic Repository and Unit of Work Pattern, Entity Framework, Unit Testing, Autofac IoC Container and ASP.NET MVC [Part 1]
+(очень хорошо разжеванная реализация, хороша для начинающих)
+http://techbrij.com/generic-repository-unit-of-work-entity-framework-unit-testing-asp-net-mvc
+

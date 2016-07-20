@@ -15,3 +15,8 @@ Knockout
 http://learn.knockoutjs.com/#/?tutorial=intro
 http://ruseller.com/lessons.php?rub=32&id=1691
 
+
+Angular.JS
+----------
+Запускаем Angluar2 c Visual Studio 2015
+https://habrahabr.ru/company/infopulse/blog/305818/
