@@ -61,11 +61,11 @@ http://sergeyteplyakov.blogspot.ru/2013/08/blog-post_27.html
 
 Dispose
 -------
+! Dispose pattern (Сергей Тепляков очень подробно разжевывает)
+http://sergeyteplyakov.blogspot.ru/2011/09/dispose-pattern.html
+
 О явном вызове метода Dispose
 http://sergeyteplyakov.blogspot.ru/2013/08/dispose.html
-
-Dispose pattern
-http://sergeyteplyakov.blogspot.ru/2011/09/dispose-pattern.html
 
 
 Слабые ссылки и события

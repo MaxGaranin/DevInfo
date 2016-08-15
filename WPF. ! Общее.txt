@@ -181,7 +181,7 @@ http://stackoverflow.com/questions/534575/how-do-i-invert-booleantovisibilitycon
 
 -- Converters with parameters
 
-BindableConverter для WPF
+! BindableConverter для WPF
 http://habrahabr.ru/post/275223/
 
 Binding ConverterParameter
