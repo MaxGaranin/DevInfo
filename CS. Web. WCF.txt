@@ -1,15 +1,8 @@
 
 Туториалы
 ---------
-Классные видеоуроки
+! Классные видеоуроки
 https://www.youtube.com/user/kudvenkat
-
-Действительно прозрачное использование WCF
-http://habrahabr.ru/post/246961/
-
-Простой пример использования WCF в Visual Studio 2010
-http://habrahabr.ru/post/116764/
-http://habrahabr.ru/post/116872/
 
 WCF tutorial
 http://bloggingabout.net/blogs/dennis/archive/2006/10/18/WCF-Part-0-_3A00_-Introduction.aspx
@@ -19,6 +12,12 @@ http://bloggingabout.net/blogs/dennis/archive/2006/10/18/WCF-Part-0-_3A00_-Intro
 ---------
 Игорь Лабутин — WCF. Легко или проблемно?
 https://www.youtube.com/watch?v=_6MQ_TfrjBA
+
+
+Важно
+-----
+WCF Extensibility
+https://blogs.msdn.microsoft.com/carlosfigueira/2011/03/14/wcf-extensibility/
 
 
 RESTful + WCF

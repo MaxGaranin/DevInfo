@@ -157,7 +157,8 @@ http://msdn.microsoft.com/ru-ru/magazine/cc163299.aspx
 How to update dependency property without breaking binding? (Когда ломается байндинг)
 http://social.msdn.microsoft.com/Forums/vstudio/en-US/8819f0d6-4c18-480c-941d-94cee18713e1/how-to-update-dependency-property-without-breaking-binding
 
-How to bind to data when the DataContext is not inherited (Привязка данных, когда недоступен DataContext)
+! How to bind to data when the DataContext is not inherited 
+(Привязка данных, когда недоступен DataContext, например, скрытие столбцов таблицы)
 http://www.thomaslevesque.com/2011/03/21/wpf-how-to-bind-to-data-when-the-datacontext-is-not-inherited/
 
 -- MultiBinding
