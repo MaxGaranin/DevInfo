@@ -9,24 +9,35 @@ http://habrahabr.ru/post/262407/
 
 
 Проблемы
-========
+====================================
+Производительность и подводные камни
+------------------------------------
+Подводные камни Entity Framework и производительность
+http://habrahabr.ru/post/269901/
+
+Еще один взгляд на Entity Framework: производительность и подводные камни
+https://habrahabr.ru/post/164483/
+
+Performance Considerations for Entity Framework 4, 5, and 6
+https://msdn.microsoft.com/en-us/data/hh949853.aspx
+
 Удаление дочерних записей
 -------------------------
 Entity Framework Gotchas – Strategies for Orphaned Child Objects
 http://www.kianryan.co.uk/2013/03/orphaned-child/
-========
+====================================
 
 
-Интересно
----------
+Отсоединенные наборы данных
+---------------------------
+Доступ к данным - Обработка состояния отсоединенных сущностей в EF
+https://msdn.microsoft.com/magazine/mt694083
+
+
+Комплексные типы
+----------------
 Associations in EF Code First CTP5: Part 1 – Complex Types
 http://weblogs.asp.net/manavi/entity-association-mapping-with-code-first-part-1-one-to-one-associations
-
-
-Производительность
-------------------
-Подводные камни Entity Framework и производительность
-http://habrahabr.ru/post/269901/
 
 
 ChangeTracker
@@ -35,14 +46,23 @@ Secrets of DetectChanges Part 1: What does DetectChanges do? (4 статьи)
 http://blog.oneunicorn.com/2012/03/10/secrets-of-detectchanges-part-1-what-does-detectchanges-do/
 
 
+Local
+-----
+Using Local to look at local data
+https://msdn.microsoft.com/en-us/data/jj592872.aspx
+
+
 Создание различных связей
 -------------------------
 Associations in EF Code First CTP5: Part 3 – One-to-One Foreign Key Associations
 http://weblogs.asp.net/manavi/Tags/Entity%20Framework
 
 
-Наследование, иерархии
-----------------------
+Наследование
+------------
+Entity Framework: Режимы отображения иерархии объектов
+http://andrey.moveax.ru/post/entity-framework-object-hierarchy-mapping
+
 Inheritance with EF Code First: Part 1 – Table per Hierarchy (TPH)
 http://weblogs.asp.net/manavi/inheritance-mapping-strategies-with-entity-framework-code-first-ctp5-part-1-table-per-hierarchy-tph
 
@@ -51,6 +71,12 @@ http://weblogs.asp.net/manavi/inheritance-mapping-strategies-with-entity-framewo
 ----------
 Как управлять транзакциями на платформе Entity Framework
 https://msdn.microsoft.com/ru-ru/library/vstudio/bb738523(v=vs.100).aspx
+
+Working with Transactions (EF6 Onwards)
+https://msdn.microsoft.com/en-us/data/dn456843.aspx
+
+SaveChanges(false)
+https://blogs.msdn.microsoft.com/alexj/2009/01/11/savechangesfalse/
 
 
 UnitOfWork
@@ -68,6 +94,12 @@ http://techbrij.com/service-layer-entity-framework-asp-net-mvc-unit-testing
 
 ASP.NET MVC: Unit of Work или продолжаем оптимизировать сайт
 http://www.calabonga.net/blog/post/101
+
+
+Командная разработка
+--------------------
+Code First Migrations in Team Environments
+https://msdn.microsoft.com/en-us/data/dn481501.aspx
 
 
 Общее
@@ -118,6 +150,9 @@ http://ferrum-box.blogspot.ru/2012/03/entity-framework-wpf.html
 -----------------------------------------------------
 Полный список
 http://msdn.microsoft.com/ru-ru/magazine/ee532098(en-us).aspx?sdmr=JulieLerman&sdmi=authors
+
+Доступ к данным - Гибридные приложения Dapper и Entity Framework
+https://msdn.microsoft.com/magazine/mt703432
 
 Профилирование операций с базой данных в Entity Framework
 http://msdn.microsoft.com/ru-ru/magazine/gg490349.aspx
