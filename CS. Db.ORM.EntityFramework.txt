@@ -8,8 +8,6 @@ Entity Framework 6 (7) vs NHibernate 4: взгляд со стороны DDD
 http://habrahabr.ru/post/262407/
 
 
-Проблемы
-====================================
 Производительность и подводные камни
 ------------------------------------
 Подводные камни Entity Framework и производительность
@@ -21,17 +19,17 @@ https://habrahabr.ru/post/164483/
 Performance Considerations for Entity Framework 4, 5, and 6
 https://msdn.microsoft.com/en-us/data/hh949853.aspx
 
-Удаление дочерних записей
--------------------------
-Entity Framework Gotchas – Strategies for Orphaned Child Objects
-http://www.kianryan.co.uk/2013/03/orphaned-child/
-====================================
-
 
 Отсоединенные наборы данных
 ---------------------------
 Доступ к данным - Обработка состояния отсоединенных сущностей в EF
 https://msdn.microsoft.com/magazine/mt694083
+
+Почему Entity Framework заново вставляет существующие объекты в мою базу данных?
+https://msdn.microsoft.com/magazine/dn166926.aspx
+
+Удаление дочерних записей - Entity Framework Gotchas – Strategies for Orphaned Child Objects
+http://www.kianryan.co.uk/2013/03/orphaned-child/
 
 
 Комплексные типы
