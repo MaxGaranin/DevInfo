@@ -22,9 +22,6 @@ http://habrahabr.ru/post/256821/
 IEnumerable<T> и IQueryable<T>, в чем разница? (отличные комментарии)
 http://habrahabr.ru/post/108407/
 
-Expressions в C# Ч impress yourself!
-http://habrahabr.ru/post/83169/
-
 
 ObservableCollections
 ---------------------

@@ -1,4 +1,8 @@
 
+! Замечательная программа SAS Planet, написанная на Delphi с открытым исходным кодом
+http://www.sasgis.org
+
+
 Map Suite Wpf Desktop Edition All Samples
 http://wiki.thinkgeo.com/wiki/Map_Suite_Wpf_Desktop_Edition_All_Samples
 

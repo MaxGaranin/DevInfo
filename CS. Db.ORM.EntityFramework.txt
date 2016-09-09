@@ -1,4 +1,22 @@
 
+! Статьи Джулии Лерман на MSDN (.Net, Entity Framework)
+-------------------------------------------------------
+Полный список
+http://msdn.microsoft.com/ru-ru/magazine/ee532098(en-us).aspx?sdmr=JulieLerman&sdmi=authors
+
+Доступ к данным - Гибридные приложения Dapper и Entity Framework
+https://msdn.microsoft.com/magazine/mt703432
+
+Профилирование операций с базой данных в Entity Framework
+http://msdn.microsoft.com/ru-ru/magazine/gg490349.aspx
+
+Новшества Code First в Entity Framework 6
+http://msdn.microsoft.com/ru-ru/magazine/dn519921.aspx
+
+Кодирование при использовании DDD: советы разработчикам, сосредоточенным на операциях с данными (3 части)
+http://msdn.microsoft.com/ru-ru/magazine/dn342868.aspx
+
+
 Последнее
 ---------
 Entity Framework глазами постороннего
@@ -20,6 +38,20 @@ Performance Considerations for Entity Framework 4, 5, and 6
 https://msdn.microsoft.com/en-us/data/hh949853.aspx
 
 
+Задание условий выборки через Expressions и проблемы, возникающие при этом
+--------------------------------------------------------------------------
+! См. статью выше "Подводные камни Entity Framework и производительность"
+
+Rewriting a LINQ Expression query to enable caching SQL Execution Plan
+https://stackoverflow.com/questions/34845097/rewriting-a-linq-expression-query-to-enable-caching-sql-execution-plan
+
+Why does the Contains() operator degrade Entity Framework's performance so dramatically?
+http://stackoverflow.com/questions/7897630/why-does-the-contains-operator-degrade-entity-frameworks-performance-so-drama
+
+How to do an “in” query in entity framework?
+http://stackoverflow.com/questions/1137921/how-to-do-an-in-query-in-entity-framework
+
+
 Отсоединенные наборы данных
 ---------------------------
 Доступ к данным - Обработка состояния отсоединенных сущностей в EF
@@ -27,6 +59,9 @@ https://msdn.microsoft.com/magazine/mt694083
 
 Почему Entity Framework заново вставляет существующие объекты в мою базу данных?
 https://msdn.microsoft.com/magazine/dn166926.aspx
+
+Как обойтись подручными средствами в отсутствие внешних ключей
+https://msdn.microsoft.com/magazine/hh708747
 
 Удаление дочерних записей - Entity Framework Gotchas – Strategies for Orphaned Child Objects
 http://www.kianryan.co.uk/2013/03/orphaned-child/
@@ -111,58 +146,8 @@ http://www.regfordev.com/2011/09/blog-post.html#.Uzk-p5LJSrA
 Models (POCO), Entity Framework and Data Patterns (неплохо, есть тестовый проект)
 http://www.codeproject.com/Articles/615499/Models-POCO-Entity-Framework-and-Data-Patterns
 
-Entity Framework Code First на практике
-http://habrahabr.ru/post/236037/
-
-Разработка баз данных с Code First
-http://habrahabr.ru/post/234827/
-
-Entity Framework и производительность
-http://habrahabr.ru/post/227637/
-
-Профайлер для Entity Framework
-http://habrahabr.ru/post/221681/
-
-Entity Framework 4.0 Resources – documentation links, best blog posts and more
-http://blogs.msdn.com/b/ericnel/archive/2009/09/23/entity-framework-4-0-resources-documentation-links-best-blog-posts-and-more.aspx
-
-Entity Framework Code First — индексация полей и полнотекстовый поиск
-http://habrahabr.ru/post/189806/
-
-Entity Framework 6 — ALPHA
-http://habrahabr.ru/post/157267/
-
-Пошаговый обзор стратегии Code First в Entity Framework 4.1
-http://blog.vkuznetsov.ru/posts/2011/06/12/poshagovyj-obzor-strategii-code-first-v-entity-framework-41#.UyrDh5LJSrB
-
-Code First to an Existing Database
-http://msdn.microsoft.com/en-US/data/jj200620
-Code First to a New Database
-http://msdn.microsoft.com/en-US/data/jj193542
-
 Использование Entity Framework совместно с WPF
 http://ferrum-box.blogspot.ru/2012/03/entity-framework-wpf.html
-
-
-! Статьи Джулии Лерман на MSDN (.Net, Entity Framework)
------------------------------------------------------
-Полный список
-http://msdn.microsoft.com/ru-ru/magazine/ee532098(en-us).aspx?sdmr=JulieLerman&sdmi=authors
-
-Доступ к данным - Гибридные приложения Dapper и Entity Framework
-https://msdn.microsoft.com/magazine/mt703432
-
-Профилирование операций с базой данных в Entity Framework
-http://msdn.microsoft.com/ru-ru/magazine/gg490349.aspx
-
-Entity Framework 6: издание для ниндзя
-http://msdn.microsoft.com/ru-ru/magazine/dn532202.aspx
-
-Новшества Code First в Entity Framework 6
-http://msdn.microsoft.com/ru-ru/magazine/dn519921.aspx
-
-Кодирование при использовании DDD: советы разработчикам, сосредоточенным на операциях с данными (3 части)
-http://msdn.microsoft.com/ru-ru/magazine/dn342868.aspx
 
 
 Управление сеансами
@@ -172,3 +157,4 @@ http://mehdi.me/ambient-dbcontext-in-ef6/
 
 Entity Framework and Connection Pooling
 http://stackoverflow.com/questions/3653009/entity-framework-and-connection-pooling/3653392#3653392
+

@@ -1,9 +1,14 @@
 
 Для новичков
 ------------
+Node.js для начинающих
 http://www.nodebeginner.ru/
+
 
 Общее
 -----
+Скринкасты от Ильи Кантора
+http://learn.javascript.ru/screencast/nodejs
+
 Understanding node.js
 http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb
