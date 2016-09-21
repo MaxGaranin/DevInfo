@@ -40,8 +40,8 @@ MUHAMMAD SHUJAAT SIDDIQI (отличный блог по WPF)
 http://www.shujaat.net/
 
 
-Что нового
-----------
+Что нового в WPF
+----------------
 Глубокое погружение в систему рендеринга WPF
 http://habrahabr.ru/post/255683/
 
@@ -79,6 +79,15 @@ http://habrahabr.ru/post/262461/
 
 WPF Animations Tips and Tricks
 http://blogs.msdn.com/b/wpfsdk/archive/2007/01/18/wpf-animations-tips-and-tricks.aspx
+
+
+XAML
+----
+XAML и Data Binding: еще раз про StringFormat
+http://www.calabonga.net/blog/post/46
+
+Правильное оперирование XAML-ресурсами
+http://habrahabr.ru/post/249819/
 
 
 INotifyPropertyChanged
@@ -332,20 +341,14 @@ Behaviours
 ! Behaviors in WPF introduction (по русски)
 http://sonyks2007.blogspot.ru/2013/11/behaviors-in-wpf-introduction.html
 
+! WPF: Что делать, когда свойство не поддерживает привязку
+http://habrahabr.ru/post/215249/
+
 Создание поведений
 http://professorweb.ru/my/WPF/binding_and_styles_WPF/level11/11_10.php
 
 Behaviors in WPF introduction
 http://www.jayway.com/2013/03/20/behaviors-in-wpf-introduction/
-
-
-d:Ignore
---------
-mc:Ignorable Attribute
-http://msdn.microsoft.com/en-us/library/aa350024.aspx
-
-Quick tip: Commenting out properties in XAML
-http://geekswithblogs.net/lbugnion/archive/2010/02/01/quick-tip-commenting-out-properties-in-xaml.aspx
 
 
 Локализация WPF-приложений

@@ -2,23 +2,8 @@
 Модульное приложение на WPF + Caliburn.Micro + Castle.Windsor
 http://habrahabr.ru/post/271655/
 
-Правильное оперирование XAML-ресурсами
-http://habrahabr.ru/post/249819/
-
-Подводные камни WPF
-http://habrahabr.ru/post/262299/
-
 Сахарные инжекции в C#
 http://habrahabr.ru/post/255759/
-
-WPF: Binding без тривиальных конвертеров
-http://habrahabr.ru/post/248197/
-
-! Очень важный сайт с точки зрения WPF и MVVM (много статей)
-http://sonyks2007.blogspot.ru
-
-MugenMvvmToolkit — кроссплатформенный MVVM фреймворк
-http://habrahabr.ru/post/236745/
 
 Инфраструктура команд для вызова пользователем действий в шаблоне MVVM (Async)
 http://habrahabr.ru/post/242073/
@@ -34,15 +19,6 @@ http://msdn.microsoft.com/ru-ru/magazine/dn296512.aspx
 http://msdn.microsoft.com/ru-ru/magazine/dn385706.aspx
 Написание тестируемого презентационного уровня с помощью MVVM
 http://msdn.microsoft.com/ru-ru/magazine/dn463790.aspx
-
-WPF: Что делать, когда свойство не поддерживает привязку
-http://habrahabr.ru/post/215249/
-
-WPF: конвертеры как MarkupExtension
-http://habrahabr.ru/post/140876/
-
-Альтернативный WPF язык JAML = XAML ? XML + JSON
-http://habrahabr.ru/post/165943/
 
 MVVM: новый взгляд (интересная статья)
 http://habrahabr.ru/post/208326/

@@ -47,6 +47,18 @@ Performance overhead for properties in .NET
 http://stackoverflow.com/questions/3264833/performance-overhead-for-properties-in-net
 
 
+Большие объемы данных
+---------------------
+Обработка больших объемов данных в памяти на C#
+https://habrahabr.ru/post/114495/
+
+
+Взаимодествие с Unmanaged кодом
+-------------------------------
+Unmanaged C++ library в .NET. Полная интеграция
+https://habrahabr.ru/company/simbirsoft/blog/276011/
+
+
 GC
 --
 GC в .NET

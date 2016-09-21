@@ -11,9 +11,6 @@ http://habrahabr.ru/post/260047/
 
 Что нового
 ----------
-Введение в .NET Core
-http://habrahabr.ru/company/microsoft/blog/245901/
-
 Переход на .NET Framework 4.5. Преимущества и недостатки
 http://sonyks2007.blogspot.ru/2014/08/net-framework-45.html
 
