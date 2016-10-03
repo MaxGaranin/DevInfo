@@ -240,9 +240,15 @@ http://stackoverflow.com/questions/1356045/set-focus-on-textbox-in-wpf-from-view
 
 
 Separator
---------
+---------
 How can I add a line as a visual separator to the content control like grid
 http://social.msdn.microsoft.com/Forums/vstudio/en-US/12ead5d4-1d57-4dbb-ba81-bc13084ba370/how-can-i-add-a-line-as-a-visual-separator-to-the-content-control-like-grid
 
 How To Create a Vertical Separator with WPF
 http://spoiledtechie.com/post/2012/01/04/How-To-Create-a-Vertical-Separator-with-WPF.aspx
+
+
+Drag and Drop
+-------------
+WPF, Проблема с Drag&Drop в TreeView
+http://codehelper.ru/questions/348/new/find-answer-546

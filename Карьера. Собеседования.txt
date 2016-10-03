@@ -42,6 +42,12 @@ http://habrahabr.ru/post/179937/
 http://habrahabr.ru/post/230881/
 
 
+Алгоритмы
+---------
+Месье, ваши problem solving skills не на высоте, или как я провалил одно собеседование
+https://habrahabr.ru/post/276673/
+
+
 Java
 ----
 Войти в IT: Долгая дорога в Java
@@ -91,6 +97,7 @@ http://habrahabr.ru/post/209076/
 -----------
 Чеклист по знания MS SQL 2008
 http://blog.gandjustas.ru/2011/01/22/ms-sql-2008/
+
 
 Тестировщики
 ------------

@@ -32,6 +32,12 @@ http://www.calabonga.net/blog/post/56
 Как правильно использовать исключения
 http://habrahabr.ru/post/263685/
 
+Замена выброса исключений уведомлениями
+https://habrahabr.ru/post/279737/
+
+Как обойтись почти без исключений, заменив их уведомлениями
+https://habrahabr.ru/company/piter/blog/270331/
+
 
 Ресурсы
 -------

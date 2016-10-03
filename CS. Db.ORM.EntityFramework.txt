@@ -28,6 +28,9 @@ https://habrahabr.ru/post/164483/
 Performance Considerations for Entity Framework 4, 5, and 6
 https://msdn.microsoft.com/en-us/data/hh949853.aspx
 
+Ускоряем Update и Delete операции для Entity Framework
+https://habrahabr.ru/post/203214/
+
 
 Задание условий выборки через Expressions и проблемы, возникающие при этом
 --------------------------------------------------------------------------
@@ -56,6 +59,9 @@ https://msdn.microsoft.com/magazine/hh708747
 
 Удаление дочерних записей - Entity Framework Gotchas – Strategies for Orphaned Child Objects
 http://www.kianryan.co.uk/2013/03/orphaned-child/
+
+Entity states and SaveChanges
+https://msdn.microsoft.com/en-us/data/jj592676
 
 
 Связи, свойства навигации
