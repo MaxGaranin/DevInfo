@@ -16,11 +16,19 @@ http://ferrum-box.blogspot.ru/2013/09/linq.html
 
 IQueryable
 ----------
-ѕринципы работы IQueryable и LINQ-провайдеров данных
+! ѕринципы работы IQueryable и LINQ-провайдеров данных
 http://habrahabr.ru/post/256821/
 
 IEnumerable<T> и IQueryable<T>, в чем разница? (отличные комментарии)
 http://habrahabr.ru/post/108407/
+
+—оздание собственного IQueryable-провайдера
+-------------------------------------------
+LINQ: Building an IQueryable provider series (сери€ серьезных статей)
+https://blogs.msdn.microsoft.com/mattwar/2008/11/18/linq-building-an-iqueryable-provider-series/
+
+Walkthrough: Creating an IQueryable LINQ Provider
+https://msdn.microsoft.com/en-us/library/bb546158(v=vs.110).aspx
 
 
 ObservableCollections

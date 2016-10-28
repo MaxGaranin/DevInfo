@@ -45,6 +45,14 @@ http://stackoverflow.com/questions/7897630/why-does-the-contains-operator-degrad
 How to do an УinФ query in entity framework?
 http://stackoverflow.com/questions/1137921/how-to-do-an-in-query-in-entity-framework
 
+ омбинирование выражений
+------------------------
+! LINQ to Entities: Combining Predicates
+https://blogs.msdn.microsoft.com/meek/2008/05/02/linq-to-entities-combining-predicates/
+
+Combining two expressions (Expression<Func<T, bool>>)
+http://stackoverflow.com/questions/457316/combining-two-expressions-expressionfunct-bool
+
 
 ќтсоединенные наборы данных
 ---------------------------

@@ -77,3 +77,5 @@ http://msdn.microsoft.com/ru-ru/magazine/dd419663.aspx
 Проблемы и решения в Model-View-ViewModel (Роберт Маккартер)
 http://msdn.microsoft.com/ru-ru/magazine/ff798279.aspx
 
+Как перестать использовать MVVM
+https://habrahabr.ru/company/mobileup/blog/312548/

@@ -20,8 +20,8 @@ dotPeek Symbol Server and PDB Generation
 http://confluence.jetbrains.com/display/NETCOM/dotPeek+Symbol+Server+and+PDB+Generation
 
 
-Отладка
--------
+Отладка исходников .NET Framework
+---------------------------------
 Как отлаживать .NET Framework Source
 http://sonyks2007.blogspot.ru/2014/06/net-framework-source.html
 
