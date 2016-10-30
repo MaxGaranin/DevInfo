@@ -31,6 +31,9 @@ http://www.codewars.com/
 
 Разнообразные курсы
 -------------------
+Pluralsight (есть на торрентах)
+https://www.pluralsight.com/
+
 CodeSchool
 https://www.codeschool.com/
 
@@ -53,18 +56,21 @@ https://hexlet.org/course/javascript/
 Новые бесплатные курсы виртуальной академии Microsoft Virtual Academy
 http://www.microsoftvirtualacademy.com/#?fbid=RdIp-VOIHYS
 
+Интересные разнообразные курсы (есть на rutracker.org)
+http://javabegin.ru/
+
 
 Школы программистов
 -------------------
+Как решать вступительный экзамен в Школу анализа данных Яндекса
+http://habrahabr.ru/company/yandex/blog/262543/
+
 HeadHunter
 http://school.hh.ru
 
 
 Яндекс
 ------
-Как решать вступительный экзамен в Школу анализа данных Яндекса
-http://habrahabr.ru/company/yandex/blog/262543/
-
 Образовательные программы Яндекса (YouTube-канал)
 http://www.youtube.com/channel/UCTUyoZMfksbNIHfWJjwr5aQ
 

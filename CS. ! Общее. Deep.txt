@@ -175,6 +175,8 @@ Roslyn
 Введение в Roslyn. Использование для разработки инструментов статического анализа
 https://habrahabr.ru/company/pvs-studio/blog/301204/
 
+Восход Roslyn
+https://msdn.microsoft.com/ru-ru/magazine/dn818501.aspx
 
 Разное
 ------
