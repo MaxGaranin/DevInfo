@@ -1,4 +1,15 @@
 
+Важно знать
+-----------
+- Версии .NET Framework, устанавливаемые по умолчанию с разными системами
+What version of the .NET Framework is included in what version of the OS?
+https://blogs.msdn.microsoft.com/astebner/2007/03/14/mailbag-what-version-of-the-net-framework-is-included-in-what-version-of-the-os/
+
+- Совместимость разных версий .NET Framework
+How to: Configure an App to Support .NET Framework 4 or 4.5
+https://msdn.microsoft.com/en-us/library/jj152935(v=vs.110).aspx
+
+
 Интересные моменты
 ------------------
 Занимательный C#

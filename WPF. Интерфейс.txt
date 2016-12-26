@@ -6,6 +6,9 @@ DataGrid
 ~ Styling MicrosoftТs WPF datagrid (Jaime Rodriguez) - отличный общий обзор настройки грида
 http://blogs.msdn.com/b/jaimer/archive/2009/01/20/styling-microsoft-s-wpf-datagrid.aspx
 
+~ WPF DataGrid: Dissecting the Visual Layout - внутреннее устройство DataGrid
+https://blogs.msdn.microsoft.com/vinsibal/2008/08/14/wpf-datagrid-dissecting-the-visual-layout/
+
 WPF DATAGRID - DETECTING THE COLUMN, CELL AND ROW THAT HAS BEEN CLICKED
 http://www.scottlogic.com/blog/2008/12/02/wpf-datagrid-detecting-clicked-cell-and-row.html
 

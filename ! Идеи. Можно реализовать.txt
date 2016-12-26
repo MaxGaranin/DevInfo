@@ -11,6 +11,9 @@
 
 –азное
 ------
+—ервис продажи курсовых дл€ студентов (много интересных маленьких задач)
+https://studlearn.com/category/csharp?type=5&type=10&type=4&type=2&type=7&type=1
+
 ѕишем свой сервис авто-обновлений
 http://habrahabr.ru/post/131649/
 

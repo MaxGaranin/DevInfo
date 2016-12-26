@@ -1,4 +1,10 @@
 
+Nancy
+-----
+Фреймворк NancyFX и сервисы в стиле REST
+https://habrahabr.ru/company/piter/blog/318334/
+
+
 ServiceStack
 ------------
 Как ServiceStack помогает поставить разработку веб-сервисов на поток

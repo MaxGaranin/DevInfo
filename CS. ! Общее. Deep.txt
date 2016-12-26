@@ -55,6 +55,9 @@ https://habrahabr.ru/post/114495/
 
 Взаимодествие с Unmanaged кодом
 -------------------------------
+.NET-обёртки нативных библиотек на C++/CLI
+https://habrahabr.ru/post/318224/
+
 Unmanaged C++ library в .NET. Полная интеграция
 https://habrahabr.ru/company/simbirsoft/blog/276011/
 

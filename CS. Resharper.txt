@@ -1,4 +1,7 @@
 
+Speeding up ReSharper (and Visual Studio)
+https://www.jetbrains.com/help/resharper/2016.3/Speeding_Up_ReSharper.html
+
 Ускоряем разработку с помощью ReSharper
 http://sonyks2007.blogspot.ru/2014/02/resharper.html
 

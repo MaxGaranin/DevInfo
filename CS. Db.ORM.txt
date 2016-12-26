@@ -17,3 +17,10 @@ ORM или объектно-реляционный проектор
 http://habrahabr.ru/company/piter/blog/165327/
 
 
+Велосипеды
+----------
+Готовим ORM не отходя от плиты
+https://habrahabr.ru/post/317860/
+
+WildData: легкий фреймворк доступа к данным
+https://habrahabr.ru/post/314198/

@@ -4,6 +4,8 @@
 sin 1° на калькуляторе
 http://habrahabr.ru/post/271889/
 
+Занимательные задачки и отрывок из книги «Карьера программиста»
+https://habrahabr.ru/company/piter/blog/318018/
 
 Общее
 -----
