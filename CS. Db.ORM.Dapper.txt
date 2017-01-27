@@ -7,6 +7,9 @@ http://www.contentedcoder.com/2013/05/orms-don-reinvent-wheel.html
 Весь цикл статей и учебный проект
 http://www.contentedcoder.com/2012/11/aspnet-10-years-on-my-journey.html
 
+Доступ к данным - Гибридные приложения Dapper и Entity Framework (Джулия Лерман)
+https://msdn.microsoft.com/magazine/mt703432
+
 Data access layer with Dapper as wrapper IDbConnection (проект)
 https://github.com/Pencroff/Dapper-DAL
 

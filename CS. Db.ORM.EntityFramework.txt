@@ -1,24 +1,33 @@
 
-! Статьи Джулии Лерман на MSDN (.Net, Entity Framework)
--------------------------------------------------------
-! Полный список
+Общее
+-----
+! Статьи Джулии Лерман на MSDN (.Net, Entity Framework) - супер
 http://msdn.microsoft.com/ru-ru/magazine/ee532098(en-us).aspx?sdmr=JulieLerman&sdmi=authors
 
-Доступ к данным - Гибридные приложения Dapper и Entity Framework
-https://msdn.microsoft.com/magazine/mt703432
+! Реализация слоя доступа к данным на Entity Framework Code First (интересно, есть тестовый проект)
+http://habrahabr.ru/post/219947/
 
-Профилирование операций с базой данных в Entity Framework
-http://msdn.microsoft.com/ru-ru/magazine/gg490349.aspx
+! Пишем слой доступа к данным c POCO и EF (неплохо)
+http://www.regfordev.com/2011/09/blog-post.html#.Uzk-p5LJSrA
 
-Новшества Code First в Entity Framework 6
-http://msdn.microsoft.com/ru-ru/magazine/dn519921.aspx
+Models (POCO), Entity Framework and Data Patterns (неплохо, есть тестовый проект)
+http://www.codeproject.com/Articles/615499/Models-POCO-Entity-Framework-and-Data-Patterns
 
-Кодирование при использовании DDD: советы разработчикам, сосредоточенным на операциях с данными (3 части)
-http://msdn.microsoft.com/ru-ru/magazine/dn342868.aspx
+Использование Entity Framework совместно с WPF
+http://ferrum-box.blogspot.ru/2012/03/entity-framework-wpf.html
+
+Entity Framework глазами постороннего
+http://habrahabr.ru/post/262023/
 
 
 Производительность и подводные камни
 ------------------------------------
+! Расширения Entity Framework 6, о которых вы могли и не знать (очень познавательно)
+https://habrahabr.ru/post/320128/
+
+Entity Framework: повышаем производительность при сохранении данных в БД
+https://habrahabr.ru/post/251397/
+
 Подводные камни Entity Framework и производительность
 http://habrahabr.ru/post/269901/
 
@@ -144,24 +153,6 @@ http://www.calabonga.net/blog/post/101
 --------------------
 Code First Migrations in Team Environments
 https://msdn.microsoft.com/en-us/data/dn481501.aspx
-
-
-Общее
------
-! Реализация слоя доступа к данным на Entity Framework Code First (интересно, есть тестовый проект)
-http://habrahabr.ru/post/219947/
-
-! Пишем слой доступа к данным c POCO и EF (неплохо)
-http://www.regfordev.com/2011/09/blog-post.html#.Uzk-p5LJSrA
-
-Models (POCO), Entity Framework and Data Patterns (неплохо, есть тестовый проект)
-http://www.codeproject.com/Articles/615499/Models-POCO-Entity-Framework-and-Data-Patterns
-
-Использование Entity Framework совместно с WPF
-http://ferrum-box.blogspot.ru/2012/03/entity-framework-wpf.html
-
-Entity Framework глазами постороннего
-http://habrahabr.ru/post/262023/
 
 
 Управление сеансами

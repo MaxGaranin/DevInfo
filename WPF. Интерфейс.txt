@@ -52,7 +52,7 @@ http://www.codeproject.com/Articles/586132/WPF-DataGrid-Custommization-using-Sty
 
 -- ¬алидаци€
 --
-Validation in a WPF DataGrid
+! Validation in a WPF DataGrid (хорошо описано)
 http://blogs.u2u.be/diederik/post/2009/09/30/Validation-in-a-WPF-DataGrid.aspx
 
 Validation in WPF ToolkitТs DataGrid

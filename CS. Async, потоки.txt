@@ -32,8 +32,11 @@ http://habrahabr.ru/post/162353/
 http://www.enterra.ru/blog/parallel-programming-in-net-framework-4-0/
 
 
-BackgroundWorker
-----------------
+BackgroundWorker vs Tasks
+-------------------------
+Task.Run vs BackgroundWorker (Stephen Cleary)
+http://blog.stephencleary.com/2013/05/taskrun-vs-backgroundworker-intro.html
+
 Replace BackgroundWorker into Task
 http://sonyks2007.blogspot.ru/2014/07/replace-backgroundworker-into-task.html
 
@@ -55,6 +58,9 @@ http://www.codeproject.com/Articles/252392/Create-MVVM-Background-Tasks-with-Pro
 
 SynchronizationContext
 ----------------------
+! Все дело в SynchronizationContext (Stephen Cleary)
+http://blog.stephencleary.com/2013/05/taskrun-vs-backgroundworker-round-1.html
+
 SynchronizationContext — когда MSDN подводит
 http://habrahabr.ru/post/232169/
 

@@ -17,6 +17,12 @@ ORM или объектно-реляционный проектор
 http://habrahabr.ru/company/piter/blog/165327/
 
 
+Разные ORM
+----------
+Обзор ServiceStack.OrmLite — micro-ORM для .NET
+https://habrahabr.ru/post/256791/
+
+
 Велосипеды
 ----------
 Готовим ORM не отходя от плиты
