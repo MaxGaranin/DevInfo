@@ -81,6 +81,12 @@ Entity states and SaveChanges
 https://msdn.microsoft.com/en-us/data/jj592676
 
 
+Миграции
+--------
+! Entity Framework Code First Migrations in Team Environments
+https://msdn.microsoft.com/en-us/data/dn481501
+
+
 Связи, свойства навигации
 -------------------------
 Relationships and Navigation Properties

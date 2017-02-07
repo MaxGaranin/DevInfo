@@ -1,3 +1,6 @@
 
+Breaking the Ice With Regular Expressions (видеокурс по регул€рным выражени€м)
+https://www.codeschool.com/courses/breaking-the-ice-with-regular-expressions
+
 ! ¬ыразительный JavaScript: –егул€рные выражени€
 http://habrahabr.ru/post/242695/

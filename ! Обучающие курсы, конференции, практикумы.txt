@@ -31,6 +31,9 @@ http://www.codewars.com/
 
 Разнообразные курсы
 -------------------
+GeekBrains - обучающий портал для программистов на русском
+https://geekbrains.ru/courses
+
 Pluralsight (есть на торрентах)
 https://www.pluralsight.com/
 
