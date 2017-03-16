@@ -1,7 +1,17 @@
 
 Восстановление потерянных коммитов
 ----------------------------------
-1. git reflog - выводит последние дкйствия и коммиты
+1. git reflog - выводит последние действия и коммиты
 2. находим и копируем нужный коммит 'abc'
 3. git checkout 'abc'
 
+
+Поиск истории удаленных файлов
+------------------------------
+http://stackoverflow.com/questions/7203515/git-how-to-search-for-a-deleted-file-in-the-project-commit-history
+
+If you do not know the exact path you may use
+git log --all --full-history -- **/thefile.*
+
+If you know the path the file was at, you can do this:
+git log --all --full-history -- <path-to-file>

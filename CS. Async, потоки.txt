@@ -4,6 +4,9 @@
 Асинхронное программирование: Влияние async и await на производительность (Стефен Тауб)
 http://msdn.microsoft.com/ru-ru/magazine/hh456402.aspx
 
+StartNew is Dangerous
+http://blog.stephencleary.com/2013/08/startnew-is-dangerous.html
+
 
 Основное (понимание Task и async)
 ---------------------------------

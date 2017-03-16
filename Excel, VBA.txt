@@ -1,6 +1,9 @@
 
 Источники
 ---------
+! Планета Excel
+http://www.planetaexcel.ru
+
 ! Perfect Excel - супер
 http://perfect-excel.ru/publ/
 
