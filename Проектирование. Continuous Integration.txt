@@ -1,0 +1,27 @@
+
+Общее
+-----
+Введение в Continuous Integration
+http://habrahabr.ru/post/82724/
+
+Continuous Integration для самых маленьких
+http://habrahabr.ru/post/190412/
+
+
+TeamCity
+--------
+! Настройка TeamCity для новичков
+http://habrahabr.ru/company/skbkontur/blog/205402/
+
+Continuous Integration в Дневник.ру (про TeamCity)
+http://habrahabr.ru/company/dnevnik_ru/blog/169329/
+
+
+Системы контроля версий (кроме Git)
+-----------------------------------
+
+Fossil
+------
+Системы контроля версий: Fossil, часть I 
+http://habrahabr.ru/post/235369/
+

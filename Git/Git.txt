@@ -1,17 +1,69 @@
 
-Восстановление потерянных коммитов
-----------------------------------
-1. git reflog - выводит последние действия и коммиты
-2. находим и копируем нужный коммит 'abc'
-3. git checkout 'abc'
+Основное
+--------
+! Ежедневная работа с Git
+https://habrahabr.ru/post/174467/
+
+! 19 советов по повседневной работе с Git
+https://habrahabr.ru/company/mailru/blog/267595/
+
+! Git How To на русском
+http://githowto.com/ru/
+
+! Материалы по Git (от Акиншина Андрея)
+http://aakinshin.net/ru/blog/git/links/
+
+! Отличная книга Pro Git на русском
+http://git-scm.com/book/ru
+Getting Started - Git Basics (она же на английском)
+http://git-scm.com/book/en/Getting-Started-Git-Basics
+
+! GIT Quiz- практикум по использованию git, для начинающих
+http://habrahabr.ru/post/220485/
+
+! ХХ полезных советов для пользователей Git среднего уровня
+http://habrahabr.ru/post/75728/
+http://habrahabr.ru/post/76084/
+
+Git Cheat Sheet
+http://www.alexkras.com/getting-started-with-git/
+
+Интерактивная обучалка по Git
+http://pcottle.github.io/learnGitBranching/
+
+Постигаем Git
+http://habrahabr.ru/post/141160/
+
+6 мифов, мешающих разработчикам использовать Git
+http://habrahabr.ru/post/231839/
+
+Басня о Git	
+http://hades.name/blog/2009/05/23/the-git-parable-ru/
 
 
-Поиск истории удаленных файлов
+GitFlow
+-------
+Шпаргалка по git-flow
+http://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html
+
+
+Github
+------
+Git и Github. Простые рецепты
+http://habrahabr.ru/post/273897/
+
+
+Визуализация истории
+--------------------
+Превращаем скучные логи Git'a в захватывающую анимацию (Gource)
+http://habrahabr.ru/post/214911/
+
+
+Настройка Git на сервере (SSH)
 ------------------------------
-http://stackoverflow.com/questions/7203515/git-how-to-search-for-a-deleted-file-in-the-project-commit-history
+Создаём Git сервер своими руками
+http://cccp-blog.com/koding/sozdayom-git-server-svoimi-rukami
 
-If you do not know the exact path you may use
-git log --all --full-history -- **/thefile.*
+Настройка Git для разработки на сервере и клиенте
+http://apricode.blogspot.ru/2013/04/git.html
 
-If you know the path the file was at, you can do this:
-git log --all --full-history -- <path-to-file>

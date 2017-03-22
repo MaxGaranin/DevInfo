@@ -1,13 +1,4 @@
 
-Надо почитать
--------------
-Асинхронное программирование: Влияние async и await на производительность (Стефен Тауб)
-http://msdn.microsoft.com/ru-ru/magazine/hh456402.aspx
-
-StartNew is Dangerous
-http://blog.stephencleary.com/2013/08/startnew-is-dangerous.html
-
-
 Основное (понимание Task и async)
 ---------------------------------
 Async/await и механизм реализации в C# 5.0
@@ -33,6 +24,22 @@ http://habrahabr.ru/post/162353/
 
 Параллельное программирование в .NET Framework 4.0
 http://www.enterra.ru/blog/parallel-programming-in-net-framework-4-0/
+
+
+Проблемы и исследования
+-----------------------
+StartNew is Dangerous
+http://blog.stephencleary.com/2013/08/startnew-is-dangerous.html
+
+Асинхронность в консольных приложениях 
+Can't specify the 'async' modifier on the 'Main' method of a console app
+http://stackoverflow.com/questions/9208921/cant-specify-the-async-modifier-on-the-main-method-of-a-console-app
+
+
+Производительность
+------------------
+! Асинхронное программирование: Влияние async и await на производительность (Стефен Тауб)
+http://msdn.microsoft.com/ru-ru/magazine/hh456402.aspx
 
 
 BackgroundWorker vs Tasks
