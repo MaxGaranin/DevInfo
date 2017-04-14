@@ -1,4 +1,10 @@
 
+Функциональный подход
+---------------------
+! Функциональный C# (интересные примеры)
+https://habrahabr.ru/post/325308/
+
+
 Async
 -----
 Под капотом у Dictionary и ConcurrentDictionary

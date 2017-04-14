@@ -1,0 +1,6 @@
+
+Визуализация простой геометрии в WPF
+https://habrahabr.ru/company/tinkoff/blog/326406/
+
+Helix Toolkit (3D toolkit for .NET)
+https://github.com/helix-toolkit

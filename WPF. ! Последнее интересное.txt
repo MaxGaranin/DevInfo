@@ -1,4 +1,13 @@
 
+Цикл статей Stephen Cleary на MSDN
+----------------------------------
+Шаблоны для асинхронных MVVM-приложений: связывание с данными
+https://msdn.microsoft.com/ru-ru/magazine/dn605875.aspx
+Шаблоны для асинхронных MVVM-приложений: команды
+https://msdn.microsoft.com/magazine/dn630647
+Шаблоны для асинхронных MVVM-приложений: сервисы
+https://msdn.microsoft.com/magazine/dn683795
+
 Модульное приложение на WPF + Caliburn.Micro + Castle.Windsor
 http://habrahabr.ru/post/271655/
 
@@ -12,6 +21,7 @@ Showing Dialogs When Using the MVVM Pattern (очень интересная архитектура)
 http://www.codeproject.com/Articles/36745/Showing-Dialogs-When-Using-the-MVVM-Pattern
 
 Цикл статей Брента Эдвардса, есть тестовый проект Charmed
+---------------------------------------------------------
 https://github.com/brentedwards/Charmed
 Использование средств Windows 8 с помощью MVVM
 http://msdn.microsoft.com/ru-ru/magazine/dn296512.aspx

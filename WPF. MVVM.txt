@@ -41,12 +41,18 @@ http://msdn.microsoft.com/ru-ru/magazine/dn237302(en-us).aspx
 
 Event Aggregator
 ----------------
+EventAggregator Ч антипаттерн
+https://habrahabr.ru/post/322652/
+
+ќбработка событий в приложени€х с многослойной архитектурой
+https://habrahabr.ru/post/304194/
+
 Event Aggregator in Caliburn.Micro
 http://sonyks2007.blogspot.ru/2015/11/event-aggregator-in-caliburnmicro.html
 
 
-—обыти€
--------
+ќбработка обычных событий
+-------------------------
 Handling events in an MVVM WPF application
 http://blog.magnusmontin.net/2013/06/30/handling-events-in-an-mvvm-wpf-application/
 

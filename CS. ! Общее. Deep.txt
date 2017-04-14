@@ -55,6 +55,9 @@ https://habrahabr.ru/post/114495/
 
 Взаимодествие с Unmanaged кодом
 -------------------------------
+.NET Managed + C unmanaged: какова цена?
+https://habrahabr.ru/post/325954/
+
 .NET-обёртки нативных библиотек на C++/CLI
 https://habrahabr.ru/post/318224/
 
@@ -180,6 +183,7 @@ https://habrahabr.ru/company/pvs-studio/blog/301204/
 
 Восход Roslyn
 https://msdn.microsoft.com/ru-ru/magazine/dn818501.aspx
+
 
 Разное
 ------

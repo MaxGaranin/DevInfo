@@ -1,6 +1,10 @@
 
 Основное
 --------
+! Отличная книга Pro Git
+http://git-scm.com/book/ru
+http://git-scm.com/book/en/Getting-Started-Git-Basics
+
 ! Ежедневная работа с Git
 https://habrahabr.ru/post/174467/
 
@@ -12,11 +16,6 @@ http://githowto.com/ru/
 
 ! Материалы по Git (от Акиншина Андрея)
 http://aakinshin.net/ru/blog/git/links/
-
-! Отличная книга Pro Git на русском
-http://git-scm.com/book/ru
-Getting Started - Git Basics (она же на английском)
-http://git-scm.com/book/en/Getting-Started-Git-Basics
 
 ! GIT Quiz- практикум по использованию git, для начинающих
 http://habrahabr.ru/post/220485/
@@ -39,6 +38,12 @@ http://habrahabr.ru/post/231839/
 
 Басня о Git	
 http://hades.name/blog/2009/05/23/the-git-parable-ru/
+
+
+Как работает Git внутри
+-----------------------
+Как работает Git
+https://habrahabr.ru/post/313890/
 
 
 GitFlow

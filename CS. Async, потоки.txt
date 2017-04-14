@@ -10,7 +10,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=19957
 Under the hood: async/await
 http://sonyks2007.blogspot.ru/2014/07/under-hood-asyncawait.html
 
-Ќедопонимание про async/await и многопоточность в C#
+! Ќедопонимание про async/await и многопоточность в C# (надо различать CPU-bound и I/O-bound операции)
 http://habrahabr.ru/post/261649/
 
 ! ќсновы многопоточности в .NET Framework (хороша€ стать€)

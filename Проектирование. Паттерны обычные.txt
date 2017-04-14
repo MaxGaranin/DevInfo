@@ -37,6 +37,9 @@ http://sergeyteplyakov.blogspot.ru/2014/03/template-method-design-pattern.html
 
 Спецификация
 ------------
+Шаблон проектирования «Спецификация» в C#
+https://habrahabr.ru/hub/net/
+
 Шаблон проектирования «Спецификация»
 http://habrahabr.ru/post/171559/
 
