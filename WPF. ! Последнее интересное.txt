@@ -1,4 +1,7 @@
 
+Упрощаем конвертеры для WPF
+https://habrahabr.ru/post/326646/
+
 Цикл статей Stephen Cleary на MSDN
 ----------------------------------
 Шаблоны для асинхронных MVVM-приложений: связывание с данными
@@ -30,5 +33,5 @@ http://msdn.microsoft.com/ru-ru/magazine/dn385706.aspx
 Написание тестируемого презентационного уровня с помощью MVVM
 http://msdn.microsoft.com/ru-ru/magazine/dn463790.aspx
 
-MVVM: новый взгляд (интересная статья)
+! MVVM: новый взгляд (интересная статья)
 http://habrahabr.ru/post/208326/

@@ -1,4 +1,11 @@
 
+Введение в криптографию и шифрование, часть первая. Лекция в Яндексе
+https://habrahabr.ru/company/yandex/blog/324866/
+https://habrahabr.ru/company/yandex/blog/327636/
+
+Руководство по выживанию — шифрование, аутентификация
+http://pro-ldap.ru/tr/zytrax/tech/encryption.html
+
 Разбираем квалифицированные сертификаты X.509 в поисках ИНН, СНИЛС и ОГРН
 https://habrahabr.ru/post/325998/
 
