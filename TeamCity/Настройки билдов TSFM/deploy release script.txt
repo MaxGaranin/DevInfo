@@ -1,2 +1,0 @@
-rmdir "d:\mnt\tsfm_publish\TSFM2" /Q /S
-xcopy "IPA.UI\bin\Release\*" "d:\mnt\tsfm_publish\TSFM2" /s /i /y /q

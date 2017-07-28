@@ -1,0 +1,6 @@
+
+Differences between Visual Studio (.sln) build runner and MSBuild
+https://stackoverflow.com/questions/9276915/differences-between-visual-studio-sln-build-runner-and-msbuild
+
+Common MSBuild Project Properties
+https://msdn.microsoft.com/en-us/library/bb629394.aspx

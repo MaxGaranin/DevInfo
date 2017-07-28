@@ -1,6 +1,9 @@
 
 Основное (понимание Task и async)
 ---------------------------------
+! Статьи Эрика Липперта
+https://blogs.msdn.microsoft.com/ruericlippert/tag/async/
+
 Async/await и механизм реализации в C# 5.0
 https://habrahabr.ru/post/260217/
 
@@ -84,6 +87,15 @@ Understanding SynchronizationContext
 http://www.codeproject.com/Articles/31971/Understanding-SynchronizationContext-Part-I
 http://www.codeproject.com/Articles/32113/Understanding-SynchronizationContext-Part-II
 http://www.codeproject.com/Articles/32119/Understanding-SynchronizationContext-Part-III
+
+
+Deadlocks
+---------
+Don't Block on Async Code
+http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html
+
+Еще один аргумент за ConfigureAwait(false) в библиотеках
+http://andrey.moveax.ru/post/csharp-async-wait-deadlocks
 
 
 Разное (примеры)

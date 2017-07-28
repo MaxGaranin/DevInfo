@@ -40,6 +40,9 @@ https://msdn.microsoft.com/en-us/data/hh949853.aspx
 Ускоряем Update и Delete операции для Entity Framework
 https://habrahabr.ru/post/203214/
 
+Михаил Башуров — Entity Framework: фишки и подводные камни (ничего так видео)
+https://www.youtube.com/watch?v=Y3M826ZySDM
+
 
 Задание условий выборки через Expressions и проблемы, возникающие при этом
 --------------------------------------------------------------------------
@@ -85,6 +88,9 @@ https://msdn.microsoft.com/en-us/data/jj592676
 --------
 ! Entity Framework Code First Migrations in Team Environments
 https://msdn.microsoft.com/en-us/data/dn481501
+
+! Reset Entity-Framework Migrations
+http://stackoverflow.com/questions/11679385/reset-entity-framework-migrations?rq=1
 
 
 Связи, свойства навигации

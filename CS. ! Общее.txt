@@ -49,6 +49,11 @@ https://habrahabr.ru/post/279737/
 Как обойтись почти без исключений, заменив их уведомлениями
 https://habrahabr.ru/company/piter/blog/270331/
 
+Исключения. Необработанные
+--------------------------
+Catching unhandled exception on separate threads
+https://stackoverflow.com/questions/4284986/catching-unhandled-exception-on-separate-threads
+
 
 Ресурсы
 -------
@@ -159,4 +164,8 @@ http://www.regfordev.com/2013/07/blog-post.html?utm_source=BP_recent#.Uzk-_JLJSr
 
 Условная компиляция
 http://www.regfordev.com/2009/12/blog-post.html#.UzlDJ5LJSrA
+
+App.Config и Custom Configuration Sections
+https://habrahabr.ru/post/128517/
+
 

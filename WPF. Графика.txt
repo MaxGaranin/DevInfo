@@ -1,4 +1,7 @@
 
+WPF и Box2D. Как я делал физику c WPF
+https://habrahabr.ru/post/333040/
+
 Визуализация простой геометрии в WPF
 https://habrahabr.ru/company/tinkoff/blog/326406/
 
