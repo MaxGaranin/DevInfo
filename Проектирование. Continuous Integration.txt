@@ -8,20 +8,17 @@ Continuous Integration для самых маленьких
 http://habrahabr.ru/post/190412/
 
 
-TeamCity
---------
-! Настройка TeamCity для новичков
-http://habrahabr.ru/company/skbkontur/blog/205402/
+GitHub
+------
+Невидимые друзья вашего github-репозитория
+https://habrahabr.ru/company/eastbanctech/blog/323760/
 
-Continuous Integration в Дневник.ру (про TeamCity)
-http://habrahabr.ru/company/dnevnik_ru/blog/169329/
+Как настроить Travis CI для проекта .NET Core + PostgreSQL
+https://habrahabr.ru/hub/net/
 
 
 Системы контроля версий (кроме Git)
------------------------------------
-
-Fossil
-------
+----------------------------------
 Системы контроля версий: Fossil, часть I 
 http://habrahabr.ru/post/235369/
 
