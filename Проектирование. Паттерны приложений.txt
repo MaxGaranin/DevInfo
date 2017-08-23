@@ -7,6 +7,9 @@ http://joseoncode.com/2010/04/27/event-aggregator-example/
 
 Repository
 ----------
+EntityFramework: (анти)паттерн Repository
+https://habrahabr.ru/post/335856/
+
 Скользящая ответственность паттерна Репозиторий
 https://habrahabr.ru/post/304824/
 

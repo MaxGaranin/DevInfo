@@ -1,9 +1,8 @@
 
+Общее
+-----
 ! 15 возможностей ReSharper-а для навигации и редактирования
 http://sergeyteplyakov.blogspot.ru/2012/03/14-resharper.html
-
-! Speeding up ReSharper (and Visual Studio)
-https://www.jetbrains.com/help/resharper/2016.3/Speeding_Up_ReSharper.html
 
 Ускоряем разработку с помощью ReSharper
 http://sonyks2007.blogspot.ru/2014/02/resharper.html
@@ -19,3 +18,10 @@ http://habrahabr.ru/post/189024/
 
 Есть ли жизнь без Resharper-а — 2?
 http://habrahabr.ru/post/189200/
+
+
+Ускорение работы
+----------------
+! Speeding up ReSharper (and Visual Studio)
+https://www.jetbrains.com/help/resharper/2017.2/Speeding_Up_ReSharper.html
+https://www.jetbrains.com/help/resharper/2016.3/Speeding_Up_ReSharper.html
