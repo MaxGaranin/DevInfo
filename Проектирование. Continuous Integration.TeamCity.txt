@@ -1,7 +1,7 @@
 
 Общее
 -----
-! Настройка TeamCity для новичков
+! Настройка TeamCity для новичков (отличный туториал)
 http://habrahabr.ru/company/skbkontur/blog/205402/
 
 Continuous Integration в Дневник.ру (про TeamCity)
@@ -34,3 +34,12 @@ https://docs.microsoft.com/en-us/nuget/hosting-packages/overview
 
 Разворачиваем собственный сервер NuGet
 http://andrey.moveax.ru/post/nuget-creating-and-deploying-simple-server
+
+
+Upgrade
+-------
+Upgrade
+https://confluence.jetbrains.com/display/TCD9/Upgrade
+
+Upgrading TeamCity to support Visual Studio 2015
+http://dave.ninja/teamcity/upgrading-teamcity-to-support-visual-studio-2015/

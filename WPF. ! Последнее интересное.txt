@@ -1,4 +1,7 @@
 
+Анимация в WPF и Blend SDK
+https://habrahabr.ru/post/336692/
+
 Упрощаем конвертеры для WPF
 https://habrahabr.ru/post/326646/
 

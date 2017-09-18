@@ -1,0 +1,13 @@
+
+MS LocalDb
+----------
+
+Подключение
+Раньше: (LocalDb)\v11.0
+Сейчас: (LocalDb)\MSSQLLocalDb
+
+Путь к системным базам
+c:\Users\Garanin_MS\AppData\Local\Microsoft\Microsoft SQL Server Local DB\Instances\MSSQLLocalDB\
+
+По умолчанию, создает файл базы данных в пользовательской папке
+c:\Users\Garanin_MS\

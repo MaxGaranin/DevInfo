@@ -1,0 +1,18 @@
+
+Excel-DNA
+---------
+Разработка Microsoft Excel add-in'а с использованием библиотеки Excel-DNA
+https://habrahabr.ru/post/337006/
+
+
+VSTO
+----
+Office Add-Ins для Excel — новые возможности для разработчиков на VBA и VSTO
+http://habrahabr.ru/company/microsoft/blog/270763/
+
+Roadmap for Apps for Office, VSTO, and VBA
+http://blogs.msdn.com/b/vsto/archive/2013/06/18/roadmap-for-apps-for-office-vsto-and-vba.aspx
+
+Office Developer Tools for Visual Studio 2012: Now Available with Office 2013 and .NET Framework 4.5 support
+http://blogs.msdn.com/b/vsto/archive/2013/03/06/office-developer-tools-for-visual-studio-2012-now-available.aspx
+

@@ -1,0 +1,6 @@
+
+How do I create a self-signed certificate for code signing on Windows?
+https://stackoverflow.com/questions/84847/how-do-i-create-a-self-signed-certificate-for-code-signing-on-windows
+
+Руководство по выживанию TLS/SSL и сертификаты SSL (X.509)
+https://pro-ldap.ru/tr/zytrax/tech/ssl.html

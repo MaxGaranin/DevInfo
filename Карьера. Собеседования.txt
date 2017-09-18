@@ -1,12 +1,15 @@
 
 Последнее
 ---------
-Собеседование для фронтенд-разработчика на JavaScript: самые лучшие вопросы
-https://habrahabr.ru/company/ruvds/blog/334538/
+! Как я проходил собеседования на позицию Junior .Net Developer (можно использовать для НИПИ)
+https://habrahabr.ru/post/338102/
 
 
 Общее
 -----
+Тесты онлайн
+http://www.quizful.net/test
+
 (Есть ссылки на сайты с вопросами к собеседованию) 
 Я провел 3 месяца, пытаясь устроиться на работу после лагеря программирования, и вот чему я научился 
 https://habrahabr.ru/company/edison/blog/316776/
@@ -58,6 +61,21 @@ http://habrahabr.ru/post/230881/
 https://habrahabr.ru/post/276673/
 
 
+C#
+--
+Эволюция StringBuilder (могут спросить про внутренее устройство)
+http://www.rsdn.ru/?article/net/StringBuilder.xml
+
+C#: вопросы с собеседования. Часть 1
+http://www.regfordev.com/2009/12/c-1.html#.Uzk-o5LJSrA
+
+C#: разница между new и override
+http://www.regfordev.com/2011/01/c-new-override.html#.Uz4ySJLJSrD
+
+Собеседование разработчика
+http://habrahabr.ru/post/199136/
+
+
 Java
 ----
 Войти в IT: Долгая дорога в Java
@@ -73,23 +91,11 @@ Java-программист в Петербурге. Обзор рынка труда с точки зрения соискателя. Част
 http://habrahabr.ru/post/206820/
 
 
-.NET
-----
-Эволюция StringBuilder (могут спросить про внутренее устройство)
-http://www.rsdn.ru/?article/net/StringBuilder.xml
-
-C#: вопросы с собеседования. Часть 1
-http://www.regfordev.com/2009/12/c-1.html#.Uzk-o5LJSrA
-
-C#: разница между new и override
-http://www.regfordev.com/2011/01/c-new-override.html#.Uz4ySJLJSrD
-
-Собеседование разработчика
-http://habrahabr.ru/post/199136/
-
-
 Javascript
 ----------
+Собеседование для фронтенд-разработчика на JavaScript: самые лучшие вопросы
+https://habrahabr.ru/company/ruvds/blog/334538/
+
 Собеседование на должность JavaScript разработчика
 http://habrahabr.ru/post/231071/
 
