@@ -188,14 +188,17 @@ WCF
 https://www.youtube.com/user/kudvenkat
 
 
-Web
----
+HTML
+----
 HTML Academy - онлайн-курсы по HTML и CSS
 http://htmlacademy.ru/
 http://habrahabr.ru/company/htmlacademy/blog/198620/
 
-Антон Шевчук. Отличные лекции по jQuery
-http://anton.shevchuk.name/javascript/jquery-for-beginners/
+
+JavaScript
+----------
+Создание игр на JavaScript. Основы (видеокурс)
+https://www.youtube.com/watch?v=iGCMkmnm89M&list=PLf0k8CBUad-sHxpoBHLHIr3CwWfSmOYZR
 
 
 Python

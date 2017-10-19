@@ -1,8 +1,18 @@
 
+Интересно
+---------
+Как работает Android (несколько частей)
+https://habrahabr.ru/company/solarsecurity/blog/334796/
+https://habrahabr.ru/company/solarsecurity/blog/338292/
+
+
 Уроки
 -----
 Start Android
 http://startandroid.ru/ru/
+
+FAQ по программированию под Android от новичка, и для новичков
+http://habrahabr.ru/post/232885/
 
 
 Примеры проектов
@@ -15,10 +25,4 @@ DataBinding
 -----------
 Быстрый старт Data Binding в Android
 http://habrahabr.ru/post/260317/
-
-
-Разное
-------
-FAQ по программированию под Android от новичка, и для новичков
-http://habrahabr.ru/post/232885/
 

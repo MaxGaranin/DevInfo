@@ -24,6 +24,15 @@ http://habrahabr.ru/post/259907/
 http://habrahabr.ru/post/266401/
 
 
+Примеры приложений и туториалы
+------------------------------
+Создание игр на JavaScript. Основы (видеокурс)
+https://www.youtube.com/watch?v=iGCMkmnm89M&list=PLf0k8CBUad-sHxpoBHLHIr3CwWfSmOYZR
+
+Создаём игру, используя canvas и спрайты
+http://habrahabr.ru/post/184666/
+
+
 Общее
 -----
 JavaScript. Особенности и типичные ошибки использования.
@@ -55,10 +64,4 @@ http://habrahabr.ru/company/enterra/blog/153365/
 
 Какая есть простая библиотека, реализующая классы в JavaScript?
 http://toster.ru/q/115739?utm_source=tm_habrahabr&utm_medium=tm_block&utm_campaign=tm_promo
-
-
-Canvas
-------
-Создаём игру, используя canvas и спрайты
-http://habrahabr.ru/post/184666/
 

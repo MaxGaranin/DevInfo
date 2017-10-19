@@ -1,7 +1,6 @@
 
 ASP.NET MVC
 -----------
-
 Создание музея юмора
 http://www.calabonga.net/blog?tag=музей%20юмора
 
