@@ -4,12 +4,12 @@
 ! Как я проходил собеседования на позицию Junior .Net Developer (можно использовать для НИПИ)
 https://habrahabr.ru/post/338102/
 
+За пять дней я прошел собеседования в пяти компаниях Силиконовой долины и получил пять предложений о работе
+https://habrahabr.ru/company/everydaytools/blog/342104/
+
 
 Общее
 -----
-Тесты онлайн
-http://www.quizful.net/test
-
 (Есть ссылки на сайты с вопросами к собеседованию) 
 Я провел 3 месяца, пытаясь устроиться на работу после лагеря программирования, и вот чему я научился 
 https://habrahabr.ru/company/edison/blog/316776/
@@ -43,8 +43,25 @@ http://habrahabr.ru/post/147364/
 http://habrahabr.ru/post/200190/
 
 
+Практики для кодирования
+------------------------
+Leetcode
+Geeksforgeeks
+Hackerrank
+Lintcode
+
+
+Тесты
+-----
+Тесты онлайн
+http://www.quizful.net/test
+
+
 Задачки
 -------
+Интересные логические задачки на собеседованиях
+https://habrahabr.ru/post/342304/
+
 Задачи на собеседованиях в Яндексе	
 http://habrahabr.ru/company/yandex/blog/206234/
 

@@ -69,6 +69,12 @@ Create MVVM Background Tasks with Progress Reporting
 http://www.codeproject.com/Articles/252392/Create-MVVM-Background-Tasks-with-Progress-Reporti
 
 
+Обработка исключений
+--------------------
+Обработка исключений при работе с классом Task
+http://softblog.violet-tape.ru/2012/05/10/task_exceptions_handling/
+
+
 SynchronizationContext
 ----------------------
 ! Все дело в SynchronizationContext (Stephen Cleary)
