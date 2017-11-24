@@ -45,11 +45,11 @@ http://csscriptnpp.codeplex.com/
 
 -- Инсталляторы, обновление, лицензирование
 --
+! Advanced Installer
 Microsoft Visual Studio 2015 Installer Projects
 ClickOnce
 Inno Setup
 NSIS
-Advanced Installer
 Wix и WixSharp - создание msi-пакетов
 NetSparkle - для обновления
 Squirrel
