@@ -7,6 +7,9 @@ http://www.planetaexcel.ru
 ! Perfect Excel - супер
 http://perfect-excel.ru/publ/
 
+! Макросы для Excel
+http://excelvba.ru
+
 Sir Excel
 http://sirexcel.ru/
 

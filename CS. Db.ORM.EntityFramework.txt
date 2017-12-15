@@ -88,6 +88,8 @@ https://msdn.microsoft.com/en-us/data/jj592676
 --------
 ! Entity Framework Code First Migrations in Team Environments
 https://msdn.microsoft.com/en-us/data/dn481501
++ Перевод статьи
+https://habrahabr.ru/post/277915/
 
 ! Reset Entity-Framework Migrations
 http://stackoverflow.com/questions/11679385/reset-entity-framework-migrations?rq=1
@@ -146,7 +148,12 @@ https://blogs.msdn.microsoft.com/alexj/2009/01/11/savechangesfalse/
 
 UnitOfWork
 ----------
-! Использование паттерна Unit of Work (как обычно, классная статья от sonyks2007)
+! Внедрение зависимости и реализация единицы работы с помощью Castle Windsor и NHibernate 
+(отличная статья, все по полочкам)
+https://habrahabr.ru/company/plarium/blog/344508/
+
+! Использование паттерна Unit of Work 
+(как обычно, классная статья от sonyks2007)
 http://sonyks2007.blogspot.ru/2015/10/unit-of-work.html
 
 Generic Repository and Unit of Work Pattern, Entity Framework, Unit Testing, Autofac IoC Container and ASP.NET MVC [Part 1]

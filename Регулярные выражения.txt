@@ -1,4 +1,7 @@
 
+–егул€рные выражени€ дл€ самых маленьких
+https://habrahabr.ru/post/343310/
+
 Breaking the Ice With Regular Expressions (видеокурс по регул€рным выражени€м)
 https://www.codeschool.com/courses/breaking-the-ice-with-regular-expressions
 
