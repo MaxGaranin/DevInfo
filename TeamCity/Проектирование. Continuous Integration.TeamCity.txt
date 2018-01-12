@@ -1,0 +1,45 @@
+
+Общее
+-----
+! Настройка TeamCity для новичков (отличный туториал)
+http://habrahabr.ru/company/skbkontur/blog/205402/
+
+Continuous Integration в Дневник.ру (про TeamCity)
+http://habrahabr.ru/company/dnevnik_ru/blog/169329/
+
+
+MSBuild
+-------
+MSBuild Reference
+https://msdn.microsoft.com/ru-ru/library/wea2sca5(v=vs.90).aspx
+
+Common MSBuild Project Properties
+https://msdn.microsoft.com/en-us/library/bb629394.aspx
+
+Differences between Visual Studio (.sln) build runner and MSBuild
+https://stackoverflow.com/questions/9276915/differences-between-visual-studio-sln-build-runner-and-msbuild
+
+
+Nuget
+-----
+Папки кэша Нугета
+c:\Users\Garanin_MS\.nuget\
+c:\Users\Garanin_MS\AppData\Local\NuGet\
+
+! Разработчики в борьбе за эффективность программиста, команды, команд
+https://habrahabr.ru/company/eastbanctech/blog/191406/
+
+Hosting your own NuGet feeds
+https://docs.microsoft.com/en-us/nuget/hosting-packages/overview
+
+Разворачиваем собственный сервер NuGet
+http://andrey.moveax.ru/post/nuget-creating-and-deploying-simple-server
+
+
+Upgrade
+-------
+Upgrade
+https://confluence.jetbrains.com/display/TCD9/Upgrade
+
+Upgrading TeamCity to support Visual Studio 2015
+http://dave.ninja/teamcity/upgrading-teamcity-to-support-visual-studio-2015/
