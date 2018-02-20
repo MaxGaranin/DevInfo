@@ -125,3 +125,17 @@ Web
 ---
 Антон Шевчук. Отличные лекции по jQuery
 http://anton.shevchuk.name/javascript/jquery-for-beginners/
+
+
+Delphi
+------
+Блог GunSmoker-а
+http://www.gunsmoker.ru
+
+Королевство Delphi
+http://www.delphikingdom.ru/index.asp
+
+"Поток сознания" о тестировании и программировании
+http://programmingmindstream.blogspot.ru
+
+

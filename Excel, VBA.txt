@@ -32,3 +32,6 @@ http://habrahabr.ru/post/237641/
 
 Рассказ о том, как я упростил себе службу в армии при помощи Excel и VBA
 http://habrahabr.ru/post/238427/
+
+! 3D-движок, написанный на формулах MS Excel 
+https://habrahabr.ru/post/348704/

@@ -22,3 +22,14 @@ https://habrahabr.ru/hub/net/
 Системы контроля версий: Fossil, часть I 
 http://habrahabr.ru/post/235369/
 
+
+Сервисы управления задачами
+---------------------------
+Как уследить за всеми и всем: Шесть удобных таск-менеджеров для командной работы
+https://netology.ru/blog/311-kak-usledit-za-vsemi-i-vsem-shest-udobnykh-task-menedjerov-dlya-komandnoy-raboty
+
+Какая система управления задачами лучше — выбор ИТ-менеджеров и предпринимателей
+https://vc.ru/4038-task-management
+
+Мы обозрели: выбираем систему управления задачами для web-студий
+https://habrahabr.ru/company/ptysh/blog/297824/

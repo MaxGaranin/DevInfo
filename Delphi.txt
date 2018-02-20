@@ -1,4 +1,19 @@
 
+Плагины
+-------
+! Разработка системы плагинов в Delphi
+http://www.gunsmoker.ru/2011/12/delphi.html
+http://www.gunsmoker.ru/2008/12/1.html
+
+Использование COM/DCOM в Delphi
+http://www.delphikingdom.ru/lyceum/seminar.asp?id=5
+
+И снова о Plugins
+http://www.sql.ru/forum/368563/i-snova-o-plugins
+
+
+Общее
+-----
 Использование анонимных методов в Delphi
 http://habrahabr.ru/post/243721/
 

@@ -31,6 +31,9 @@ http://www.codewars.com/
 
 –азнообразные курсы
 -------------------
+Otus
+https://otus.ru
+
 GeekBrains - обучающий портал дл€ программистов на русском
 https://geekbrains.ru/courses
 

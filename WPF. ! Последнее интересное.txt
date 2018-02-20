@@ -1,4 +1,9 @@
 
+Цикл статей про ReactiveUI
+https://habrahabr.ru/post/303650/
+https://habrahabr.ru/post/303898/
+https://habrahabr.ru/post/305350/
+
 Анимация в WPF и Blend SDK
 https://habrahabr.ru/post/336692/
 
