@@ -1,4 +1,10 @@
 
+Последнее
+---------
+Что новенького предлагает Git 2.7
+https://habrahabr.ru/post/276679/
+
+
 Основное
 --------
 ! Отличная книга Pro Git
@@ -71,4 +77,13 @@ http://cccp-blog.com/koding/sozdayom-git-server-svoimi-rukami
 
 Настройка Git для разработки на сервере и клиенте
 http://apricode.blogspot.ru/2013/04/git.html
+
+
+Assume-unchanged vs Skip-worktree
+---------------------------------
+http://qaru.site/questions/1817/git-difference-between-assume-unchanged-and-skip-worktree
+https://fallengamer.livejournal.com/93321.html
+https://stackoverflow.com/questions/11131197/undo-git-update-index-skip-worktree
+
+
 

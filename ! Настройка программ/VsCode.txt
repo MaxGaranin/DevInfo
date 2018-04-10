@@ -1,0 +1,10 @@
+
+Настройка английской локали
+---------------------------
+Найти или создать файл 
+c:\Users\Garanin_MS\AppData\Roaming\Code\User\locale.json
+
+и отредактировать его
+{
+    "locale": "en-US"
+}

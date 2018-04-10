@@ -1,0 +1,3 @@
+
+Поговорим про отличия Mono от MS.NET
+https://habrahabr.ru/company/enterra/blog/243371/

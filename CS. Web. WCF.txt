@@ -10,6 +10,9 @@ http://bloggingabout.net/blogs/dennis/archive/2006/10/18/WCF-Part-0-_3A00_-Intro
 
 Последнее
 ---------
+WCF service. С чего начать. Основные моменты создание службы
+http://www.devowl.net/2017/07/WCF-service-csharp-client-server.html
+
 Игорь Лабутин — WCF. Легко или проблемно?
 https://www.youtube.com/watch?v=_6MQ_TfrjBA
 

@@ -1,4 +1,10 @@
 
+Core
+----
+Реализуем свой оператор в Entity Framework Core
+https://habrahabr.ru/post/351556/
+
+
 Общее
 -----
 ! Статьи Джулии Лерман на MSDN (.Net, Entity Framework) - супер

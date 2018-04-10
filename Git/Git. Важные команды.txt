@@ -44,3 +44,13 @@ git fetch --prune <--all>
 git reset --soft HEAD~1
 или
 git reset --soft <branch_name>
+
+
+Возврат файла в рабочее дерево, если случайно нажал Skip worktree
+-----------------------------------------------------------------
+git update-index --no-skip-worktree <file>
+
+
+Отмена изменений файлов
+-----------------------
+https://stackoverflow.com/questions/933329/git-undo-changes-in-some-files

@@ -1,6 +1,9 @@
 
 Основное (понимание Task и async)
 ---------------------------------
+Рекомендации по асинхронному программированию (Stephen Cleary)
+https://msdn.microsoft.com/ru-ru/magazine/jj991977.aspx
+
 ! Статьи Эрика Липперта
 https://blogs.msdn.microsoft.com/ruericlippert/tag/async/
 
