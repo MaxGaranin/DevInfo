@@ -1,0 +1,11 @@
+
+На злобу дня: кроссплатформенный клиент для Telegram на .NET Core и Avalonia
+https://habr.com/post/354646/
+
+Цикл статей про ReactiveUI
+https://habrahabr.ru/post/303650/
+https://habrahabr.ru/post/303898/
+https://habrahabr.ru/post/305350/
+
+ReactiveValidation: валидация данных в WPF
+https://habr.com/post/354886/

@@ -1,6 +1,9 @@
 
 Общее
 -----
+! Обработка запросов в ASP.NET (полное погружение в обработку запросов)
+http://sonyks2007.blogspot.ru/
+
 ! Изучаем ASP.NET MVC 5 (отличные уроки)
 http://professorweb.ru/my/ASP_NET/mvc/level1/
 

@@ -1,4 +1,13 @@
 
+Отладка c исходниками .NET Framework
+------------------------------------
+Как отлаживать .NET Framework Source
+http://sonyks2007.blogspot.ru/2014/06/net-framework-source.html
+
+Configure Visual Studio 2013 for debugging .NET framework
+https://referencesource.microsoft.com/setup.html
+
+
 Расширения
 ----------
 Обзор расширений Visual Studio для веб-разработчиков

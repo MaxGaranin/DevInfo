@@ -1,15 +1,4 @@
 
-Цикл статей про ReactiveUI
-https://habrahabr.ru/post/303650/
-https://habrahabr.ru/post/303898/
-https://habrahabr.ru/post/305350/
-
-Анимация в WPF и Blend SDK
-https://habrahabr.ru/post/336692/
-
-Упрощаем конвертеры для WPF
-https://habrahabr.ru/post/326646/
-
 Цикл статей Stephen Cleary на MSDN
 ----------------------------------
 Шаблоны для асинхронных MVVM-приложений: связывание с данными
@@ -18,6 +7,12 @@ https://msdn.microsoft.com/ru-ru/magazine/dn605875.aspx
 https://msdn.microsoft.com/magazine/dn630647
 Шаблоны для асинхронных MVVM-приложений: сервисы
 https://msdn.microsoft.com/magazine/dn683795
+
+Анимация в WPF и Blend SDK
+https://habrahabr.ru/post/336692/
+
+Упрощаем конвертеры для WPF
+https://habrahabr.ru/post/326646/
 
 Модульное приложение на WPF + Caliburn.Micro + Castle.Windsor
 http://habrahabr.ru/post/271655/

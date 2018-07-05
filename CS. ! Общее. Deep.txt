@@ -1,7 +1,7 @@
 
 Общее
 -----
-Крадущийся тигр, затаившийся дракон
+! Крадущийся тигр, затаившийся дракон (важная статья, описано сравнение внутренностей .NET и Java)
 http://habrahabr.ru/post/145932/
 
 Размеры CLR-объектов. Точное определение
@@ -18,12 +18,6 @@ http://www.wintellect.com/blogs/jrobbins/pdb-files-what-every-developer-must-kno
 
 dotPeek Symbol Server and PDB Generation
 http://confluence.jetbrains.com/display/NETCOM/dotPeek+Symbol+Server+and+PDB+Generation
-
-
-Отладка исходников .NET Framework
----------------------------------
-Как отлаживать .NET Framework Source
-http://sonyks2007.blogspot.ru/2014/06/net-framework-source.html
 
 
 Сборки
@@ -79,6 +73,12 @@ http://sergeyteplyakov.blogspot.ru/2013/08/blog-post_27.html
 
 Dispose
 -------
+Как применять IDisposable и финализаторы: 3 простых правила
+https://habr.com/post/89720/
+
+[DotNetBook] Реализация IDisposable: правильное использование
+https://habr.com/post/341864/
+
 ! Dispose pattern (Сергей Тепляков очень подробно разжевывает)
 http://sergeyteplyakov.blogspot.ru/2011/09/dispose-pattern.html
 
@@ -105,12 +105,6 @@ http://sergeyteplyakov.blogspot.ru/2013/08/net.html
 http://sergeyteplyakov.blogspot.ru/2015/09/elegant-implementation-of-weak-events.html
 
 
-Потоки
-------
-Потокобезопасные события в C# или Джон Скит против Джеффри Рихтера
-http://habrahabr.ru/post/240385/
-
-
 Делегаты и события
 ------------------
 Использование делегатов в C#
@@ -120,6 +114,9 @@ http://sonyks2007.blogspot.ru/2013/11/c_9.html
 
 Делегаты и события в .NET
 http://habrahabr.ru/post/198694/
+
+Потокобезопасные события в C# или Джон Скит против Джеффри Рихтера
+http://habrahabr.ru/post/240385/
 
 
 Дженерики

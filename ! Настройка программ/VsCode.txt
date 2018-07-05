@@ -8,3 +8,34 @@ c:\Users\Garanin_MS\AppData\Roaming\Code\User\locale.json
 {
     "locale": "en-US"
 }
+
+
+Командная строка
+----------------
+Запуск из текущей папки
+code .
+
+
+Полезные сочетания клавиш
+-------------------------
+Alt+Shift+F    - автоформатирование
+Alt+Shift+вниз - дублирование строки
+Ctrl+Shift+K   - удаление строки
+Ctrl+G+L       - запуск TortoiseGit Log
+
+Ctrl+Shift+P   - открытие панели конфигурирования
+
+
+Задания (Tasks)
+---------------
+Запуск файла в браузере через F5
+{
+    "version": "0.1.0",
+    "command": "Yandex",
+    "windows": {
+        "command": "C:\\Users\\Garanin_MS\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe"
+    },
+    "args": [
+        "${file}"
+    ]
+}

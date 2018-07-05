@@ -1,0 +1,7 @@
+
+! Расширение процесса сборки с помощью MSBuild
+https://habr.com/post/414969/
+
+! MSBuild (фундаментальная статья с RSDN)
+http://rsdn.org/article/devtools/msbuild-05.xml
+
