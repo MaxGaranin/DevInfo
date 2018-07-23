@@ -36,3 +36,12 @@ http://stackoverflow.com/questions/14272205/how-to-change-background-color-of-xa
 
 WPF Designer unusable in dark theme
 http://connect.microsoft.com/VisualStudio/feedback/details/758745/wpf-designer-unusable-in-dark-theme
+
+
+Offline установка и обновление
+------------------------------
+Создание автономной установки Visual Studio 2017
+https://docs.microsoft.com/ru-ru/visualstudio/install/create-an-offline-installation-of-visual-studio
+
+Visual Studio 2017 offline installer incremental updates becoming larger with every new update
+https://developercommunity.visualstudio.com/content/problem/46283/visual-studio-2017-offline-installer-incremental-u.html

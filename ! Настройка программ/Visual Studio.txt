@@ -1,0 +1,3 @@
+Если студия ругается на project.assets.json, надо
+или почистить папки во всех проектах (bin и obj), для этого в TotalCommander в поиске <(bin|obj)$
+или, что проще Вызвать dotnet restore

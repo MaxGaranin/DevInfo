@@ -152,8 +152,8 @@ SaveChanges(false)
 https://blogs.msdn.microsoft.com/alexj/2009/01/11/savechangesfalse/
 
 
-UnitOfWork
-----------
+Unit Of Work
+------------
 ! Внедрение зависимости и реализация единицы работы с помощью Castle Windsor и NHibernate 
 (отличная статья, все по полочкам)
 https://habrahabr.ru/company/plarium/blog/344508/

@@ -5,3 +5,5 @@ https://habr.com/post/414969/
 ! MSBuild (фундаментальная статья с RSDN)
 http://rsdn.org/article/devtools/msbuild-05.xml
 
+Common MSBuild Project Properties
+https://msdn.microsoft.com/en-us/library/bb629394.aspx

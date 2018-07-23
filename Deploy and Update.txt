@@ -30,6 +30,12 @@ https://www.firegiant.com/wix/tutorial/
 
 ClickOnce
 ---------
+! Отличная серия статей
+http://www.devowl.net/2017/01/1-clickonce-visual-studio.html
+http://www.devowl.net/2017/04/ClickOnce-sozdanie-cherez-mage-exe.html
+http://www.devowl.net/2017/04/Alternative-Mage-UI-Sozdanie-ClickOnce-prilozheniya.html
+http://www.devowl.net/2017/04/4-clickonceutil4exe-mage.html
+
 Использование clickonce для быстрого разворачивания приложений
 https://www.techdays.ru/videos/1274.html
 
