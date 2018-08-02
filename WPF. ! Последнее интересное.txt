@@ -1,4 +1,10 @@
 
+Кроссплатформенная разработка с помощью .NET, реактивного программирования, шаблона MVVM и кодогенерации
+https://habr.com/post/418007/
+
+Recommendations and best practices for implementing MVVM and XAML/.NET applications
+https://blog.rsuter.com/recommendations-best-practices-implementing-mvvm-xaml-net-applications/
+
 Цикл статей Stephen Cleary на MSDN
 ----------------------------------
 Шаблоны для асинхронных MVVM-приложений: связывание с данными
