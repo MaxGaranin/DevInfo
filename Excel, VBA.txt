@@ -7,8 +7,11 @@ http://www.planetaexcel.ru
 ! Perfect Excel - супер
 http://perfect-excel.ru/publ/
 
-! Макросы для Excel
+Макросы для Excel
 http://excelvba.ru
+
+Excel - это не сложно
+https://www.excel-vba.ru
 
 Sir Excel
 http://sirexcel.ru/
