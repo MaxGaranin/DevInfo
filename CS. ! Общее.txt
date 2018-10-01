@@ -34,6 +34,9 @@ http://referencesource.microsoft.com/
 
 Структуры
 ---------
+Reference Types vs Value Types
+https://github.com/sidristij/dotnetbook/blob/master/ReferenceTypesVsValueTypes.md
+
 C# NET 4.0: Class vs Struct или в чём различия между Классом и Структурой
 http://www.calabonga.net/blog/post/56
 

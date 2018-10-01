@@ -121,7 +121,7 @@ http://habrahabr.ru/post/240385/
 
 Дженерики
 ---------
-The art of Generics (интересно!)
+! The art of Generics (интересно!)
 http://habrahabr.ru/post/201996/
 
 
