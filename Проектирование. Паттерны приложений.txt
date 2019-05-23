@@ -47,24 +47,22 @@ MVC, MVP, MVVM
 ==============
 Общее
 -----
-В чем различия MVVM и MVC?
-https://toster.ru/q/226608
-
 Паттерны для новичков: MVC vs MVP vs MVVM
 http://habrahabr.ru/post/215605/
-
-Проектировочный шаблон Model-View-Presenter-ViewModel (MVPVM) для WPF (Билл Кратохвил)
-http://msdn.microsoft.com/ru-ru/magazine/hh580734.aspx
-
 
 MVC
 ---
 ! Проблемы понимания MVC в ASP.NET MVC и не только (классное обсуждение)
 https://habrahabr.ru/post/342748/
 
-
 MVP
 ---
+! Model-View-Controller в .Net (Model-View-Presenter и сопутствующие паттерны)
+https://www.rsdn.org/article/patterns/ModelViewPresenter.xml
+
+Model-View-Presenter — компромисс и универсальный рецепт
+https://habr.com/ru/post/343438/
+
 Особенности реализации MVP для Windows Forms (есть много ссылок на другие статьи)
 http://habrahabr.ru/post/211899/
 
@@ -73,7 +71,6 @@ http://msdn.microsoft.com/ru-ru/magazine/cc188690(en-us).aspx
 
 Улучшение Web Forms с помощью шаблона MVP
 http://msdn.microsoft.com/ru-ru/magazine/ff955232.aspx
-
 
 MVVM
 ----

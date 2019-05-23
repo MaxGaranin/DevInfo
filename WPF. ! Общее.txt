@@ -206,6 +206,9 @@ https://habrahabr.ru/post/140876/
 
 Validation
 ----------
+! Data validation in WPF
+https://blog.magnusmontin.net/2013/08/26/data-validation-in-wpf/
+
 ! Validation in Windows Presentation Foundation
 http://www.codeproject.com/Articles/15239/Validation-in-Windows-Presentation-Foundation
 

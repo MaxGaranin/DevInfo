@@ -1,6 +1,9 @@
 
 Последнее
 ---------
+! Domain-driven design: рецепт для прагматика
+https://habr.com/ru/company/jugru/blog/440772/
+
 ! Применимость DDD (здорово!)
 http://blog.gandjustas.ru/2011/12/12/ddd/
 

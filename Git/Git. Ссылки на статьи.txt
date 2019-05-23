@@ -1,6 +1,9 @@
 
 Последнее
 ---------
+Flight rules for Git
+https://github.com/k88hudson/git-flight-rules
+
 Что новенького предлагает Git 2.7
 https://habrahabr.ru/post/276679/
 
