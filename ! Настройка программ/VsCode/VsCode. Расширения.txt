@@ -1,0 +1,46 @@
+
+Расширения (Extensions)
+-----------------------
+
+Использую
+---------
+Auto Close Tag
+Auto Import
+Auto Rename Tag
+Bracket Pair Colorizer
+CSS Formatter
+CSS Peek
+Debugger for Chrome
+Dociment This
+EditorConfig for VS Code
+ESLint
+HTML CSS Support
+Live Sass Compiler
+Live Server
+Prettier
+Settings Sync (не работает с прокси на работе)
+TortoiseGit Commands
+vscode-icons
+
+Angulat Files
+Angular Snippets (Version 8)
+Vetur
+
+Рекомендовали
+-------------
+Auto-Open Markdown Preview
+Beautify
+Better Comments
+Code Spell Checker
+Color Highlight
+CSS Navigation
+Git Graph
+Git History
+Git Merger
+GitLens — Git supercharged
+open in browser
+Russian Language Pack for Visual Studio Code
+Sass
+SCSS IntelliSense
+Brackets-highlighter
+Code Runner

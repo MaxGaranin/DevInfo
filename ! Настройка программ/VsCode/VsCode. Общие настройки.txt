@@ -39,32 +39,3 @@ Ctrl+Shift+P   - открытие панели конфигурирования
         "${file}"
     ]
 }
-
-Расширения (Extensions)
------------------------
-Auto Close Tag
-Auto Rename Tag
-Auto-Open Markdown Preview
-Beautify
-Better Comments
-Bracket Pair Colorizer
-Code Spell Checker
-Color Highlight
-CSS Navigation
-CSS Peek
-Debugger for Chrome
-EditorConfig for VS Code
-Git Graph
-Git History
-Git Merger
-GitLens — Git supercharged
-HTML CSS Support
-Live Sass Compiler
-Live Server
-open in browser
-Russian Language Pack for Visual Studio Code
-Sass
-SCSS IntelliSense
-Settings Sync
-TSLint (deprecated)
-vscode-icons
