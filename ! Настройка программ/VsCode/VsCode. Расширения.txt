@@ -11,20 +11,22 @@ Bracket Pair Colorizer
 CSS Formatter
 CSS Peek
 Debugger for Chrome
-Dociment This
+Document This
 EditorConfig for VS Code
 ESLint
 HTML CSS Support
 Live Sass Compiler
 Live Server
 Prettier
-Settings Sync (не работает с прокси на работе)
 TortoiseGit Commands
 vscode-icons
+XML Formatter
 
-Angulat Files
+Angular Files
 Angular Snippets (Version 8)
 Vetur
+#region folding for VS Code
+Settings Sync (не работает с прокси на работе)
 
 Рекомендовали
 -------------
